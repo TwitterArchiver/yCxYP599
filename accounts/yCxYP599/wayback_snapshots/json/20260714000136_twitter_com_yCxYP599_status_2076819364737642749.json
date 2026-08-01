@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "2076819364737642749",
+    "created_at": "2026-07-14T00:01:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T01:01:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076819364737642749"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076819364737642749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不管关系怎么样，如果有一天我死了，能拿我当假条的话，我只会祝福你们成功的。和我互关的可以喊这是我最好的朋友死了，互拉黑都可以喊因爱生恨是这样的，没爱过怎么会这么恨，什么互动也没有的就说在避嫌吧。什么样都行，我祝福你们。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "2076819364737642749",
+        "created_at": "2026-07-14T00:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T01:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076819364737642749"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076819364737642749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不管关系怎么样，如果有一天我死了，能拿我当假条的话，我只会祝福你们成功的。和我互关的可以喊这是我最好的朋友死了，互拉黑都可以喊因爱生恨是这样的，没爱过怎么会这么恨，什么互动也没有的就说在避嫌吧。什么样都行，我祝福你们。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "0.44km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 98,
+          "like_count": 13323,
+          "listed_count": 5,
+          "media_count": 131,
+          "tweet_count": 1919
+        },
+        "url": "",
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

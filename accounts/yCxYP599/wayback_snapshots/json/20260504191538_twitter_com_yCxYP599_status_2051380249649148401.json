@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "2051379297227595976",
+    "created_at": "2026-05-04T19:15:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T20:15:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051380249649148401"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051380249649148401",
+    "in_reply_to_user_id": "1805577098234675202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051379297227595976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "室友…对不起，昨晚我一直在想你大概什么时候会死。想得几乎有点失眠…我想我看到你的尸体会吓死，想到要给你养老送终也会被吓死。短暂同居万岁…我会天天给你找新鲜果蔬的，至少这几周里我们谁也别死…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051379290843783169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHf2mKpWIAEhubx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "2051379297227595976",
+        "created_at": "2026-05-04T19:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T20:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051380249649148401"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051380249649148401",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051379297227595976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "室友…对不起，昨晚我一直在想你大概什么时候会死。想得几乎有点失眠…我想我看到你的尸体会吓死，想到要给你养老送终也会被吓死。短暂同居万岁…我会天天给你找新鲜果蔬的，至少这几周里我们谁也别死…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051379290843783169"
+          ]
+        },
+        "author_id": "1805577098234675202",
+        "conversation_id": "2051379297227595976",
+        "created_at": "2026-05-04T19:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T20:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051379297227595976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wXEEHsU0wD",
+              "end": 120,
+              "expanded_url": "https://x.com/yCxYP599/status/2051379297227595976/photo/1",
+              "media_key": "3_2051379290843783169",
+              "start": 97,
+              "url": "https://t.co/wXEEHsU0wD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051379297227595976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不能理解室友是睡了还是死了，每三个小时去叫醒她一次。被室友咬了一口后终于安心了，很有力气。联系上室友妈妈的时候几乎要哭了，本来以为可能要负担小动物的生命沉重得不行。室友，我们就这么短暂同居吧。 https://t.co/wXEEHsU0wD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci  ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "夢",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1408,
+          "following_count": 94,
+          "like_count": 12784,
+          "listed_count": 5,
+          "media_count": 125,
+          "tweet_count": 1877
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1822929257909350400",
+        "3_1822929257913606144"
+      ],
+      "media_source_tweet_id": [
+        "1822929373139530210",
+        "1822929373139530210"
+      ]
+    },
+    "author_id": "1805577098234675202",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1822958366559519094",
+    "created_at": "2024-08-12T11:28:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T12:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822958366559519094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1729436345913995265",
+          "start": 3,
+          "username": "p1NRed1_A"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fwykhvbgsm",
+          "end": 43,
+          "expanded_url": "https://twitter.com/p1NRed1_A/status/1822929373139530210/video/1",
+          "media_key": "7_1822929257909350400",
+          "start": 20,
+          "url": "https://t.co/fwYkhVbGSM"
+        },
+        {
+          "display_url": "pic.x.com/fwykhvbgsm",
+          "end": 43,
+          "expanded_url": "https://twitter.com/p1NRed1_A/status/1822929373139530210/video/1",
+          "media_key": "3_1822929257913606144",
+          "start": 20,
+          "url": "https://t.co/fwYkhVbGSM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822958366559519094",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822929373139530210",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @p1NRed1_A: 蓝底马神 https://t.co/fwYkhVbGSM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20866,
+        "height": 1280,
+        "media_key": "7_1822929257909350400",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1822929257909350400/pu/img/r4H6SZ7bN9I46D5r.jpg",
+        "public_metrics": {
+          "view_count": 32
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1822929257909350400/pu/vid/avc1/320x568/p4sUSYFPKrKAlsFZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1822929257909350400/pu/vid/avc1/480x852/VxnePJl8TqsQxIOC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1822929257909350400/pu/vid/avc1/720x1280/MZ-BPdcyiTYARdW7.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1822929257909350400/pu/pl/MMHHw2re83bDzIgu.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1822929257913606144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUxYgHSbYAAzQgM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1822929257909350400",
+            "3_1822929257913606144"
+          ],
+          "media_source_tweet_id": [
+            "1822929373139530210",
+            "1822929373139530210"
+          ]
+        },
+        "author_id": "1805577098234675202",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1822958366559519094",
+        "created_at": "2024-08-12T11:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T12:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822958366559519094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1729436345913995265",
+              "start": 3,
+              "username": "p1NRed1_A"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fwykhvbgsm",
+              "end": 43,
+              "expanded_url": "https://twitter.com/p1NRed1_A/status/1822929373139530210/video/1",
+              "media_key": "7_1822929257909350400",
+              "start": 20,
+              "url": "https://t.co/fwYkhVbGSM"
+            },
+            {
+              "display_url": "pic.x.com/fwykhvbgsm",
+              "end": 43,
+              "expanded_url": "https://twitter.com/p1NRed1_A/status/1822929373139530210/video/1",
+              "media_key": "3_1822929257913606144",
+              "start": 20,
+              "url": "https://t.co/fwYkhVbGSM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822958366559519094",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822929373139530210",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @p1NRed1_A: 蓝底马神 https://t.co/fwYkhVbGSM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1822929257909350400",
+            "3_1822929257913606144"
+          ]
+        },
+        "author_id": "1729436345913995265",
+        "conversation_id": "1822929373139530210",
+        "created_at": "2024-08-12T09:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T10:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822929373139530210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fwykhvbgsm",
+              "end": 28,
+              "expanded_url": "https://twitter.com/p1NRed1_A/status/1822929373139530210/video/1",
+              "media_key": "7_1822929257909350400",
+              "start": 5,
+              "url": "https://t.co/fwYkhVbGSM"
+            },
+            {
+              "display_url": "pic.x.com/fwykhvbgsm",
+              "end": 28,
+              "expanded_url": "https://twitter.com/p1NRed1_A/status/1822929373139530210/video/1",
+              "media_key": "3_1822929257913606144",
+              "start": 5,
+              "url": "https://t.co/fwYkhVbGSM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822929373139530210",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "蓝底马神 https://t.co/fwYkhVbGSM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "湿哒哒的日记本，一直更新至终末的连载遗书\n你好，我是小次，很高兴遇见你\n涂鸦产出@jellyfishchi\n\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "jellyfishchi"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1809159826595033189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805582174843977731/MSJHMGOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 38,
+          "like_count": 3366,
+          "listed_count": 0,
+          "tweet_count": 619
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死死死死死",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1796726115651969363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821934382292074496/rpLF6Nd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 254,
+          "like_count": 670,
+          "listed_count": 0,
+          "tweet_count": 2327
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

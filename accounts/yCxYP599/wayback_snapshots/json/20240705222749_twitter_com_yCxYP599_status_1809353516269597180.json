@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1809257868815929781",
+    "created_at": "2024-07-05T22:27:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-05T23:27:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809353516269597180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1744320870800379904",
+          "start": 0,
+          "username": "386Nsg47079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809353516269597180",
+    "in_reply_to_user_id": "1744320870800379904",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809304714510758054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@386Nsg47079 就是嘛，神又不是许愿池💦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1809257868815929781",
+        "created_at": "2024-07-05T22:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T23:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809353516269597180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744320870800379904",
+              "start": 0,
+              "username": "386Nsg47079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809353516269597180",
+        "in_reply_to_user_id": "1744320870800379904",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809304714510758054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@386Nsg47079 就是嘛，神又不是许愿池💦！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1744320870800379904",
+        "conversation_id": "1809257868815929781",
+        "created_at": "2024-07-05T19:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T20:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809304714510758054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805577098234675202",
+              "start": 0,
+              "username": "yCxYP599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809304714510758054",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809257868815929781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yCxYP599 妈妈桑，对上帝的信仰不可以这么功利喔，这会将信仰异化成交易呢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "湿哒哒的日记本/谨慎翻阅/画画@jellyfishchi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "jellyfishchi"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1808644238873350411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805582174843977731/MSJHMGOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 17,
+          "like_count": 1122,
+          "listed_count": 0,
+          "tweet_count": 170
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T11:31:57.000Z",
+        "description": "这个家伙是一只电子幽灵👻",
+        "id": "1744320870800379904",
+        "name": "ToritORItorI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772211035233292289/psTy7f9g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 5,
+          "like_count": 23,
+          "listed_count": 0,
+          "tweet_count": 7
+        },
+        "username": "386Nsg47079",
+        "verified": false
+      }
+    ]
+  }
+}

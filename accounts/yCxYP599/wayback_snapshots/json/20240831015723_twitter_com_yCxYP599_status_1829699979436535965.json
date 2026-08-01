@@ -1,0 +1,125 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations about going out.",
+          "id": "1045046778876153856",
+          "name": "Going Out"
+        }
+      }
+    ],
+    "conversation_id": "1829699979436535965",
+    "created_at": "2024-08-31T01:57:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-31T02:57:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1829699979436535965"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1829699979436535965",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我居然只有一件长袖薄款的外出服…还是别人送的，门外的秋天在我这里不存在了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "1829699979436535965",
+        "created_at": "2024-08-31T01:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T02:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829699979436535965"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1829699979436535965",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我居然只有一件长袖薄款的外出服…还是别人送的，门外的秋天在我这里不存在了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你\n涂鸦产出@jellyfishchi\n非黄推，储存日记和绘画\n湿哒哒的日记本，一直更新至终末的连载遗书\n\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 19,
+                "username": "jellyfishchi"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829547304803856385/IRQ3P8pv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 55,
+          "like_count": 4013,
+          "listed_count": 2,
+          "tweet_count": 725
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

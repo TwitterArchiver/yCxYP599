@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1846969751106732384",
+    "created_at": "2024-10-18T06:36:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-18T07:36:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847164764239417495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1747659311302795264",
+          "start": 0,
+          "username": "lzyrain3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847164764239417495",
+    "in_reply_to_user_id": "1747659311302795264",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1846969751106732384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lzyrain3 神經啊…😦好駡！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1846969751106732384].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1846969751106732384",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1846969751106732384"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1846969751106732384",
+        "created_at": "2024-10-18T06:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-18T07:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847164764239417495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1747659311302795264",
+              "start": 0,
+              "username": "lzyrain3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847164764239417495",
+        "in_reply_to_user_id": "1747659311302795264",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1846969751106732384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzyrain3 神經啊…😦好駡！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你\n涂鸦产出@jellyfishci\n非黄推，储存日记和绘画\n湿哒哒的日记本，一直更新至终末的连载遗书\n\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829547304803856385/IRQ3P8pv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 59,
+          "like_count": 4760,
+          "listed_count": 2,
+          "tweet_count": 890
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-17T16:37:12.000Z",
+        "description": "i am Мария",
+        "id": "1747659311302795264",
+        "location": "小雨",
+        "name": "Маша",
+        "pinned_tweet_id": "1810328356493378039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774115808593264640/INWADDK2_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 14,
+          "like_count": 137,
+          "listed_count": 0,
+          "tweet_count": 588
+        },
+        "username": "lzyrain3",
+        "verified": false
+      }
+    ]
+  }
+}

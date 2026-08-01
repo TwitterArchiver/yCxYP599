@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983855905310756864"
+      ],
+      "media_source_tweet_id": [
+        "1983855937241874861"
+      ]
+    },
+    "author_id": "1805577098234675202",
+    "conversation_id": "1983863517833740665",
+    "created_at": "2025-10-30T11:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T12:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983863517833740665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1525352490467663872",
+          "start": 3,
+          "username": "RuinedBeauty_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2793QMLiSp",
+          "end": 48,
+          "expanded_url": "https://x.com/RuinedBeauty_/status/1983855937241874861/photo/1",
+          "media_key": "3_1983855905310756864",
+          "start": 25,
+          "url": "https://t.co/2793QMLiSp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983863517833740665",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983855937241874861",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RuinedBeauty_: 静かな事故 https://t.co/2793QMLiSp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983855905310756864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4gSb1mb0AAiKSH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983855905310756864"
+          ],
+          "media_source_tweet_id": [
+            "1983855937241874861"
+          ]
+        },
+        "author_id": "1805577098234675202",
+        "conversation_id": "1983863517833740665",
+        "created_at": "2025-10-30T11:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T12:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983863517833740665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1525352490467663872",
+              "start": 3,
+              "username": "RuinedBeauty_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2793QMLiSp",
+              "end": 48,
+              "expanded_url": "https://x.com/RuinedBeauty_/status/1983855937241874861/photo/1",
+              "media_key": "3_1983855905310756864",
+              "start": 25,
+              "url": "https://t.co/2793QMLiSp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983863517833740665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983855937241874861",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RuinedBeauty_: 静かな事故 https://t.co/2793QMLiSp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983855905310756864"
+          ]
+        },
+        "author_id": "1525352490467663872",
+        "conversation_id": "1983855937241874861",
+        "created_at": "2025-10-30T11:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T12:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983855937241874861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2793QMLiSp",
+              "end": 29,
+              "expanded_url": "https://x.com/RuinedBeauty_/status/1983855937241874861/photo/1",
+              "media_key": "3_1983855905310756864",
+              "start": 6,
+              "url": "https://t.co/2793QMLiSp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983855937241874861",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 372,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "静かな事故 https://t.co/2793QMLiSp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜\n涂鸦册@jellyfishci 储存日记和绘画，\n小女孩互fo欢迎DM ｜\n湿哒哒的日记本，一直更新至终末的连载遗书 ｜\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 88,
+          "like_count": 9964,
+          "listed_count": 3,
+          "media_count": 105,
+          "tweet_count": 1661
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T05:49:23.000Z",
+        "description": "佐藤 腐敗 (Fuhai Sato) | 🍓 Japanese artist | Chaos × Dark-cute ⚠️ Gore / surreal art – • Novels • Goods",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/fuhaio",
+                "end": 23,
+                "expanded_url": "https://lit.link/fuhaio",
+                "start": 0,
+                "url": "https://t.co/w9G59rmATA"
+              }
+            ]
+          }
+        },
+        "id": "1525352490467663872",
+        "location": "グッズ、書籍、作品購入⇒",
+        "name": "佐藤 腐敗 / Fuhai Sato",
+        "pinned_tweet_id": "1900502856970785152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960087027853959169/75LidLEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16742,
+          "following_count": 919,
+          "like_count": 24529,
+          "listed_count": 102,
+          "media_count": 152,
+          "tweet_count": 4037
+        },
+        "url": "https://t.co/w9G59rmATA",
+        "username": "RuinedBeauty_",
+        "verified": true
+      }
+    ]
+  }
+}

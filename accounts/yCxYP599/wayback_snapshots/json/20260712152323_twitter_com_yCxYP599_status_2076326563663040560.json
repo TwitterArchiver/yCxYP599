@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "2076022299883458968",
+    "created_at": "2026-07-12T15:23:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T16:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076326563663040560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1939338058199191553",
+          "start": 0,
+          "username": "konakonalo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076326563663040560",
+    "in_reply_to_user_id": "1939338058199191553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076309237568016413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@konakonalo 谢谢你w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "2076022299883458968",
+        "created_at": "2026-07-12T15:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076326563663040560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076326563663040560",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076309237568016413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konakonalo 谢谢你w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2076022299883458968",
+        "created_at": "2026-07-12T14:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076309237568016413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805577098234675202",
+              "start": 0,
+              "username": "yCxYP599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076309237568016413",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076022299883458968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yCxYP599 好可爱哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "0.44km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1444,
+          "following_count": 97,
+          "like_count": 13317,
+          "listed_count": 5,
+          "media_count": 132,
+          "tweet_count": 1917
+        },
+        "url": "",
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 164,
+          "like_count": 6814,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 822
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      }
+    ]
+  }
+}

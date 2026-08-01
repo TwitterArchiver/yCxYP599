@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002840930378809344"
+      ]
+    },
+    "author_id": "1805577098234675202",
+    "conversation_id": "2002840935223402553",
+    "created_at": "2025-12-21T20:37:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T21:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002840935223402553"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ib0za24y2n",
+          "end": 37,
+          "expanded_url": "https://x.com/yCxYP599/status/2002840935223402553/photo/1",
+          "media_key": "3_2002840930378809344",
+          "start": 14,
+          "url": "https://t.co/ib0za24y2n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002840935223402553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "做了项链，非常有裸露内容… https://t.co/ib0za24y2n"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2002840935223402553].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2002840935223402553",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2002840935223402553"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2002840930378809344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8uFNvTXgAA5YEG.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci  ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "夢",
+        "name": "一次性",
+        "pinned_tweet_id": "2000332704215396585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1295,
+          "following_count": 96,
+          "like_count": 11838,
+          "listed_count": 4,
+          "media_count": 118,
+          "tweet_count": 1814
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

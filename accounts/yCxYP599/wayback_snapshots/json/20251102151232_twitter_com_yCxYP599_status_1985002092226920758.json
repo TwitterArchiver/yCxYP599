@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1985002092226920758",
+    "created_at": "2025-11-02T15:12:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T16:12:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985002092226920758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1627413864756424704",
+          "start": 3,
+          "username": "Aphrodite_mis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985002092226920758",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984981685063373307",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aphrodite_mis: 人和人之间能互相理解的部分 是和自己重合的部分"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1985002092226920758",
+        "created_at": "2025-11-02T15:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T16:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985002092226920758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1627413864756424704",
+              "start": 3,
+              "username": "Aphrodite_mis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985002092226920758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984981685063373307",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aphrodite_mis: 人和人之间能互相理解的部分 是和自己重合的部分"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627413864756424704",
+        "conversation_id": "1984981685063373307",
+        "created_at": "2025-11-02T13:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T14:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984981685063373307"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984981685063373307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "人和人之间能互相理解的部分 是和自己重合的部分"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜\n涂鸦册@jellyfishci 储存日记和绘画，\n小女孩互fo欢迎DM ｜\n湿哒哒的日记本，一直更新至终末的连载遗书 ｜\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1984697712411853144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 88,
+          "like_count": 10031,
+          "listed_count": 3,
+          "media_count": 104,
+          "tweet_count": 1669
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T21:04:56.000Z",
+        "description": "一个绝望的寡妇 大号@Artemis_moon_12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "Artemis_moon_12"
+              }
+            ]
+          }
+        },
+        "id": "1627413864756424704",
+        "name": "阿尔忒弥斯",
+        "pinned_tweet_id": "1920720031005950316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961414183649742848/T9FZ9g0w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19696,
+          "following_count": 562,
+          "like_count": 203635,
+          "listed_count": 37,
+          "media_count": 2914,
+          "tweet_count": 49935
+        },
+        "username": "Aphrodite_mis",
+        "verified": false
+      }
+    ]
+  }
+}

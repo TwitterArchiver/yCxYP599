@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1852204113263559053",
+    "created_at": "2024-11-01T04:52:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-01T05:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852212171780018324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1840464851799592960",
+          "start": 0,
+          "username": "framadanan1987"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852212171780018324",
+    "in_reply_to_user_id": "1840464851799592960",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852204113263559053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@framadanan1987 丢莱卡的陈冠宇w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1852204113263559053",
+        "created_at": "2024-11-01T04:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T05:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852212171780018324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1840464851799592960",
+              "start": 0,
+              "username": "framadanan1987"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852212171780018324",
+        "in_reply_to_user_id": "1840464851799592960",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852204113263559053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@framadanan1987 丢莱卡的陈冠宇w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840464851799592960",
+        "conversation_id": "1852204113263559053",
+        "created_at": "2024-11-01T04:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T05:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852204113263559053"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1852204113263559053",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老师说我没有教养，流氓嫌我不够流氓。\n只有两件事擅长，就是沮丧和闲逛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你\n涂鸦产出@jellyfishci\n储存日记和绘画，社恐熟起来才会多讲话\n湿哒哒的日记本，一直更新至终末的连载遗书\n\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 60,
+          "like_count": 5481,
+          "listed_count": 2,
+          "tweet_count": 969
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-29T18:53:18.000Z",
+        "description": "ENTP｜高中生｜🏐️｜switch ｜摇滚乐｜我想和你们一起玩！！",
+        "id": "1840464851799592960",
+        "name": "蚵仔煎版阿鴉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850440300864610305/tIQ54Fvf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 104,
+          "like_count": 826,
+          "listed_count": 0,
+          "tweet_count": 201
+        },
+        "username": "framadanan1987",
+        "verified": false
+      }
+    ]
+  }
+}

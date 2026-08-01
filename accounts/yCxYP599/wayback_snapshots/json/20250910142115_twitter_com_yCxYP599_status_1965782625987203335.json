@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1965782625987203335",
+    "created_at": "2025-09-10T14:21:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T15:21:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965782625987203335"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bai57248/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/bai57248/status/1965760234905084025",
+          "start": 5,
+          "url": "https://t.co/Pt2vqixGin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965782625987203335",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965760234905084025",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "萌… … https://t.co/Pt2vqixGin"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965760222670323712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0fIgenbgAATvle.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1965782625987203335",
+        "created_at": "2025-09-10T14:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T15:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965782625987203335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bai57248/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/bai57248/status/1965760234905084025",
+              "start": 5,
+              "url": "https://t.co/Pt2vqixGin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965782625987203335",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965760234905084025",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "萌… … https://t.co/Pt2vqixGin"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965760222670323712"
+          ]
+        },
+        "author_id": "1677530479782768641",
+        "conversation_id": "1965760234905084025",
+        "created_at": "2025-09-10T12:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T13:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965760234905084025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1805577098234675202",
+              "start": 4,
+              "username": "yCxYP599"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J4TlwZy9dD",
+              "end": 37,
+              "expanded_url": "https://x.com/bai57248/status/1965760234905084025/photo/1",
+              "media_key": "3_1965760222670323712",
+              "start": 14,
+              "url": "https://t.co/J4TlwZy9dD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965760234905084025",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "画给次 @yCxYP599 https://t.co/J4TlwZy9dD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜\n涂鸦册@jellyfishci 储存日记和绘画，\n小女孩互fo欢迎DM ｜\n湿哒哒的日记本，一直更新至终末的连载遗书 ｜\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 90,
+          "like_count": 9729,
+          "listed_count": 4,
+          "media_count": 91,
+          "tweet_count": 1593
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T04:10:14.000Z",
+        "description": "泉//类日记，包含无意义喊话",
+        "id": "1677530479782768641",
+        "name": "丸山添白水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965408530112065536/-9vMzJGc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5907,
+          "following_count": 778,
+          "like_count": 41565,
+          "listed_count": 9,
+          "media_count": 1699,
+          "tweet_count": 10202
+        },
+        "username": "bai57248",
+        "verified": false
+      }
+    ]
+  }
+}

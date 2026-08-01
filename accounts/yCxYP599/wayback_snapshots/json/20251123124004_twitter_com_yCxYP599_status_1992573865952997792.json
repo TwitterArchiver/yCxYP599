@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992573799795990528"
+      ]
+    },
+    "author_id": "1805577098234675202",
+    "conversation_id": "1992573865952997792",
+    "created_at": "2025-11-23T12:40:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T13:40:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992573865952997792"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Rn1iAdrhox",
+          "end": 34,
+          "expanded_url": "https://x.com/yCxYP599/status/1992573865952997792/photo/1",
+          "media_key": "3_1992573799795990528",
+          "start": 11,
+          "url": "https://t.co/Rn1iAdrhox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992573865952997792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老师……有东西抓着我 https://t.co/Rn1iAdrhox"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 577,
+        "media_key": "3_1992573799795990528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6cLUFWXIAAAw87.png",
+        "width": 752
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992573799795990528"
+          ]
+        },
+        "author_id": "1805577098234675202",
+        "conversation_id": "1992573865952997792",
+        "created_at": "2025-11-23T12:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T13:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992573865952997792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rn1iAdrhox",
+              "end": 34,
+              "expanded_url": "https://x.com/yCxYP599/status/1992573865952997792/photo/1",
+              "media_key": "3_1992573799795990528",
+              "start": 11,
+              "url": "https://t.co/Rn1iAdrhox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992573865952997792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老师……有东西抓着我 https://t.co/Rn1iAdrhox"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci 储存日记和绘画 ｜ 湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1984697712411853144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 95,
+          "like_count": 10432,
+          "listed_count": 3,
+          "media_count": 106,
+          "tweet_count": 1708
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "2041087550790738095",
+    "created_at": "2026-04-06T09:49:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T10:49:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041090887875211541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1808933044545630208",
+          "start": 0,
+          "username": "TauCeti_10700"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041090887875211541",
+    "in_reply_to_user_id": "1808933044545630208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041087550790738095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TauCeti_10700 疯子啊…"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2041087550790738095].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2041087550790738095",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2041087550790738095"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "2041087550790738095",
+        "created_at": "2026-04-06T09:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T10:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041090887875211541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1808933044545630208",
+              "start": 0,
+              "username": "TauCeti_10700"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041090887875211541",
+        "in_reply_to_user_id": "1808933044545630208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041087550790738095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TauCeti_10700 疯子啊…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci  ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "夢",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1361,
+          "following_count": 93,
+          "like_count": 12439,
+          "listed_count": 5,
+          "media_count": 120,
+          "tweet_count": 1859
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T18:37:10.000Z",
+        "description": "穿越语言的壳，任思维溢出容器——请听，离群者无法永恒的悲歌。炽在水洼中的倒影，因为星光获得了生命 /Per aspera ad astra.",
+        "id": "1808933044545630208",
+        "location": "0°00′N 260°00′E Mars",
+        "name": "Pale Fire",
+        "pinned_tweet_id": "1821931308840325602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853163363142115328/S5o_Yawf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 64,
+          "like_count": 643,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 552
+        },
+        "username": "TauCeti_10700",
+        "verified": false
+      }
+    ]
+  }
+}

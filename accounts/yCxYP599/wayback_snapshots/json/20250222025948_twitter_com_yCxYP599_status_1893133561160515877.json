@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1893009636271284651",
+    "created_at": "2025-02-22T02:59:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T03:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893133561160515877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1481172876589821952",
+          "start": 0,
+          "username": "pyke2076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893133561160515877",
+    "in_reply_to_user_id": "1481172876589821952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893009636271284651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pyke2076 三文鱼大王"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1893009636271284651",
+        "created_at": "2025-02-22T02:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T03:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893133561160515877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "pyke2076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893133561160515877",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893009636271284651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyke2076 三文鱼大王"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "1893009636271284651",
+        "created_at": "2025-02-21T18:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T19:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893009636271284651"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893009636271284651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 248,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又要开始从事一份新的行业了🥺，决定去创业做生鲜超市..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你\n涂鸦册@jellyfishci\n储存日记和绘画，小女孩互fo欢迎DM\n湿哒哒的日记本，一直更新至终末的连载遗书\n\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1883053886740799913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 72,
+          "like_count": 7216,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 1202
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "当你离去之后，你仍在我的视线里。",
+        "id": "1481172876589821952",
+        "name": "bunny",
+        "pinned_tweet_id": "1851125622191329323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3597,
+          "following_count": 967,
+          "like_count": 45356,
+          "listed_count": 6,
+          "media_count": 2118,
+          "tweet_count": 11741
+        },
+        "username": "pyke2076",
+        "verified": false
+      }
+    ]
+  }
+}

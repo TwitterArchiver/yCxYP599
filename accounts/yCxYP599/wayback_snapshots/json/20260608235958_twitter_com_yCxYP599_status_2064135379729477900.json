@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "2064133805900783898",
+    "created_at": "2026-06-08T23:59:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T00:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064135379729477900"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064135379729477900",
+    "in_reply_to_user_id": "1805577098234675202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064133805900783898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉自己完全是冲动型，想到要计划只会缓缓栽倒在地板上。每一次崩溃的时候都只能拿着带安全网的眉刀生气，但平静的时候也做不出来做购买只是为了做这种事情预备着的东西的事情。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "2064133805900783898",
+        "created_at": "2026-06-08T23:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T00:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064135379729477900"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064135379729477900",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064133805900783898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉自己完全是冲动型，想到要计划只会缓缓栽倒在地板上。每一次崩溃的时候都只能拿着带安全网的眉刀生气，但平静的时候也做不出来做购买只是为了做这种事情预备着的东西的事情。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "2064133805900783898",
+        "created_at": "2026-06-08T23:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T00:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064133805900783898"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064133805900783898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有想过活到这一年往后的事情，再看未来总觉得空空荡荡、面目狰狞。感觉自己好像能接受随时结束，但当下也没有什么强烈的欲望去实施。真恐怖。往后我会变成什么样的怪物。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci  ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "夢",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1402,
+          "following_count": 95,
+          "like_count": 12882,
+          "listed_count": 5,
+          "media_count": 123,
+          "tweet_count": 1885
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

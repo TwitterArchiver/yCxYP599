@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1867809847829573934",
+    "created_at": "2024-12-14T05:52:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-14T06:52:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1867809847829573934"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yCxYP599/statu…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/yCxYP599/status/1847169884654080216",
+          "start": 55,
+          "url": "https://t.co/kgeRyV4PAp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867809847829573934",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847169884654080216",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在大游牧时代这段话还可以再讲很多很多次，不是画稿为生有时候都觉得愤怒。还是最喜欢这里的大家，谢谢你们包容我。 https://t.co/kgeRyV4PAp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1867809847829573934",
+        "created_at": "2024-12-14T05:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T06:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867809847829573934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yCxYP599/statu…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/yCxYP599/status/1847169884654080216",
+              "start": 55,
+              "url": "https://t.co/kgeRyV4PAp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867809847829573934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847169884654080216",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在大游牧时代这段话还可以再讲很多很多次，不是画稿为生有时候都觉得愤怒。还是最喜欢这里的大家，谢谢你们包容我。 https://t.co/kgeRyV4PAp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1847169884654080216",
+        "created_at": "2024-10-18T06:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-18T07:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847169884654080216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoyunatie/st…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/xiaoyunatie/status/1846832396827873554",
+              "start": 57,
+              "url": "https://t.co/yT4KL4uDJp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847169884654080216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 710,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1846832396827873554",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想到小紅書開始訓ai的時候大家也是抵制了一陣，最後還是躺倒了……在現實面前尊嚴不值一提，總是無路可走躺下的情況多 https://t.co/yT4KL4uDJp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你\n涂鸦产出@jellyfishci\n储存日记和绘画，社恐熟起来才会多讲话\n湿哒哒的日记本，一直更新至终末的连载遗书\n\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1850777772559663410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 61,
+          "like_count": 6148,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 1063
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

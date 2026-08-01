@@ -1,0 +1,565 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1871310204937392128"
+      ],
+      "media_source_tweet_id": [
+        "1871310210582876504"
+      ]
+    },
+    "author_id": "1805577098234675202",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      }
+    ],
+    "conversation_id": "1871562988379160681",
+    "created_at": "2024-12-24T14:26:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-24T15:26:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871562988379160681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1543517497416388608",
+          "start": 3,
+          "username": "KAMISILLUST"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZrmjKf8cyf",
+          "end": 52,
+          "expanded_url": "https://x.com/KAMISILLUST/status/1871310210582876504/photo/1",
+          "media_key": "3_1871310204937392128",
+          "start": 29,
+          "url": "https://t.co/ZrmjKf8cyf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871562988379160681",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 63
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871310210582876504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KAMISILLUST: さようなら、クリスマス https://t.co/ZrmjKf8cyf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2250,
+        "media_key": "3_1871310204937392128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gfg6t33bUAAJXpB.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871310204937392128"
+          ],
+          "media_source_tweet_id": [
+            "1871310210582876504"
+          ]
+        },
+        "author_id": "1805577098234675202",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "1871562988379160681",
+        "created_at": "2024-12-24T14:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T15:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871562988379160681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1543517497416388608",
+              "start": 3,
+              "username": "KAMISILLUST"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZrmjKf8cyf",
+              "end": 52,
+              "expanded_url": "https://x.com/KAMISILLUST/status/1871310210582876504/photo/1",
+              "media_key": "3_1871310204937392128",
+              "start": 29,
+              "url": "https://t.co/ZrmjKf8cyf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871562988379160681",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 63
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871310210582876504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KAMISILLUST: さようなら、クリスマス https://t.co/ZrmjKf8cyf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871310204937392128"
+          ]
+        },
+        "author_id": "1543517497416388608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "1871310210582876504",
+        "created_at": "2024-12-23T21:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-23T22:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871310210582876504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZrmjKf8cyf",
+              "end": 35,
+              "expanded_url": "https://x.com/KAMISILLUST/status/1871310210582876504/photo/1",
+              "media_key": "3_1871310204937392128",
+              "start": 12,
+              "url": "https://t.co/ZrmjKf8cyf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871310210582876504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 22352,
+          "like_count": 1676,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "さようなら、クリスマス https://t.co/ZrmjKf8cyf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你\n涂鸦产出@jellyfishci\n储存日记和绘画，社恐熟起来才会多讲话\n湿哒哒的日记本，一直更新至终末的连载遗书\n\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1850777772559663410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 64,
+          "like_count": 6349,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 1091
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-03T08:50:35.000Z",
+        "description": "デザイナーの仕事しながら、絵を描いてます✌️ Designer&Illustrator✍️ㅤ ハイライトに私服警官まとめてます👐 お仕事✉️k4misillustration@gmail.com skeb👉https://t.co/Jo79ATSP8k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@KAMISILLUST",
+                "end": 126,
+                "expanded_url": "https://skeb.jp/@KAMISILLUST",
+                "start": 103,
+                "url": "https://t.co/Jo79ATSP8k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/KAMISILLUSTRAT…",
+                "end": 23,
+                "expanded_url": "https://lit.link/KAMISILLUSTRATION",
+                "start": 0,
+                "url": "https://t.co/5gC1h8tKfu"
+              }
+            ]
+          }
+        },
+        "id": "1543517497416388608",
+        "location": "絵をアイコンなどに使う際はメンションしてね",
+        "name": "三酉かみ Sannotori Kami",
+        "pinned_tweet_id": "1797774131330785411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821453039569711104/KmIyg7tQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7835,
+          "following_count": 465,
+          "like_count": 36071,
+          "listed_count": 28,
+          "media_count": 296,
+          "tweet_count": 1124
+        },
+        "url": "https://t.co/5gC1h8tKfu",
+        "username": "KAMISILLUST",
+        "verified": true
+      }
+    ]
+  }
+}

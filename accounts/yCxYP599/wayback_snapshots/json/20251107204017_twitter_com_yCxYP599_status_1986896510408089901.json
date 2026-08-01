@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1986896510408089901",
+    "created_at": "2025-11-07T20:40:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T21:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986896510408089901"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1986896510408089901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想对自己负责点结果连喝了三天酒…出门一趟回来就很想死…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1986896510408089901",
+        "created_at": "2025-11-07T20:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T21:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986896510408089901"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986896510408089901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想对自己负责点结果连喝了三天酒…出门一趟回来就很想死…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜\n涂鸦册@jellyfishci 储存日记和绘画，\n小女孩互fo欢迎DM ｜\n湿哒哒的日记本，一直更新至终末的连载遗书 ｜\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1984697712411853144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 91,
+          "like_count": 10110,
+          "listed_count": 3,
+          "media_count": 106,
+          "tweet_count": 1686
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

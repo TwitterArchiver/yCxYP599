@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "2082157126688850254",
+    "created_at": "2026-07-28T17:31:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T18:31:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082157126688850254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1805577098234675202",
+          "start": 3,
+          "username": "yCxYP599"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082157126688850254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943968339841216584",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yCxYP599: 每个人认识第一个问题都是，你会待多久？好像是剩余寿命还有多久这样的问题。明日回，今日死。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "2082157126688850254",
+        "created_at": "2026-07-28T17:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T18:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082157126688850254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1805577098234675202",
+              "start": 3,
+              "username": "yCxYP599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082157126688850254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943968339841216584",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yCxYP599: 每个人认识第一个问题都是，你会待多久？好像是剩余寿命还有多久这样的问题。明日回，今日死。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1943968339841216584",
+        "created_at": "2025-07-12T09:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T10:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943968339841216584"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943968339841216584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 679,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "每个人认识第一个问题都是，你会待多久？好像是剩余寿命还有多久这样的问题。明日回，今日死。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "0.44km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1436,
+          "following_count": 98,
+          "like_count": 13402,
+          "listed_count": 5,
+          "media_count": 133,
+          "tweet_count": 1932
+        },
+        "url": "",
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

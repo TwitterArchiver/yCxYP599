@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1998082335129088165",
+    "created_at": "2025-12-08T17:28:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T18:28:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998082335129088165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1766349311259062273",
+          "start": 3,
+          "username": "jellyfishci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998082335129088165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805022409051033988",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jellyfishci: 想恋爱的心情只是想把自己人生的课题交给另一个人一起背负了而已。但做过课题的朋友都知道，除了组长会延毕之外，其他人说跑就跑啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1998082335129088165",
+        "created_at": "2025-12-08T17:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T18:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998082335129088165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1766349311259062273",
+              "start": 3,
+              "username": "jellyfishci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998082335129088165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805022409051033988",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jellyfishci: 想恋爱的心情只是想把自己人生的课题交给另一个人一起背负了而已。但做过课题的朋友都知道，除了组长会延毕之外，其他人说跑就跑啊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766349311259062273",
+        "conversation_id": "1805022409051033988",
+        "created_at": "2024-06-23T23:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T00:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805022409051033988"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1805022409051033988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1805,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "想恋爱的心情只是想把自己人生的课题交给另一个人一起背负了而已。但做过课题的朋友都知道，除了组长会延毕之外，其他人说跑就跑啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci 储存日记和绘画 ｜ 湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "夢",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 98,
+          "like_count": 11040,
+          "listed_count": 4,
+          "media_count": 110,
+          "tweet_count": 1749
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T06:24:41.000Z",
+        "description": "你好，我是小次 ｜ 这里是我连载的遗书｜垃圾堆@yCxYP599 合作可私信，请不要无断转载♡｜ 欢迎围观次用品的一次性人生｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "yCxYP599"
+              }
+            ]
+          }
+        },
+        "id": "1766349311259062273",
+        "location": "2km",
+        "name": "次用品",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995575888688107520/FMcGbzvT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 173,
+          "like_count": 5758,
+          "listed_count": 3,
+          "media_count": 34,
+          "tweet_count": 793
+        },
+        "username": "jellyfishci",
+        "verified": false
+      }
+    ]
+  }
+}

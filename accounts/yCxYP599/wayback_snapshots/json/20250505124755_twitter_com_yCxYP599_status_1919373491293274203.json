@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1919353374241116305",
+    "created_at": "2025-05-05T12:47:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T13:47:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919373491293274203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1808081236394758145",
+          "start": 0,
+          "username": "eclipse_1900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919373491293274203",
+    "in_reply_to_user_id": "1808081236394758145",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919353374241116305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eclipse_1900 求揭秘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1919353374241116305",
+        "created_at": "2025-05-05T12:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T13:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919373491293274203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1808081236394758145",
+              "start": 0,
+              "username": "eclipse_1900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919373491293274203",
+        "in_reply_to_user_id": "1808081236394758145",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919353374241116305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eclipse_1900 求揭秘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808081236394758145",
+        "conversation_id": "1919353374241116305",
+        "created_at": "2025-05-05T11:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T12:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919353374241116305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mrsqaq/status/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/mrsqaq/status/1919353167025729787",
+              "start": 11,
+              "url": "https://t.co/rEUde78di2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919353374241116305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 425,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919353167025729787",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "^^谁看到我的水印了 https://t.co/rEUde78di2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你\n涂鸦册@jellyfishci\n储存日记和绘画，小女孩互fo欢迎DM\n湿哒哒的日记本，一直更新至终末的连载遗书\n\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 78,
+          "like_count": 8432,
+          "listed_count": 3,
+          "media_count": 78,
+          "tweet_count": 1345
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T10:12:30.000Z",
+        "description": "生雀吻.",
+        "id": "1808081236394758145",
+        "location": "🚪288無營養陪聊",
+        "name": "罵死過人",
+        "pinned_tweet_id": "1833779123170521186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916507101733814272/f5Ur_zJx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50086,
+          "following_count": 82,
+          "like_count": 2370,
+          "listed_count": 111,
+          "media_count": 128,
+          "tweet_count": 1175
+        },
+        "username": "eclipse_1900",
+        "verified": false
+      }
+    ]
+  }
+}

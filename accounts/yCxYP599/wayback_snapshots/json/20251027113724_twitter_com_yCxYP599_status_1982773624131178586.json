@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1982771109222375697",
+    "created_at": "2025-10-27T11:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T12:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982773624131178586"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1982773624131178586",
+    "in_reply_to_user_id": "1805577098234675202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982771109222375697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一开始上推就是想搞这个精神病家庭oc，但是一直没状态。简单概括就是，一直在解决问题的靠谱人类01，一直在发疯的妈感人类02，因为全家都是精神病以为自己才不正常的初中生03，一直在考虑怎么弄死全家的精神病小学生04。没有血缘关系的精神病家族堂堂登场"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 877,
+        "media_key": "3_1982770867189755904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Q3mTnWsAAjCoW.png",
+        "width": 730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1982771109222375697",
+        "created_at": "2025-10-27T11:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T12:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982773624131178586"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982773624131178586",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982771109222375697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一开始上推就是想搞这个精神病家庭oc，但是一直没状态。简单概括就是，一直在解决问题的靠谱人类01，一直在发疯的妈感人类02，因为全家都是精神病以为自己才不正常的初中生03，一直在考虑怎么弄死全家的精神病小学生04。没有血缘关系的精神病家族堂堂登场"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982770867189755904"
+          ]
+        },
+        "author_id": "1805577098234675202",
+        "conversation_id": "1982771109222375697",
+        "created_at": "2025-10-27T11:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T12:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982771109222375697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZL7Fy5YE37",
+              "end": 39,
+              "expanded_url": "https://x.com/yCxYP599/status/1982771109222375697/photo/1",
+              "media_key": "3_1982770867189755904",
+              "start": 16,
+              "url": "https://t.co/ZL7Fy5YE37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982771109222375697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "03的画之 《我的妈妈 妈妈》 https://t.co/ZL7Fy5YE37"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜\n涂鸦册@jellyfishci 储存日记和绘画，\n小女孩互fo欢迎DM ｜\n湿哒哒的日记本，一直更新至终末的连载遗书 ｜\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 87,
+          "like_count": 9882,
+          "listed_count": 3,
+          "media_count": 101,
+          "tweet_count": 1644
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

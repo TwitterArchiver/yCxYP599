@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1879846247621877760"
+      ]
+    },
+    "author_id": "1805577098234675202",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1879846311836754404",
+    "created_at": "2025-01-16T11:01:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-16T12:01:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1879846311836754404"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jrx8f28nCa",
+          "end": 37,
+          "expanded_url": "https://x.com/yCxYP599/status/1879846311836754404/photo/1",
+          "media_key": "3_1879846247621877760",
+          "start": 14,
+          "url": "https://t.co/jrx8f28nCa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879846311836754404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "当你给小学生买了一包贴纸… https://t.co/jrx8f28nCa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_1879846247621877760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhaOM83aYAADQj4.jpg",
+        "width": 3986
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879846247621877760"
+          ]
+        },
+        "author_id": "1805577098234675202",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1879846311836754404",
+        "created_at": "2025-01-16T11:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T12:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879846311836754404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jrx8f28nCa",
+              "end": 37,
+              "expanded_url": "https://x.com/yCxYP599/status/1879846311836754404/photo/1",
+              "media_key": "3_1879846247621877760",
+              "start": 14,
+              "url": "https://t.co/jrx8f28nCa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879846311836754404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当你给小学生买了一包贴纸… https://t.co/jrx8f28nCa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你\n涂鸦册@jellyfishci\n储存日记和绘画，社恐熟起来才会多讲话\n湿哒哒的日记本，一直更新至终末的连载遗书\n\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 72,
+          "like_count": 6709,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 1132
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

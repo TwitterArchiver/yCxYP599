@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078201120158064640"
+      ]
+    },
+    "author_id": "1805577098234675202",
+    "conversation_id": "2078201995668676650",
+    "created_at": "2026-07-17T19:35:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T20:35:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078201995668676650"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kyCWV7AdKN",
+          "end": 78,
+          "expanded_url": "https://x.com/yCxYP599/status/2078201995668676650/photo/1",
+          "media_key": "3_2078201120158064640",
+          "start": 55,
+          "url": "https://t.co/kyCWV7AdKN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078201995668676650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "听一个朋友说感觉自己每年夏天都陷在一场幻觉里，在热到空气都变形的房间里，感觉时间是静止的，自己也是不存在的。 https://t.co/kyCWV7AdKN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 842,
+        "media_key": "3_2078201120158064640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNdA6HLXIAAKbz9.jpg",
+        "width": 1098
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078201120158064640"
+          ]
+        },
+        "author_id": "1805577098234675202",
+        "conversation_id": "2078201995668676650",
+        "created_at": "2026-07-17T19:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T20:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078201995668676650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kyCWV7AdKN",
+              "end": 78,
+              "expanded_url": "https://x.com/yCxYP599/status/2078201995668676650/photo/1",
+              "media_key": "3_2078201120158064640",
+              "start": 55,
+              "url": "https://t.co/kyCWV7AdKN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078201995668676650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听一个朋友说感觉自己每年夏天都陷在一场幻觉里，在热到空气都变形的房间里，感觉时间是静止的，自己也是不存在的。 https://t.co/kyCWV7AdKN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "0.44km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1445,
+          "following_count": 99,
+          "like_count": 13337,
+          "listed_count": 5,
+          "media_count": 134,
+          "tweet_count": 1924
+        },
+        "url": "",
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

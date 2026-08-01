@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1942001889165341008",
+    "created_at": "2025-07-07T14:02:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T15:02:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942222690187636797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1549443309130883072",
+          "start": 0,
+          "username": "siyueyue2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942222690187636797",
+    "in_reply_to_user_id": "1549443309130883072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942018670210998768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@siyueyue2 蜗牛迁徙中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1942001889165341008",
+        "created_at": "2025-07-07T14:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T15:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942222690187636797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1549443309130883072",
+              "start": 0,
+              "username": "siyueyue2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942222690187636797",
+        "in_reply_to_user_id": "1549443309130883072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942018670210998768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siyueyue2 蜗牛迁徙中"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549443309130883072",
+        "conversation_id": "1942001889165341008",
+        "created_at": "2025-07-07T00:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T01:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942018670210998768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805577098234675202",
+              "start": 0,
+              "username": "yCxYP599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942018670210998768",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942001889165341008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yCxYP599 我自己在哪里我家就在哪里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜\n涂鸦册@jellyfishci 储存日记和绘画，\n小女孩互fo欢迎DM ｜\n湿哒哒的日记本，一直更新至终末的连载遗书 ｜\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1941979940758397367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 85,
+          "like_count": 9273,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 1475
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-19T17:17:48.000Z",
+        "description": "我知道你会来，所以我一直在这里等",
+        "id": "1549443309130883072",
+        "location": "诸王峡谷",
+        "name": "狂追女神被扇五百个大嘴巴子",
+        "pinned_tweet_id": "1932321978729529522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932323142439190528/Kdo0B8wl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 400,
+          "like_count": 2715,
+          "listed_count": 4,
+          "media_count": 80,
+          "tweet_count": 856
+        },
+        "username": "siyueyue2",
+        "verified": false
+      }
+    ]
+  }
+}

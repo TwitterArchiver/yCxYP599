@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1841145768645898635",
+    "created_at": "2024-10-02T03:07:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-02T04:07:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841313937268277315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1775473332248625154",
+          "start": 0,
+          "username": "ww0426237376186"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841313937268277315",
+    "in_reply_to_user_id": "1775473332248625154",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841167412466762244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ww0426237376186 谢谢泥www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1841145768645898635",
+        "created_at": "2024-10-02T03:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T04:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841313937268277315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1775473332248625154",
+              "start": 0,
+              "username": "ww0426237376186"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841313937268277315",
+        "in_reply_to_user_id": "1775473332248625154",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841167412466762244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ww0426237376186 谢谢泥www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775473332248625154",
+        "conversation_id": "1841145768645898635",
+        "created_at": "2024-10-01T17:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T18:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841167412466762244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805577098234675202",
+              "start": 0,
+              "username": "yCxYP599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841167412466762244",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841145768645898635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yCxYP599 好可爱的小次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你\n涂鸦产出@jellyfishci\n非黄推，储存日记和绘画\n湿哒哒的日记本，一直更新至终末的连载遗书\n\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829547304803856385/IRQ3P8pv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 55,
+          "like_count": 4308,
+          "listed_count": 3,
+          "tweet_count": 804
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T10:40:12.000Z",
+        "description": "血を流す子供は私を使ってください✨",
+        "id": "1775473332248625154",
+        "name": "チーズ絆創膏",
+        "pinned_tweet_id": "1834445320396439915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835249258871889920/lSw-mh-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 393,
+          "like_count": 2894,
+          "listed_count": 1,
+          "tweet_count": 1643
+        },
+        "username": "ww0426237376186",
+        "verified": false
+      }
+    ]
+  }
+}

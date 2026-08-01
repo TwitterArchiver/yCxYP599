@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1935295101670133895",
+    "created_at": "2025-06-18T11:25:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T12:25:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935297889732866113"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1935297889732866113",
+    "in_reply_to_user_id": "1805577098234675202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935295101670133895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不想去聚餐…一对一的关系对我来说就是极限了。不休息很久没办法好好讲话…终于能好好讲话了…时间也过去了。我应该不要再打扰人类多看一点书吗…有什么可以吃掉寂寞呢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1935295101670133895",
+        "created_at": "2025-06-18T11:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T12:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935297889732866113"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935297889732866113",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935295101670133895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不想去聚餐…一对一的关系对我来说就是极限了。不休息很久没办法好好讲话…终于能好好讲话了…时间也过去了。我应该不要再打扰人类多看一点书吗…有什么可以吃掉寂寞呢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1935295101670133895",
+        "created_at": "2025-06-18T11:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T12:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935295101670133895"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935295101670133895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经常没有精力维持社交关系又很害怕一个人…还能再贱一点吗我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜\n涂鸦册@jellyfishci 储存日记和绘画，\n小女孩互fo欢迎DM ｜\n湿哒哒的日记本，一直更新至终末的连载遗书 ｜\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 82,
+          "like_count": 9040,
+          "listed_count": 3,
+          "media_count": 83,
+          "tweet_count": 1433
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

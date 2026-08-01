@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1817533770872000592",
+    "created_at": "2024-07-29T11:29:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-29T12:29:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817885097158467593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1737736976307195905",
+          "start": 0,
+          "username": "harugakira1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817885097158467593",
+    "in_reply_to_user_id": "1737736976307195905",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817582946909606312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@harugakira1 世界需要！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1817533770872000592",
+        "created_at": "2024-07-29T11:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-29T12:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817885097158467593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1737736976307195905",
+              "start": 0,
+              "username": "harugakira1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817885097158467593",
+        "in_reply_to_user_id": "1737736976307195905",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817582946909606312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@harugakira1 世界需要！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1737736976307195905",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1817533770872000592",
+        "created_at": "2024-07-28T15:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T16:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817582946909606312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805577098234675202",
+              "start": 0,
+              "username": "yCxYP599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817582946909606312",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817533770872000592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yCxYP599 世界需要搞笑漫画"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "湿哒哒的日记本，一直更新至终末的连载遗书\n你好，我是小次，很高兴遇见你\n涂鸦产出@jellyfishchi\n\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "jellyfishchi"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1809159826595033189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805582174843977731/MSJHMGOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 30,
+          "like_count": 2543,
+          "listed_count": 0,
+          "tweet_count": 434
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-21T07:29:22.000Z",
+        "description": "随机刷新随机消失的网友♡̷ ₍ᐢ..ᐢ₎♡",
+        "id": "1737736976307195905",
+        "location": "不加vx 看黄男关注拉黑",
+        "name": "扫地机器人",
+        "pinned_tweet_id": "1782431134577545369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797918716736495617/CwNU1qJ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 142,
+          "like_count": 6469,
+          "listed_count": 0,
+          "tweet_count": 6742
+        },
+        "username": "harugakira1",
+        "verified": false
+      }
+    ]
+  }
+}

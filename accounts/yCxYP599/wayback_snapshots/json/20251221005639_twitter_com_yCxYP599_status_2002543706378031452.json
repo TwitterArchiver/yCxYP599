@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "2002530719881703612",
+    "created_at": "2025-12-21T00:56:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T01:56:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002543706378031452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1825573182482563072",
+          "start": 0,
+          "username": "cotton0205"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002543706378031452",
+    "in_reply_to_user_id": "1825573182482563072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002530719881703612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cotton0205 诚恳推荐精神病女同文学…她是女子我也是女子…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2002530719881703612",
+        "created_at": "2025-12-21T00:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T01:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002543706378031452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1825573182482563072",
+              "start": 0,
+              "username": "cotton0205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002543706378031452",
+        "in_reply_to_user_id": "1825573182482563072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002530719881703612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cotton0205 诚恳推荐精神病女同文学…她是女子我也是女子…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825573182482563072",
+        "conversation_id": "2002530719881703612",
+        "created_at": "2025-12-21T00:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T01:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002530719881703612"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002530719881703612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有沒有類似紙房子之類的遊戲好喜歡這種 我不知道 女同傷痛文學（？）\n趙穎王藝菡徐敏敏你們幾個小女同害慘我了。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci  ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "夢",
+        "name": "一次性",
+        "pinned_tweet_id": "2000332704215396585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 96,
+          "like_count": 11842,
+          "listed_count": 4,
+          "media_count": 117,
+          "tweet_count": 1812
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-19T16:39:11.000Z",
+        "description": "叫我棉花叭｜#shtwt🈶",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 12,
+                "start": 6,
+                "tag": "shtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fufu39692",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fufu39692",
+                "start": 0,
+                "url": "https://t.co/Ywv1DqhjwJ"
+              }
+            ]
+          }
+        },
+        "id": "1825573182482563072",
+        "location": "🕊️",
+        "name": "棉棉眠𝚣 ᶻ ᴢ",
+        "pinned_tweet_id": "1995354136959959499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992950085391716352/dWxVbRV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 556,
+          "like_count": 29362,
+          "listed_count": 4,
+          "media_count": 284,
+          "tweet_count": 4109
+        },
+        "url": "https://t.co/Ywv1DqhjwJ",
+        "username": "cotton0205",
+        "verified": false
+      }
+    ]
+  }
+}

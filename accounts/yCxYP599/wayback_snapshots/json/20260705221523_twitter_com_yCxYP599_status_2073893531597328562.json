@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073890396870987776"
+      ]
+    },
+    "author_id": "1805577098234675202",
+    "conversation_id": "2073893531597328562",
+    "created_at": "2026-07-05T22:15:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T23:15:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073893531597328562"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tsor7sBX16",
+          "end": 156,
+          "expanded_url": "https://x.com/yCxYP599/status/2073893531597328562/photo/1",
+          "media_key": "3_2073890396870987776",
+          "start": 133,
+          "url": "https://t.co/tsor7sBX16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073893531597328562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小浣熊长得好丑毛也扎扎的，但抱起它就不想放下了，于是带回了家。突然想起小时候变故时期一直抱着睡觉的泰迪熊，也是这样扎扎的手感。被我用眼泪浸泡的熊，和我分享不安的熊，离开时觉得唯一重要的，却没带走的熊。以为不再抱着玩具哭就算长大，多么幼稚的年纪才会有的愚蠢的想法呀。 https://t.co/tsor7sBX16"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2073890396870987776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMfwU_iW0AAcbbP.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073890396870987776"
+          ]
+        },
+        "author_id": "1805577098234675202",
+        "conversation_id": "2073893531597328562",
+        "created_at": "2026-07-05T22:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T23:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073893531597328562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tsor7sBX16",
+              "end": 156,
+              "expanded_url": "https://x.com/yCxYP599/status/2073893531597328562/photo/1",
+              "media_key": "3_2073890396870987776",
+              "start": 133,
+              "url": "https://t.co/tsor7sBX16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073893531597328562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小浣熊长得好丑毛也扎扎的，但抱起它就不想放下了，于是带回了家。突然想起小时候变故时期一直抱着睡觉的泰迪熊，也是这样扎扎的手感。被我用眼泪浸泡的熊，和我分享不安的熊，离开时觉得唯一重要的，却没带走的熊。以为不再抱着玩具哭就算长大，多么幼稚的年纪才会有的愚蠢的想法呀。 https://t.co/tsor7sBX16"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "0.44km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1444,
+          "following_count": 97,
+          "like_count": 13158,
+          "listed_count": 5,
+          "media_count": 128,
+          "tweet_count": 1909
+        },
+        "url": "",
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

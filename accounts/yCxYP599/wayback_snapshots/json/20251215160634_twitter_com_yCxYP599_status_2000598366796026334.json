@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "2000500147684364579",
+    "created_at": "2025-12-15T16:06:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T17:06:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000598366796026334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1677530479782768641",
+          "start": 0,
+          "username": "bai57248"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000598366796026334",
+    "in_reply_to_user_id": "1677530479782768641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000574003027865756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bai57248 这个小水儿平时很惨了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "2000500147684364579",
+        "created_at": "2025-12-15T16:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T17:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000598366796026334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1677530479782768641",
+              "start": 0,
+              "username": "bai57248"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000598366796026334",
+        "in_reply_to_user_id": "1677530479782768641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000574003027865756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bai57248 这个小水儿平时很惨了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677530479782768641",
+        "conversation_id": "2000500147684364579",
+        "created_at": "2025-12-15T14:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T15:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000574003027865756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805577098234675202",
+              "start": 0,
+              "username": "yCxYP599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000574003027865756",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000502599007514762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yCxYP599 次的画会在5小时内推送到小水儿主页！除非这个水今天没有上推~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci  ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "夢",
+        "name": "一次性",
+        "pinned_tweet_id": "2000332704215396585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 95,
+          "like_count": 11505,
+          "listed_count": 4,
+          "media_count": 116,
+          "tweet_count": 1785
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T04:10:14.000Z",
+        "description": "泉//类日记//！！包含无意义喊话！！//\n@Melvin2048",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Melvin2048"
+              }
+            ]
+          }
+        },
+        "id": "1677530479782768641",
+        "name": "小水儿",
+        "pinned_tweet_id": "1975060397125423133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965408530112065536/-9vMzJGc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5743,
+          "following_count": 803,
+          "like_count": 47730,
+          "listed_count": 10,
+          "media_count": 1870,
+          "tweet_count": 11733
+        },
+        "username": "bai57248",
+        "verified": false
+      }
+    ]
+  }
+}

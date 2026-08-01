@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1811746483185811512",
+    "created_at": "2024-07-12T23:44:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-13T00:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1811909484450840595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1744320870800379904",
+          "start": 0,
+          "username": "386Nsg47079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811909484450840595",
+    "in_reply_to_user_id": "1744320870800379904",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811805781937041504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@386Nsg47079 诶谢谢你w但感觉次太笨了做不到hhh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1811746483185811512",
+        "created_at": "2024-07-12T23:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T00:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811909484450840595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744320870800379904",
+              "start": 0,
+              "username": "386Nsg47079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811909484450840595",
+        "in_reply_to_user_id": "1744320870800379904",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811805781937041504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@386Nsg47079 诶谢谢你w但感觉次太笨了做不到hhh"
+      },
+      {
+        "attachments": {},
+        "author_id": "1744320870800379904",
+        "conversation_id": "1811746483185811512",
+        "created_at": "2024-07-12T16:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T17:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811805781937041504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805577098234675202",
+              "start": 0,
+              "username": "yCxYP599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811805781937041504",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811746483185811512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yCxYP599 次老师要不也来试试写现代诗？次老师的文字非常有想象力呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "湿哒哒的日记本/谨慎翻阅/画画@jellyfishchi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "jellyfishchi"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1808644238873350411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805582174843977731/MSJHMGOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 26,
+          "like_count": 2059,
+          "listed_count": 0,
+          "tweet_count": 333
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T11:31:57.000Z",
+        "description": "欢迎来到我的博客。这个家伙是一只憧憬早期互联网的电子幽灵👻。会在博客里发一些诗歌和随想，欢迎交流喔。",
+        "id": "1744320870800379904",
+        "name": "ToritORItorI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772211035233292289/psTy7f9g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 7,
+          "like_count": 39,
+          "listed_count": 0,
+          "tweet_count": 15
+        },
+        "username": "386Nsg47079",
+        "verified": false
+      }
+    ]
+  }
+}

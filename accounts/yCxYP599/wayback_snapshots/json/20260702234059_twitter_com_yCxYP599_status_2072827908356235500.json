@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "2072827908356235500",
+    "created_at": "2026-07-02T23:40:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T00:40:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072827908356235500"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072827908356235500",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不知道为什么和食物的关系一直很糟糕，总感觉进食非常罪恶或者恶心，但也不是感觉不到饿的类型。所以不是一次吃的很饱，就是一直忍耐着。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "2072827908356235500",
+        "created_at": "2026-07-02T23:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T00:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072827908356235500"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072827908356235500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道为什么和食物的关系一直很糟糕，总感觉进食非常罪恶或者恶心，但也不是感觉不到饿的类型。所以不是一次吃的很饱，就是一直忍耐着。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "0.44km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1438,
+          "following_count": 96,
+          "like_count": 13091,
+          "listed_count": 5,
+          "media_count": 127,
+          "tweet_count": 1907
+        },
+        "url": "",
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

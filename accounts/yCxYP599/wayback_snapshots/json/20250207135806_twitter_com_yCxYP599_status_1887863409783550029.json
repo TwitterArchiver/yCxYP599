@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1887863409783550029",
+    "created_at": "2025-02-07T13:58:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T14:58:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887863409783550029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1721895937357004800",
+          "start": 3,
+          "username": "Strf_9040C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887863409783550029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884211140915519505",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Strf_9040C: 请注意\n亚硝酸钠所导致的呕吐是所有镇吐剂都不会管用的\n不要相信亚硝酸钠商贩口中所谓的镇吐剂\n亚硝酸钠所导致的呕吐是因为与胃酸反应所生成的二氧化氮所导致的胃内压增高，喷射性呕吐\n这使得所有镇吐药都无能为力\n亚硝酸钠的致死机理是产生严重的高铁血红蛋白…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1887863409783550029",
+        "created_at": "2025-02-07T13:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T14:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887863409783550029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1721895937357004800",
+              "start": 3,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887863409783550029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884211140915519505",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Strf_9040C: 请注意\n亚硝酸钠所导致的呕吐是所有镇吐剂都不会管用的\n不要相信亚硝酸钠商贩口中所谓的镇吐剂\n亚硝酸钠所导致的呕吐是因为与胃酸反应所生成的二氧化氮所导致的胃内压增高，喷射性呕吐\n这使得所有镇吐药都无能为力\n亚硝酸钠的致死机理是产生严重的高铁血红蛋白…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1884211140915519505",
+        "created_at": "2025-01-28T12:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T13:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884211140915519505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Strf_9040C/sta…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/Strf_9040C/status/1884209602910380298",
+              "start": 143,
+              "url": "https://t.co/csAhkddZBF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884211140915519505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 13576,
+          "like_count": 202,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884209602910380298",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请注意\n亚硝酸钠所导致的呕吐是所有镇吐剂都不会管用的\n不要相信亚硝酸钠商贩口中所谓的镇吐剂\n亚硝酸钠所导致的呕吐是因为与胃酸反应所生成的二氧化氮所导致的胃内压增高，喷射性呕吐\n这使得所有镇吐药都无能为力\n亚硝酸钠的致死机理是产生严重的高铁血红蛋白血症\n死相极其痛苦，与憋死无异\n望周知 https://t.co/csAhkddZBF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你\n涂鸦册@jellyfishci\n储存日记和绘画，小女孩互fo欢迎DM\n湿哒哒的日记本，一直更新至终末的连载遗书\n\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 71,
+          "like_count": 6991,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 1179
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 1625,
+          "like_count": 5180,
+          "listed_count": 1,
+          "media_count": 269,
+          "tweet_count": 598
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

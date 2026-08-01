@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "2076022299883458968",
+    "created_at": "2026-07-12T06:52:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T07:52:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076198039744548923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1825573182482563072",
+          "start": 0,
+          "username": "cotton0205"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076198039744548923",
+    "in_reply_to_user_id": "1825573182482563072",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076049222508642634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cotton0205 (´▽｀)…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "2076022299883458968",
+        "created_at": "2026-07-12T06:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076198039744548923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1825573182482563072",
+              "start": 0,
+              "username": "cotton0205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076198039744548923",
+        "in_reply_to_user_id": "1825573182482563072",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076049222508642634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cotton0205 (´▽｀)…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825573182482563072",
+        "conversation_id": "2076022299883458968",
+        "created_at": "2026-07-11T21:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T22:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076049222508642634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805577098234675202",
+              "start": 0,
+              "username": "yCxYP599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076049222508642634",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076022299883458968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yCxYP599 萌萌..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "0.44km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1444,
+          "following_count": 97,
+          "like_count": 13311,
+          "listed_count": 5,
+          "media_count": 131,
+          "tweet_count": 1915
+        },
+        "url": "",
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-19T16:39:11.000Z",
+        "description": "#shtwt｜GAD｜MDD｜SPD｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "1825573182482563072",
+        "location": "病み垢",
+        "name": "棉棉眠𝚣 ᶻ ᴢ",
+        "pinned_tweet_id": "2051988932863361520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992950085391716352/dWxVbRV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 601,
+          "like_count": 35770,
+          "listed_count": 4,
+          "media_count": 302,
+          "tweet_count": 4926
+        },
+        "url": "",
+        "username": "cotton0205",
+        "verified": false
+      }
+    ]
+  }
+}

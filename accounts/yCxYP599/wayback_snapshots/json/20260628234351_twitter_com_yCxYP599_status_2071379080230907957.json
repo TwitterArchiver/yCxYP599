@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "2070916200649892309",
+    "created_at": "2026-06-28T23:43:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T00:43:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071379080230907957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1787086493636521984",
+          "start": 0,
+          "username": "Lucifers6x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071379080230907957",
+    "in_reply_to_user_id": "1787086493636521984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070928329885004266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lucifers6x 完全真理…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "2070916200649892309",
+        "created_at": "2026-06-28T23:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T00:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071379080230907957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1787086493636521984",
+              "start": 0,
+              "username": "Lucifers6x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071379080230907957",
+        "in_reply_to_user_id": "1787086493636521984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070928329885004266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lucifers6x 完全真理…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787086493636521984",
+        "conversation_id": "2070916200649892309",
+        "created_at": "2026-06-27T17:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T18:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070928329885004266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805577098234675202",
+              "start": 0,
+              "username": "yCxYP599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070928329885004266",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070916200649892309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yCxYP599 我也是感觉别的药没啥用还不如安眠药最实用直接思想刹车意识停止"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "0.44km",
+        "name": "一次性",
+        "pinned_tweet_id": "2065890346039480494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1438,
+          "following_count": 97,
+          "like_count": 13023,
+          "listed_count": 5,
+          "media_count": 126,
+          "tweet_count": 1894
+        },
+        "url": "",
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-05T11:46:45.000Z",
+        "description": "｜这不公平的命指使我来的｜人生理想是干一休二十｜现在的理想是捡到一条十万的项链然后卖掉｜想哭就对了你生来就是流眼泪的｜别让我充满恨｜单机玩推，投射社交期待在我身上我会有压力",
+        "id": "1787086493636521984",
+        "location": "under ur skin",
+        "name": "文静7803",
+        "pinned_tweet_id": "2069707187488989359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941563908235395072/yxW678I__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2979,
+          "following_count": 108,
+          "like_count": 4864,
+          "listed_count": 3,
+          "media_count": 77,
+          "tweet_count": 2238
+        },
+        "url": "",
+        "username": "Lucifers6x",
+        "verified": false
+      }
+    ]
+  }
+}

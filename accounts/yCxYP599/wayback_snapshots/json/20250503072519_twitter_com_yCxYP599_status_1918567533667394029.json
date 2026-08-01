@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1918543622691045481",
+    "created_at": "2025-05-03T07:25:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T08:25:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918567533667394029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1817120099528265728",
+          "start": 0,
+          "username": "hX61zi4Jk332357"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918567533667394029",
+    "in_reply_to_user_id": "1817120099528265728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918543622691045481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hX61zi4Jk332357 这人偷我衣服"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1918543599651962882",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqAJPS9awAIN49g.jpg",
+        "width": 1554
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1918543599647780864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqAJPS8a8AAw5Wj.jpg",
+        "width": 1598
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1918543600008495104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqAJPUSbAAAyIWv.jpg",
+        "width": 1578
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1918543622691045481",
+        "created_at": "2025-05-03T07:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T08:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918567533667394029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1817120099528265728",
+              "start": 0,
+              "username": "hX61zi4Jk332357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918567533667394029",
+        "in_reply_to_user_id": "1817120099528265728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918543622691045481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hX61zi4Jk332357 这人偷我衣服"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918543599651962882",
+            "3_1918543599647780864",
+            "3_1918543600008495104"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1918543622691045481",
+        "created_at": "2025-05-03T05:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T06:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918543622691045481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QGzKmvlodJ",
+              "end": 35,
+              "expanded_url": "https://x.com/hX61zi4Jk332357/status/1918543622691045481/photo/1",
+              "media_key": "3_1918543599651962882",
+              "start": 12,
+              "url": "https://t.co/QGzKmvlodJ"
+            },
+            {
+              "display_url": "pic.x.com/QGzKmvlodJ",
+              "end": 35,
+              "expanded_url": "https://x.com/hX61zi4Jk332357/status/1918543622691045481/photo/1",
+              "media_key": "3_1918543599647780864",
+              "start": 12,
+              "url": "https://t.co/QGzKmvlodJ"
+            },
+            {
+              "display_url": "pic.x.com/QGzKmvlodJ",
+              "end": 35,
+              "expanded_url": "https://x.com/hX61zi4Jk332357/status/1918543622691045481/photo/1",
+              "media_key": "3_1918543600008495104",
+              "start": 12,
+              "url": "https://t.co/QGzKmvlodJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918543622691045481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 357,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "偷穿了那誰的衣服。。。 https://t.co/QGzKmvlodJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你\n涂鸦册@jellyfishci\n储存日记和绘画，小女孩互fo欢迎DM\n湿哒哒的日记本，一直更新至终末的连载遗书\n\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 77,
+          "like_count": 8400,
+          "listed_count": 3,
+          "media_count": 77,
+          "tweet_count": 1330
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "寄养狗@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "name": "绫波丽",
+        "pinned_tweet_id": "1891890602213806231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917351187906715649/LlKTLJLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8243,
+          "following_count": 49,
+          "like_count": 814,
+          "listed_count": 18,
+          "media_count": 197,
+          "tweet_count": 1178
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

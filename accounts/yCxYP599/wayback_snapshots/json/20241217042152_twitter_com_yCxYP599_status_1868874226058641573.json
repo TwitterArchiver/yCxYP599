@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868302490955141120"
+      ],
+      "media_source_tweet_id": [
+        "1868302493958144277"
+      ]
+    },
+    "author_id": "1805577098234675202",
+    "conversation_id": "1868874226058641573",
+    "created_at": "2024-12-17T04:21:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T05:21:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868874226058641573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1298988974971617288",
+          "start": 3,
+          "username": "AbeTetsutaro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hCM63u1Z7p",
+          "end": 41,
+          "expanded_url": "https://x.com/AbeTetsutaro/status/1868302493958144277/photo/1",
+          "media_key": "3_1868302490955141120",
+          "start": 18,
+          "url": "https://t.co/hCM63u1Z7p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868874226058641573",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 119
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868302493958144277",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AbeTetsutaro: https://t.co/hCM63u1Z7p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2104,
+        "media_key": "3_1868302490955141120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge2LN4Jb0AA4v4w.jpg",
+        "width": 1560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868302490955141120"
+          ],
+          "media_source_tweet_id": [
+            "1868302493958144277"
+          ]
+        },
+        "author_id": "1805577098234675202",
+        "conversation_id": "1868874226058641573",
+        "created_at": "2024-12-17T04:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T05:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868874226058641573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1298988974971617288",
+              "start": 3,
+              "username": "AbeTetsutaro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hCM63u1Z7p",
+              "end": 41,
+              "expanded_url": "https://x.com/AbeTetsutaro/status/1868302493958144277/photo/1",
+              "media_key": "3_1868302490955141120",
+              "start": 18,
+              "url": "https://t.co/hCM63u1Z7p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868874226058641573",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 119
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868302493958144277",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AbeTetsutaro: https://t.co/hCM63u1Z7p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868302490955141120"
+          ]
+        },
+        "author_id": "1298988974971617288",
+        "conversation_id": "1868302493958144277",
+        "created_at": "2024-12-15T14:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T15:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868302493958144277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hCM63u1Z7p",
+              "end": 23,
+              "expanded_url": "https://x.com/AbeTetsutaro/status/1868302493958144277/photo/1",
+              "media_key": "3_1868302490955141120",
+              "start": 0,
+              "url": "https://t.co/hCM63u1Z7p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868302493958144277",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 233,
+          "impression_count": 55354,
+          "like_count": 2528,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 119
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hCM63u1Z7p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你\n涂鸦产出@jellyfishci\n储存日记和绘画，社恐熟起来才会多讲话\n湿哒哒的日记本，一直更新至终末的连载遗书\n\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1850777772559663410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 61,
+          "like_count": 6189,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 1069
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-27T14:21:39.000Z",
+        "description": "ワインの印象を人体具象表現する彫刻家です。40代の間、ワインを題材に彫刻をつくるシリーズを展開します。あと２年はこの制作活動を続けます。最近では、小品彫刻は石膏型取りせず、粘土原型から直接３Dスキャンし、オリジナル原型をデジタル空間に存在させています。",
+        "id": "1298988974971617288",
+        "name": "阿部鉄太郎",
+        "pinned_tweet_id": "1867136704253243843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684197671463190529/wb9uGpK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5641,
+          "following_count": 108,
+          "like_count": 13244,
+          "listed_count": 87,
+          "media_count": 1073,
+          "tweet_count": 3250
+        },
+        "username": "AbeTetsutaro",
+        "verified": false
+      }
+    ]
+  }
+}

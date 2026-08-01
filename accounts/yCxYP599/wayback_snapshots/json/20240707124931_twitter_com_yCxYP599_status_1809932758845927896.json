@@ -1,0 +1,139 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1809929715391865009",
+    "created_at": "2024-07-07T12:49:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-07T13:49:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809932758845927896"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1809932758845927896",
+    "in_reply_to_user_id": "1805577098234675202",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809929715391865009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "打过黑工真的锻炼了我…大概再也没有比450包月改内容到凌晨停电了去楼道里找电源继续干活让我觉得自己更贱的时候了🙌🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1809929715391865009",
+        "created_at": "2024-07-07T12:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-07T13:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809932758845927896"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1809932758845927896",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809929715391865009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "打过黑工真的锻炼了我…大概再也没有比450包月改内容到凌晨停电了去楼道里找电源继续干活让我觉得自己更贱的时候了🙌🏻"
+      },
+      {
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1809929715391865009",
+        "created_at": "2024-07-07T12:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-07T13:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809929715391865009"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1809929715391865009",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是那种一边叫着请给我钱，有关系好的友友真给会跳起来说啊啊不用的人，很感动。如果未来真的有实际需求（主要是海报、logo、公众号和拍摄写真方向，有相关作品集提供），请不要怜惜地约🤲🏻。我是返工二十多次也支持修改的好工具。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "湿哒哒的日记本/谨慎翻阅/画画@jellyfishchi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "jellyfishchi"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1808644238873350411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805582174843977731/MSJHMGOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 20,
+          "like_count": 1348,
+          "listed_count": 0,
+          "tweet_count": 209
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

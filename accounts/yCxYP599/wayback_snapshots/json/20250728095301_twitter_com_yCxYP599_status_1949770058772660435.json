@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1949461787679854944",
+    "created_at": "2025-07-28T09:53:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T10:53:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949770058772660435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1627413864756424704",
+          "start": 0,
+          "username": "Aphrodite_mis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949770058772660435",
+    "in_reply_to_user_id": "1627413864756424704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949461787679854944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aphrodite_mis 像河流自然地流淌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1949461787679854944",
+        "created_at": "2025-07-28T09:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T10:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949770058772660435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1627413864756424704",
+              "start": 0,
+              "username": "Aphrodite_mis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949770058772660435",
+        "in_reply_to_user_id": "1627413864756424704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949461787679854944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aphrodite_mis 像河流自然地流淌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627413864756424704",
+        "conversation_id": "1949461787679854944",
+        "created_at": "2025-07-27T13:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T14:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949461787679854944"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949461787679854944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 404,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想通了 不管是现在过去未来的朋友 我都欢迎 对外开放 一些人不一定会维持什么关系 可能只会远远的偶尔看着 这样也挺好的 对我来说断开关系那就不关注对方了 因为对我来说那样那条断掉的线 我会自己缠上缘分的线 但对方不一定愿意 我也只能尊重对方的意愿 看对方就会忍不住贴近 所以不看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜\n涂鸦册@jellyfishci 储存日记和绘画，\n小女孩互fo欢迎DM ｜\n湿哒哒的日记本，一直更新至终末的连载遗书 ｜\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1947424901104865391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 86,
+          "like_count": 9542,
+          "listed_count": 3,
+          "media_count": 87,
+          "tweet_count": 1528
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T21:04:56.000Z",
+        "description": "一个绝望的寡妇 大号@Artemis_moon_12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "Artemis_moon_12"
+              }
+            ]
+          }
+        },
+        "id": "1627413864756424704",
+        "name": "阿尔忒弥斯",
+        "pinned_tweet_id": "1920720031005950316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935241081152516096/vYEP9_cn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19078,
+          "following_count": 584,
+          "like_count": 199480,
+          "listed_count": 36,
+          "media_count": 2833,
+          "tweet_count": 48936
+        },
+        "username": "Aphrodite_mis",
+        "verified": false
+      }
+    ]
+  }
+}

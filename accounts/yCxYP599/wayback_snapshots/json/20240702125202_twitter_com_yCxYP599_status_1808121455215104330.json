@@ -1,0 +1,207 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1808119012393447479",
+    "created_at": "2024-07-02T12:52:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-02T13:52:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808121455215104330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1741993395910811648",
+          "start": 0,
+          "username": "yi_ji42639"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808121455215104330",
+    "in_reply_to_user_id": "1741993395910811648",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808119012393447479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yi_ji42639 好东西就要来了，好好笑…抽象萌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1808119012393447479",
+        "created_at": "2024-07-02T12:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T13:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808121455215104330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741993395910811648",
+              "start": 0,
+              "username": "yi_ji42639"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808121455215104330",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808119012393447479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yi_ji42639 好东西就要来了，好好笑…抽象萌"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1808119008727584768",
+            "3_1808119008719167488",
+            "3_1808119008731746304"
+          ]
+        },
+        "author_id": "1741993395910811648",
+        "conversation_id": "1808119012393447479",
+        "created_at": "2024-07-02T12:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T13:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808119012393447479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/xVgQkJnNsz",
+              "end": 49,
+              "expanded_url": "https://twitter.com/yi_ji42639/status/1808119012393447479/photo/1",
+              "media_key": "3_1808119008727584768",
+              "start": 26,
+              "url": "https://t.co/xVgQkJnNsz"
+            },
+            {
+              "display_url": "pic.twitter.com/xVgQkJnNsz",
+              "end": 49,
+              "expanded_url": "https://twitter.com/yi_ji42639/status/1808119012393447479/photo/1",
+              "media_key": "3_1808119008719167488",
+              "start": 26,
+              "url": "https://t.co/xVgQkJnNsz"
+            },
+            {
+              "display_url": "pic.twitter.com/xVgQkJnNsz",
+              "end": 49,
+              "expanded_url": "https://twitter.com/yi_ji42639/status/1808119012393447479/photo/1",
+              "media_key": "3_1808119008731746304",
+              "start": 26,
+              "url": "https://t.co/xVgQkJnNsz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808119012393447479",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "win微软的翻译总给我一种抽象中带着可爱的感觉。。 https://t.co/xVgQkJnNsz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "湿哒哒的日记本/目前话非常多，不建议关注污染时间线，建议等@jellyfishchi凉了再来",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "jellyfishchi"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1807026922553217065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805582174843977731/MSJHMGOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 16,
+          "like_count": 797,
+          "listed_count": 0,
+          "tweet_count": 110
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。",
+        "id": "1741993395910811648",
+        "name": "炽烈已极",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 64,
+          "like_count": 736,
+          "listed_count": 0,
+          "tweet_count": 417
+        },
+        "username": "yi_ji42639",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073770409363988480"
+      ],
+      "media_source_tweet_id": [
+        "2073770413226881165"
+      ]
+    },
+    "author_id": "1805577098234675202",
+    "conversation_id": "2074082999633682775",
+    "created_at": "2026-07-06T10:48:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T11:48:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074082999633682775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1750176324440965120",
+          "start": 3,
+          "username": "ss1um"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mxFC2VCYVf",
+          "end": 34,
+          "expanded_url": "https://x.com/ss1um/status/2073770413226881165/photo/1",
+          "media_key": "3_2073770409363988480",
+          "start": 11,
+          "url": "https://t.co/mxFC2VCYVf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074082999633682775",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4366
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073770413226881165",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ss1um: https://t.co/mxFC2VCYVf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1908,
+        "media_key": "3_2073770409363988480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeDMzPbYAAYcpb.png",
+        "width": 1936
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073770409363988480"
+          ],
+          "media_source_tweet_id": [
+            "2073770413226881165"
+          ]
+        },
+        "author_id": "1805577098234675202",
+        "conversation_id": "2074082999633682775",
+        "created_at": "2026-07-06T10:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T11:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074082999633682775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1750176324440965120",
+              "start": 3,
+              "username": "ss1um"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mxFC2VCYVf",
+              "end": 34,
+              "expanded_url": "https://x.com/ss1um/status/2073770413226881165/photo/1",
+              "media_key": "3_2073770409363988480",
+              "start": 11,
+              "url": "https://t.co/mxFC2VCYVf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074082999633682775",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4366
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073770413226881165",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ss1um: https://t.co/mxFC2VCYVf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073770409363988480"
+          ]
+        },
+        "author_id": "1750176324440965120",
+        "conversation_id": "2073770413226881165",
+        "created_at": "2026-07-05T14:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073770413226881165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mxFC2VCYVf",
+              "end": 23,
+              "expanded_url": "https://x.com/ss1um/status/2073770413226881165/photo/1",
+              "media_key": "3_2073770409363988480",
+              "start": 0,
+              "url": "https://t.co/mxFC2VCYVf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073770413226881165",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1250,
+          "impression_count": 119418,
+          "like_count": 20163,
+          "quote_count": 65,
+          "reply_count": 9,
+          "retweet_count": 4366
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mxFC2VCYVf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "0.44km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1443,
+          "following_count": 97,
+          "like_count": 13170,
+          "listed_count": 5,
+          "media_count": 128,
+          "tweet_count": 1910
+        },
+        "url": "",
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T15:19:11.000Z",
+        "description": "장르팔 비추 Multifan // FUB free // !!Tw!!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kre.pe/6rq7",
+                "end": 23,
+                "expanded_url": "https://kre.pe/6rq7",
+                "start": 0,
+                "url": "https://t.co/XC2rNWEzUc"
+              }
+            ]
+          }
+        },
+        "id": "1750176324440965120",
+        "location": "they, them",
+        "name": "포타슘",
+        "pinned_tweet_id": "2072292335367713111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058930762234429440/cSA00-qS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 80,
+          "like_count": 17580,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 727
+        },
+        "url": "https://t.co/XC2rNWEzUc",
+        "username": "ss1um",
+        "verified": false
+      }
+    ]
+  }
+}

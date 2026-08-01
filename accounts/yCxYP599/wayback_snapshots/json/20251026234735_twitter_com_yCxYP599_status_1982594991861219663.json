@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982594880791625728"
+      ]
+    },
+    "author_id": "1805577098234675202",
+    "conversation_id": "1982594991861219663",
+    "created_at": "2025-10-26T23:47:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T00:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982594991861219663"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eEbaWJUYfl",
+          "end": 38,
+          "expanded_url": "https://x.com/yCxYP599/status/1982594991861219663/photo/1",
+          "media_key": "3_1982594880791625728",
+          "start": 15,
+          "url": "https://t.co/eEbaWJUYfl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982594991861219663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "姐姐说穿过这个环就是新世界哦 https://t.co/eEbaWJUYfl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 795,
+        "media_key": "3_1982594880791625728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4OXijMXwAArZBM.jpg",
+        "width": 1038
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982594880791625728"
+          ]
+        },
+        "author_id": "1805577098234675202",
+        "conversation_id": "1982594991861219663",
+        "created_at": "2025-10-26T23:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T00:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982594991861219663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eEbaWJUYfl",
+              "end": 38,
+              "expanded_url": "https://x.com/yCxYP599/status/1982594991861219663/photo/1",
+              "media_key": "3_1982594880791625728",
+              "start": 15,
+              "url": "https://t.co/eEbaWJUYfl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982594991861219663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "姐姐说穿过这个环就是新世界哦 https://t.co/eEbaWJUYfl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜\n涂鸦册@jellyfishci 储存日记和绘画，\n小女孩互fo欢迎DM ｜\n湿哒哒的日记本，一直更新至终末的连载遗书 ｜\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 87,
+          "like_count": 9872,
+          "listed_count": 3,
+          "media_count": 100,
+          "tweet_count": 1642
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

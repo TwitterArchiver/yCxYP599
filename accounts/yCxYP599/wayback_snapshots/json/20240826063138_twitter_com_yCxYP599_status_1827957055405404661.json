@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1827626860991348736"
+      ],
+      "media_source_tweet_id": [
+        "1827626868792815939"
+      ]
+    },
+    "author_id": "1805577098234675202",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1431017969627271169",
+          "name": "Short comics"
+        }
+      }
+    ],
+    "conversation_id": "1827957055405404661",
+    "created_at": "2024-08-26T06:31:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-26T07:31:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827957055405404661"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 72,
+          "start": 59,
+          "tag": "漫画が読めるハッシュタグ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1689849514478514176",
+          "start": 3,
+          "username": "kokage_hinata_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pp2j0dum2k",
+          "end": 96,
+          "expanded_url": "https://twitter.com/kokage_hinata_/status/1827626868792815939/photo/1",
+          "media_key": "3_1827626860991348736",
+          "start": 73,
+          "url": "https://t.co/pp2J0dUm2k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827957055405404661",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1137
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827626868792815939",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @kokage_hinata_: 生きがいを失ったその先にあるのは天国か地獄か？（※自死表現注意）\n（0/8）\n#漫画が読めるハッシュタグ https://t.co/pp2J0dUm2k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1827626860991348736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GV0I8mdaAAAaywT.jpg",
+        "width": 1433
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827626860991348736"
+          ],
+          "media_source_tweet_id": [
+            "1827626868792815939"
+          ]
+        },
+        "author_id": "1805577098234675202",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431017969627271169",
+              "name": "Short comics"
+            }
+          }
+        ],
+        "conversation_id": "1827957055405404661",
+        "created_at": "2024-08-26T06:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T07:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827957055405404661"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 59,
+              "tag": "漫画が読めるハッシュタグ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1689849514478514176",
+              "start": 3,
+              "username": "kokage_hinata_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pp2j0dum2k",
+              "end": 96,
+              "expanded_url": "https://twitter.com/kokage_hinata_/status/1827626868792815939/photo/1",
+              "media_key": "3_1827626860991348736",
+              "start": 73,
+              "url": "https://t.co/pp2J0dUm2k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827957055405404661",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1137
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827626868792815939",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @kokage_hinata_: 生きがいを失ったその先にあるのは天国か地獄か？（※自死表現注意）\n（0/8）\n#漫画が読めるハッシュタグ https://t.co/pp2J0dUm2k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827626860991348736"
+          ]
+        },
+        "author_id": "1689849514478514176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431017969627271169",
+              "name": "Short comics"
+            }
+          }
+        ],
+        "conversation_id": "1827626868792815939",
+        "created_at": "2024-08-25T08:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T09:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827626868792815939"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 39,
+              "tag": "漫画が読めるハッシュタグ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pp2j0dum2k",
+              "end": 76,
+              "expanded_url": "https://twitter.com/kokage_hinata_/status/1827626868792815939/photo/1",
+              "media_key": "3_1827626860991348736",
+              "start": 53,
+              "url": "https://t.co/pp2J0dUm2k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827626868792815939",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4749,
+          "impression_count": 4944374,
+          "like_count": 14262,
+          "quote_count": 114,
+          "reply_count": 22,
+          "retweet_count": 1137
+        },
+        "reply_settings": "following",
+        "text": "生きがいを失ったその先にあるのは天国か地獄か？（※自死表現注意）\n（0/8）\n#漫画が読めるハッシュタグ https://t.co/pp2J0dUm2k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "湿哒哒的日记本，一直更新至终末的连载遗书\n你好，我是小次，很高兴遇见你\n涂鸦产出@jellyfishchi\n非黄推，储存日记和绘画，评论冒犯会拉黑\n\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "jellyfishchi"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805582174843977731/MSJHMGOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 52,
+          "like_count": 3854,
+          "listed_count": 2,
+          "tweet_count": 693
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-11T04:01:45.000Z",
+        "description": "漫画。お仕事のお知らせやイベント参加情報など。過去作はリンクからどうぞ。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kokagehinata",
+                "end": 23,
+                "expanded_url": "https://lit.link/kokagehinata",
+                "start": 0,
+                "url": "https://t.co/BBgyp097wJ"
+              }
+            ]
+          }
+        },
+        "id": "1689849514478514176",
+        "name": "木陰ひな田",
+        "pinned_tweet_id": "1816449524686356661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755234117900451840/OfMcaew9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1571,
+          "following_count": 51,
+          "like_count": 1480,
+          "listed_count": 10,
+          "tweet_count": 894
+        },
+        "url": "https://t.co/BBgyp097wJ",
+        "username": "kokage_hinata_",
+        "verified": false
+      }
+    ]
+  }
+}

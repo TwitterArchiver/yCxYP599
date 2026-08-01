@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "2076818570185503073",
+    "created_at": "2026-07-13T23:58:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T00:58:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076818570185503073"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076818570185503073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "无论哪个医生都有问我有没有能聊聊近况的人，大概是评估的一环吧。感觉自己真的是个很死装的人，每次回答都超快速地补上一句，害怕别人会担心，所以没说过啦。实际上根本不是这么回事，我不觉得有谁真的会为我感到困扰，连我自己都没为自己负责。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "2076818570185503073",
+        "created_at": "2026-07-13T23:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T00:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076818570185503073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076818570185503073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无论哪个医生都有问我有没有能聊聊近况的人，大概是评估的一环吧。感觉自己真的是个很死装的人，每次回答都超快速地补上一句，害怕别人会担心，所以没说过啦。实际上根本不是这么回事，我不觉得有谁真的会为我感到困扰，连我自己都没为自己负责。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "0.44km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 98,
+          "like_count": 13323,
+          "listed_count": 5,
+          "media_count": 131,
+          "tweet_count": 1918
+        },
+        "url": "",
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

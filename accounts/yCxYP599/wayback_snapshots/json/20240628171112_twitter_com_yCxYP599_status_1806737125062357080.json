@@ -1,0 +1,181 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1806395700902846586",
+    "created_at": "2024-06-28T17:11:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-28T18:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806737125062357080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1109080684419670017",
+          "start": 0,
+          "username": "Arcee__RC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806737125062357080",
+    "in_reply_to_user_id": "1805577098234675202",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806735921162944551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arcee__RC 其次顺女的厕所本就危机重重，从生理构造导致的使用速度不同导致的同样数量隔间女性厕所等待时间更长到屡屡频发的男童该不该进女厕的争吵，到现在还要考虑如何不歧视地表达自己的不安实在是太荒唐了…既然自我认同是女性，比起同顺女抢这一点她们自己都可怜巴巴的权利，为什么不一起讨要我们的厕所2/2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1806395700902846586",
+        "created_at": "2024-06-28T17:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T18:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806737125062357080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1109080684419670017",
+              "start": 0,
+              "username": "Arcee__RC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806737125062357080",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806735921162944551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arcee__RC 其次顺女的厕所本就危机重重，从生理构造导致的使用速度不同导致的同样数量隔间女性厕所等待时间更长到屡屡频发的男童该不该进女厕的争吵，到现在还要考虑如何不歧视地表达自己的不安实在是太荒唐了…既然自我认同是女性，比起同顺女抢这一点她们自己都可怜巴巴的权利，为什么不一起讨要我们的厕所2/2"
+      },
+      {
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1806395700902846586",
+        "created_at": "2024-06-28T17:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T18:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806735921162944551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1109080684419670017",
+              "start": 0,
+              "username": "Arcee__RC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806735921162944551",
+        "in_reply_to_user_id": "1109080684419670017",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806395700902846586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arcee__RC 首先特别感谢RC老师强大的共情能力，温柔地看到了大家的困境…我理解尊重跨女们的需求，希望有更多第三性别厕所出现。但部分跨女在讲述自己的困境同时能不能也看见一下顺女们的困境，在这样一个被猥亵性骚扰奸杀高发的社会里，看到非顺女进入厕所产生不安是一定的（1/2）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "湿哒哒的日记本/目前话非常多，不建议关注污染时间线",
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1805970892264296540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805582174843977731/MSJHMGOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 4,
+          "like_count": 179,
+          "listed_count": 0,
+          "tweet_count": 36
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-22T13:13:35.000Z",
+        "description": "自我毁灭者的垂死挣扎\n药娘（如果不清楚药娘是什么 简单来说就是我是个死人妖）\n有偿妆教私信 偶尔掺杂点血图进主页  “入此门者当放弃一切希望。”",
+        "id": "1109080684419670017",
+        "location": "🚪88 （女孩子不用）",
+        "name": "阿尔茜",
+        "pinned_tweet_id": "1806325128701280716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805542188925042691/51j-7kaK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7475,
+          "following_count": 986,
+          "like_count": 15795,
+          "listed_count": 18,
+          "tweet_count": 10493
+        },
+        "username": "Arcee__RC",
+        "verified": false
+      }
+    ]
+  }
+}

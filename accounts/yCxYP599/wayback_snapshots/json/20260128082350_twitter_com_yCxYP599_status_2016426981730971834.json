@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "2016298810788487581",
+    "created_at": "2026-01-28T08:23:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T09:23:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016426981730971834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1942794868499038208",
+          "start": 0,
+          "username": "Bottomlove013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016426981730971834",
+    "in_reply_to_user_id": "1942794868499038208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016419391093801205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bottomlove013 这就是另外的梦了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "2016298810788487581",
+        "created_at": "2026-01-28T08:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T09:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016426981730971834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1942794868499038208",
+              "start": 0,
+              "username": "Bottomlove013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016426981730971834",
+        "in_reply_to_user_id": "1942794868499038208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016419391093801205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bottomlove013 这就是另外的梦了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942794868499038208",
+        "conversation_id": "2016298810788487581",
+        "created_at": "2026-01-28T07:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T08:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016419391093801205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805577098234675202",
+              "start": 0,
+              "username": "yCxYP599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016419391093801205",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016298810788487581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yCxYP599 在其他故事裡的我們會是怎麼樣的呢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci  ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "夢",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1405,
+          "following_count": 95,
+          "like_count": 12400,
+          "listed_count": 5,
+          "media_count": 120,
+          "tweet_count": 1834
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T03:56:13.000Z",
+        "description": "阿綠丨❗❗非正常人❗❗丨爆炸點很高但威力極大的的負能量核彈❗❗丨好脾氣但高攻高防丨冷熱二象性❗❗丨高強度衝浪丨破爛畫手丨遊戲宅丨邊緣透明人丨無病呻吟的文青病❗丨會祈禱的無神論者丨不常摘耳機的播客愛好者丨我會燃燒自己，然後復仇整個世界",
+        "id": "1942794868499038208",
+        "name": "Insane.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015830483226226688/5tzuzFSp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 12,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 68
+        },
+        "username": "Bottomlove013",
+        "verified": false
+      }
+    ]
+  }
+}

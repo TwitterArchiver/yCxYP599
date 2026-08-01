@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1894029127490929119",
+    "created_at": "2025-02-25T13:31:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T14:31:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894379713642336731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1737736976307195905",
+          "start": 0,
+          "username": "harugakira1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894379713642336731",
+    "in_reply_to_user_id": "1737736976307195905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894029127490929119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@harugakira1 如果没有强制措施应该也还好…可能要看当地医院这样，人人担心的话可以让她带点能玩的小东西…不然真的超级无聊可能"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1894029127490929119",
+        "created_at": "2025-02-25T13:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T14:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894379713642336731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1737736976307195905",
+              "start": 0,
+              "username": "harugakira1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894379713642336731",
+        "in_reply_to_user_id": "1737736976307195905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894029127490929119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@harugakira1 如果没有强制措施应该也还好…可能要看当地医院这样，人人担心的话可以让她带点能玩的小东西…不然真的超级无聊可能"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1737736976307195905",
+        "conversation_id": "1894029127490929119",
+        "created_at": "2025-02-24T14:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T15:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894029127490929119"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1894029127490929119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 220,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有互关因为心理问题住院过哇，我朋友被医生建议住院，有点担心她（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你\n涂鸦册@jellyfishci\n储存日记和绘画，小女孩互fo欢迎DM\n湿哒哒的日记本，一直更新至终末的连载遗书\n\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1883053886740799913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 75,
+          "like_count": 7383,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 1212
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-21T07:29:22.000Z",
+        "description": "随机刷新随机消失的网友♡̷ ₍ᐢ..ᐢ₎♡",
+        "id": "1737736976307195905",
+        "location": "你的衣柜里",
+        "name": "扫地机器人",
+        "pinned_tweet_id": "1821597349019578377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797918716736495617/CwNU1qJ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 153,
+          "like_count": 8855,
+          "listed_count": 0,
+          "media_count": 401,
+          "tweet_count": 8367
+        },
+        "username": "harugakira1",
+        "verified": false
+      }
+    ]
+  }
+}

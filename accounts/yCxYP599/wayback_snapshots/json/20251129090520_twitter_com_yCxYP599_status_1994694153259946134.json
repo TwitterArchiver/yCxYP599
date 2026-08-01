@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1994447773337317440",
+    "created_at": "2025-11-29T09:05:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T10:05:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994694153259946134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1782317457946140672",
+          "start": 0,
+          "username": "MingYuan25560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994694153259946134",
+    "in_reply_to_user_id": "1782317457946140672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994467367330414699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MingYuan25560 谢谢你！^^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1994447773337317440",
+        "created_at": "2025-11-29T09:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T10:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994694153259946134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1782317457946140672",
+              "start": 0,
+              "username": "MingYuan25560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994694153259946134",
+        "in_reply_to_user_id": "1782317457946140672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994467367330414699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MingYuan25560 谢谢你！^^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782317457946140672",
+        "conversation_id": "1994447773337317440",
+        "created_at": "2025-11-28T18:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T19:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994467367330414699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805577098234675202",
+              "start": 0,
+              "username": "yCxYP599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994467367330414699",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994447773337317440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yCxYP599 非常的可爱🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci 储存日记和绘画 ｜ 湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1992926630533308432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1312,
+          "following_count": 95,
+          "like_count": 10724,
+          "listed_count": 4,
+          "media_count": 104,
+          "tweet_count": 1724
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T07:56:31.000Z",
+        "description": "你好，我是上清明源，想和大家聊天和互动，喜欢绘画、游戏王，在学日语\n（(●´∀｀●)）\nこんにちは、私は上清明源で、みんなとチャットしてインタラクティブになりたいです、絵が好きで、遊戯王は日本語を勉強しています(●´∀｀●)",
+        "id": "1782317457946140672",
+        "location": "壱世壊＝ペルレイノ",
+        "name": "上清明源",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852414479180419073/NVVv9Q5r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 1603,
+          "like_count": 3279,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 416
+        },
+        "username": "MingYuan25560",
+        "verified": false
+      }
+    ]
+  }
+}

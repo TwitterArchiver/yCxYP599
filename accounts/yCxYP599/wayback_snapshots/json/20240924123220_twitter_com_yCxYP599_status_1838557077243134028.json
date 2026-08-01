@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1838478851963523302",
+    "created_at": "2024-09-24T12:32:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-24T13:32:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838557077243134028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1785505247575805953",
+          "start": 0,
+          "username": "R1ka_uniguri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838557077243134028",
+    "in_reply_to_user_id": "1785505247575805953",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838482256358445513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R1ka_uniguri 谢谢rika酱ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1838478851963523302",
+        "created_at": "2024-09-24T12:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T13:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838557077243134028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1785505247575805953",
+              "start": 0,
+              "username": "R1ka_uniguri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838557077243134028",
+        "in_reply_to_user_id": "1785505247575805953",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838482256358445513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R1ka_uniguri 谢谢rika酱ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785505247575805953",
+        "conversation_id": "1838478851963523302",
+        "created_at": "2024-09-24T07:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T08:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838482256358445513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805577098234675202",
+              "start": 0,
+              "username": "yCxYP599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838482256358445513",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838478851963523302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yCxYP599 辛苦了！出院恭喜🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你\n涂鸦产出@jellyfishci\n非黄推，储存日记和绘画\n湿哒哒的日记本，一直更新至终末的连载遗书\n\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829547304803856385/IRQ3P8pv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 55,
+          "like_count": 4146,
+          "listed_count": 3,
+          "tweet_count": 785
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-01T03:03:28.000Z",
+        "description": "倩佳\n\nhttps://t.co/LoBA2U2DRp\n\n💧：@somaruriro",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "somaruriro"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/en/rikauniguri",
+                "end": 27,
+                "expanded_url": "https://lit.link/en/rikauniguri",
+                "start": 4,
+                "url": "https://t.co/LoBA2U2DRp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@somaruriro?si…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@somaruriro?si=iMJ2CxY-vlXA-2F8",
+                "start": 0,
+                "url": "https://t.co/Pc3oGFpn0m"
+              }
+            ]
+          }
+        },
+        "id": "1785505247575805953",
+        "location": "我推的頻道➡️",
+        "name": "リカ🧊",
+        "pinned_tweet_id": "1837986302584930374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835054658790051840/yP8BoGZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 232,
+          "like_count": 2217,
+          "listed_count": 0,
+          "tweet_count": 4087
+        },
+        "url": "https://t.co/Pc3oGFpn0m",
+        "username": "R1ka_uniguri",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1986857243506086366",
+    "created_at": "2025-11-07T18:04:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T19:04:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986857243506086366"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1986857243506086366",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的不是做兼职的料，交流超过一个半小时感觉我的手耳鼻口都在融化成一滩水。好在这份工作与其说是家教，更像是一种单纯的陪聊；也好在我的学生刚刚学会说话，所以他滔滔不绝地一直讲下去并不需要太多回应…我有时常常会想，很久以后，当他再想起我，到底首先是那门古怪的语言，还是那滩茫然的潮湿。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1986857243506086366",
+        "created_at": "2025-11-07T18:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T19:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986857243506086366"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986857243506086366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的不是做兼职的料，交流超过一个半小时感觉我的手耳鼻口都在融化成一滩水。好在这份工作与其说是家教，更像是一种单纯的陪聊；也好在我的学生刚刚学会说话，所以他滔滔不绝地一直讲下去并不需要太多回应…我有时常常会想，很久以后，当他再想起我，到底首先是那门古怪的语言，还是那滩茫然的潮湿。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜\n涂鸦册@jellyfishci 储存日记和绘画，\n小女孩互fo欢迎DM ｜\n湿哒哒的日记本，一直更新至终末的连载遗书 ｜\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1984697712411853144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 91,
+          "like_count": 10108,
+          "listed_count": 3,
+          "media_count": 106,
+          "tweet_count": 1684
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

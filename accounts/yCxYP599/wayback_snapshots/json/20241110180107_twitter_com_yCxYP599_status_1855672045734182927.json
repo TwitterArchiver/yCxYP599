@@ -1,0 +1,103 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1855672045734182927",
+    "created_at": "2024-11-10T18:01:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-10T19:01:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1855672045734182927"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1855672045734182927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近有在现实生活里认识不少的新的朋友…有聊得话不投机半句多的，也有比较能讲得来一点的。＼(;´□｀)/但到底是新认识的人，疯狂被害妄想症一直在纠结这样或者那样的回复会不会让对方不高兴，同时高频率聊天的人超过一个单线程处理器就崩溃了，于是又来当乌龟… …只能和一个人相处的小小的心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1855672045734182927",
+        "created_at": "2024-11-10T18:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T19:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855672045734182927"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1855672045734182927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近有在现实生活里认识不少的新的朋友…有聊得话不投机半句多的，也有比较能讲得来一点的。＼(;´□｀)/但到底是新认识的人，疯狂被害妄想症一直在纠结这样或者那样的回复会不会让对方不高兴，同时高频率聊天的人超过一个单线程处理器就崩溃了，于是又来当乌龟… …只能和一个人相处的小小的心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你\n涂鸦产出@jellyfishci\n储存日记和绘画，社恐熟起来才会多讲话\n湿哒哒的日记本，一直更新至终末的连载遗书\n\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 60,
+          "like_count": 5664,
+          "listed_count": 2,
+          "tweet_count": 996
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

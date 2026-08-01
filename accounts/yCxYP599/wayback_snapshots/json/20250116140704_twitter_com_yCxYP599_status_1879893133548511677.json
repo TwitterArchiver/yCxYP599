@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1879893133548511677",
+    "created_at": "2025-01-16T14:07:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-16T15:07:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1879893133548511677"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1879893133548511677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不知道怎么回的时候就打开你们主页视奸一下狂点赞👉🏻👈🏻，讨厌这样请告诉我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1879893133548511677",
+        "created_at": "2025-01-16T14:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T15:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879893133548511677"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1879893133548511677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道怎么回的时候就打开你们主页视奸一下狂点赞👉🏻👈🏻，讨厌这样请告诉我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你\n涂鸦册@jellyfishci\n储存日记和绘画，社恐熟起来才会多讲话\n湿哒哒的日记本，一直更新至终末的连载遗书\n\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 72,
+          "like_count": 6722,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 1135
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

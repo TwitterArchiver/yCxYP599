@@ -1,0 +1,96 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1809257868815929781",
+    "created_at": "2024-07-05T16:07:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-05T17:07:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1809257868815929781"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1809257868815929781",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我和教会的爱恨情仇可以说讲十天十夜都讲不完，而且是现在进行时。昨天妈妈酱还非得说教会某某能进哪里是因为在悉尼读书时就当侍奉（教会义工），回国了也是侍奉。我说妈妈酱，有没有种可能，这是因为他本科就狂投简历呢？妈妈：这也是神给他安排的一部分啊。你看你活到现在也是妈妈日夜祈祷的安排。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1809257868815929781",
+        "created_at": "2024-07-05T16:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T17:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809257868815929781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1809257868815929781",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和教会的爱恨情仇可以说讲十天十夜都讲不完，而且是现在进行时。昨天妈妈酱还非得说教会某某能进哪里是因为在悉尼读书时就当侍奉（教会义工），回国了也是侍奉。我说妈妈酱，有没有种可能，这是因为他本科就狂投简历呢？妈妈：这也是神给他安排的一部分啊。你看你活到现在也是妈妈日夜祈祷的安排。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "湿哒哒的日记本/谨慎翻阅/画画@jellyfishchi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "jellyfishchi"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1808644238873350411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805582174843977731/MSJHMGOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 17,
+          "like_count": 1116,
+          "listed_count": 0,
+          "tweet_count": 168
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

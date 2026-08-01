@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1830072220204613633",
+    "created_at": "2024-09-01T02:36:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-01T03:36:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1830072220204613633"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ww042623737618…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/ww0426237376186/status/1829936371315982689",
+          "start": 42,
+          "url": "https://t.co/WMSMK4pRR6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830072220204613633",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829936371315982689",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "昨天断片前看到这句，喷了。好幽默抽象，如果人类有评价区，大家能不能写这个给我。。。 https://t.co/WMSMK4pRR6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1830072220204613633",
+        "created_at": "2024-09-01T02:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T03:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830072220204613633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ww042623737618…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/ww0426237376186/status/1829936371315982689",
+              "start": 42,
+              "url": "https://t.co/WMSMK4pRR6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830072220204613633",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829936371315982689",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨天断片前看到这句，喷了。好幽默抽象，如果人类有评价区，大家能不能写这个给我。。。 https://t.co/WMSMK4pRR6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775473332248625154",
+        "conversation_id": "1829935992255734045",
+        "created_at": "2024-08-31T17:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T18:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829936371315982689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805577098234675202",
+              "start": 0,
+              "username": "yCxYP599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829936371315982689",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829935992255734045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yCxYP599 小次你活出个精彩绝伦🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你\n涂鸦产出@jellyfishchi\n非黄推，储存日记和绘画\n湿哒哒的日记本，一直更新至终末的连载遗书\n\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 19,
+                "username": "jellyfishchi"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829547304803856385/IRQ3P8pv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 55,
+          "like_count": 4035,
+          "listed_count": 3,
+          "tweet_count": 734
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T10:40:12.000Z",
+        "description": "？游荡中一般人类",
+        "id": "1775473332248625154",
+        "name": "芝士分母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817457695743758336/EZiuobfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 790,
+          "like_count": 2356,
+          "listed_count": 1,
+          "tweet_count": 1153
+        },
+        "username": "ww0426237376186",
+        "verified": false
+      }
+    ]
+  }
+}

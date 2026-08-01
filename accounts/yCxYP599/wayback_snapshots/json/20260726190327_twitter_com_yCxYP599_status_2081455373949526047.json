@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "2081439967260074433",
+    "created_at": "2026-07-26T19:03:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T20:03:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081455373949526047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1919960923361705984",
+          "start": 0,
+          "username": "kk9977ala"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081455373949526047",
+    "in_reply_to_user_id": "1919960923361705984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081442078182211762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kk9977ala 谢谢你，清醒中…！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "2081439967260074433",
+        "created_at": "2026-07-26T19:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T20:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081455373949526047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1919960923361705984",
+              "start": 0,
+              "username": "kk9977ala"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081455373949526047",
+        "in_reply_to_user_id": "1919960923361705984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081442078182211762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kk9977ala 谢谢你，清醒中…！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919960923361705984",
+        "conversation_id": "2081439967260074433",
+        "created_at": "2026-07-26T18:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081442078182211762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805577098234675202",
+              "start": 0,
+              "username": "yCxYP599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081442078182211762",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081439967260074433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yCxYP599 补药吃过期的东西啊！老师！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "0.44km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1436,
+          "following_count": 98,
+          "like_count": 13363,
+          "listed_count": 5,
+          "media_count": 133,
+          "tweet_count": 1930
+        },
+        "url": "",
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-07T03:42:20.000Z",
+        "description": "遇见我算你好运！",
+        "id": "1919960923361705984",
+        "name": "疯狂邪恶穷狗",
+        "pinned_tweet_id": "1986044075720716573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029977547124133890/w00m28VH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 481,
+          "like_count": 679,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 600
+        },
+        "url": "",
+        "username": "kk9977ala",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1941979940758397367",
+    "created_at": "2025-07-06T23:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T00:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942000977885659321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "878554135360004096",
+          "start": 0,
+          "username": "IIIIlnk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942000977885659321",
+    "in_reply_to_user_id": "878554135360004096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941983373821648960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IIIIlnk 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1941979940758397367",
+        "created_at": "2025-07-06T23:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T00:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942000977885659321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "878554135360004096",
+              "start": 0,
+              "username": "IIIIlnk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942000977885659321",
+        "in_reply_to_user_id": "878554135360004096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941983373821648960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IIIIlnk 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878554135360004096",
+        "conversation_id": "1941979940758397367",
+        "created_at": "2025-07-06T22:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T23:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941983373821648960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805577098234675202",
+              "start": 0,
+              "username": "yCxYP599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941983373821648960",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941979940758397367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yCxYP599 要早点休息哇T T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜\n涂鸦册@jellyfishci 储存日记和绘画，\n小女孩互fo欢迎DM ｜\n湿哒哒的日记本，一直更新至终末的连载遗书 ｜\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 85,
+          "like_count": 9255,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 1476
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-24T10:03:23.000Z",
+        "description": "淡推/攝影/平面 動效設計師/擬似全棧創作者/鐵血二刺猿/ Bangumi @ iiink",
+        "id": "878554135360004096",
+        "location": "月光館學園",
+        "name": "𝚄𝚕𝚝𝚛𝚊𝚖𝚊𝚛𝚒𝚗𝚎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797022070251110400/Gc8Rffw9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 281,
+          "like_count": 4987,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1247
+        },
+        "username": "IIIIlnk",
+        "verified": false
+      }
+    ]
+  }
+}

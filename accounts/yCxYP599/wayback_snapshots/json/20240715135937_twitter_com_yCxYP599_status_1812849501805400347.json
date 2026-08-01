@@ -1,0 +1,124 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1812849501805400347",
+    "created_at": "2024-07-15T13:59:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-15T14:59:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1812849501805400347"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1812849501805400347",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "终于被家里人翻到精神病药盒然后开始经典编瞎话环节。去年出院家里人说这下你身体健康应该当个阳光开朗的小女孩了，储藏室的药我都给你扔了，我真的两眼一黑…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1812849501805400347",
+        "created_at": "2024-07-15T13:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T14:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812849501805400347"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1812849501805400347",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于被家里人翻到精神病药盒然后开始经典编瞎话环节。去年出院家里人说这下你身体健康应该当个阳光开朗的小女孩了，储藏室的药我都给你扔了，我真的两眼一黑…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "湿哒哒的日记本/谨慎翻阅/画画@jellyfishchi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "jellyfishchi"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1808644238873350411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805582174843977731/MSJHMGOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 26,
+          "like_count": 2273,
+          "listed_count": 0,
+          "tweet_count": 368
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

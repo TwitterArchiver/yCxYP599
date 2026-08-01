@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "2082499504150904935",
+    "created_at": "2026-07-29T19:53:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T20:53:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082555090536149452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2004112673706033152",
+          "start": 0,
+          "username": "y33only"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082555090536149452",
+    "in_reply_to_user_id": "2004112673706033152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082506533041242225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y33only 谢谢你的反馈！我可能会尝试一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "2082499504150904935",
+        "created_at": "2026-07-29T19:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T20:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082555090536149452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2004112673706033152",
+              "start": 0,
+              "username": "y33only"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082555090536149452",
+        "in_reply_to_user_id": "2004112673706033152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082506533041242225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y33only 谢谢你的反馈！我可能会尝试一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004112673706033152",
+        "conversation_id": "2082499504150904935",
+        "created_at": "2026-07-29T16:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082506533041242225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805577098234675202",
+              "start": 0,
+              "username": "yCxYP599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082506533041242225",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082499504150904935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yCxYP599 ！我吃了很久米氮平，前天刚换劳拉西泮，我属于bmi特低的，这药刚开始吃了确实会食欲好很多，我还很高兴，后来没效果了，你先试试几天，不行就换像思诺思这类的，sns吃了我都不想吃饭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "0.44km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1436,
+          "following_count": 98,
+          "like_count": 13418,
+          "listed_count": 5,
+          "media_count": 133,
+          "tweet_count": 1934
+        },
+        "url": "",
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-25T08:51:27.000Z",
+        "description": "你的心好沉",
+        "id": "2004112673706033152",
+        "location": "地球ONLINE UTC+8 甬台温大区",
+        "name": "yss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057276394506498048/bih_uUM4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 258,
+          "like_count": 96,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 1200
+        },
+        "url": "",
+        "username": "y33only",
+        "verified": false
+      }
+    ]
+  }
+}

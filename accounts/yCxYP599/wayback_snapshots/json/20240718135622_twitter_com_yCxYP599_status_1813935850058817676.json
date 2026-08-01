@@ -1,0 +1,298 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1813368592488108032"
+      ],
+      "media_source_tweet_id": [
+        "1813368639476859361"
+      ]
+    },
+    "author_id": "1805577098234675202",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1813935850058817676",
+    "created_at": "2024-07-18T13:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-18T14:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813935850058817676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1799783079193751552",
+          "start": 3,
+          "username": "kanji_okai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/U5dRGRoNv0",
+          "end": 61,
+          "expanded_url": "https://twitter.com/kanji_okai/status/1813368639476859361/video/1",
+          "media_key": "7_1813368592488108032",
+          "start": 38,
+          "url": "https://t.co/U5dRGRoNv0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813935850058817676",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4066
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813368639476859361",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kanji_okai: 「 17 」　2024 / kinetic https://t.co/U5dRGRoNv0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9500,
+        "height": 720,
+        "media_key": "7_1813368592488108032",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1813368592488108032/pu/img/XyEQAv0XZ160rr3j.jpg",
+        "public_metrics": {
+          "view_count": 459555
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1813368592488108032/pu/vid/avc1/480x270/3Sbp04A1V6IVPTYR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1813368592488108032/pu/vid/avc1/640x360/ZoN7O3-x51PcT-EJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1813368592488108032/pu/vid/avc1/1280x720/20FUyCTA7nfRXrTH.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1813368592488108032/pu/pl/z6NQlEFcJXrpBhex.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1813368592488108032"
+          ],
+          "media_source_tweet_id": [
+            "1813368639476859361"
+          ]
+        },
+        "author_id": "1805577098234675202",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1813935850058817676",
+        "created_at": "2024-07-18T13:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T14:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813935850058817676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1799783079193751552",
+              "start": 3,
+              "username": "kanji_okai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/U5dRGRoNv0",
+              "end": 61,
+              "expanded_url": "https://twitter.com/kanji_okai/status/1813368639476859361/video/1",
+              "media_key": "7_1813368592488108032",
+              "start": 38,
+              "url": "https://t.co/U5dRGRoNv0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813935850058817676",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4066
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813368639476859361",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kanji_okai: 「 17 」　2024 / kinetic https://t.co/U5dRGRoNv0"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1813368592488108032"
+          ]
+        },
+        "author_id": "1799783079193751552",
+        "conversation_id": "1813368639476859361",
+        "created_at": "2024-07-17T00:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T01:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813368639476859361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/U5dRGRoNv0",
+              "end": 45,
+              "expanded_url": "https://twitter.com/kanji_okai/status/1813368639476859361/video/1",
+              "media_key": "7_1813368592488108032",
+              "start": 22,
+              "url": "https://t.co/U5dRGRoNv0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813368639476859361",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5326,
+          "impression_count": 973617,
+          "like_count": 35951,
+          "quote_count": 415,
+          "reply_count": 15,
+          "retweet_count": 4066
+        },
+        "reply_settings": "everyone",
+        "text": "「 17 」　2024 / kinetic https://t.co/U5dRGRoNv0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "湿哒哒的日记本/谨慎翻阅/画画@jellyfishchi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "jellyfishchi"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1808644238873350411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805582174843977731/MSJHMGOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 28,
+          "like_count": 2390,
+          "listed_count": 0,
+          "tweet_count": 389
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T12:38:33.000Z",
+        "description": "多摩美術大学メディア芸術2学年",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/okai.kanji?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/okai.kanji?igsh=MWR1aWdhMjUyenc4eA%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/NaNLA5neio"
+              }
+            ]
+          }
+        },
+        "id": "1799783079193751552",
+        "name": "岡井莞志",
+        "pinned_tweet_id": "1813368639476859361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805273253344378880/lhuxuTcR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 7,
+          "like_count": 0,
+          "listed_count": 2,
+          "tweet_count": 5
+        },
+        "url": "https://t.co/NaNLA5neio",
+        "username": "kanji_okai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1927386552746832247",
+    "created_at": "2025-05-27T15:58:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T16:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927394035842289978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1808081236394758145",
+          "start": 0,
+          "username": "eclipse_1900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927394035842289978",
+    "in_reply_to_user_id": "1808081236394758145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927393218422796698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eclipse_1900 老师有没有讲过要把刀放进刀鞘里，要找创可贴帮忙知道吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1927386552746832247",
+        "created_at": "2025-05-27T15:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T16:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927394035842289978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1808081236394758145",
+              "start": 0,
+              "username": "eclipse_1900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927394035842289978",
+        "in_reply_to_user_id": "1808081236394758145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927393218422796698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eclipse_1900 老师有没有讲过要把刀放进刀鞘里，要找创可贴帮忙知道吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808081236394758145",
+        "conversation_id": "1927386552746832247",
+        "created_at": "2025-05-27T15:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T16:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927393218422796698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805577098234675202",
+              "start": 0,
+              "username": "yCxYP599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927393218422796698",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927386552746832247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yCxYP599 洗澡的时候小腹刮破皮了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你\n涂鸦册@jellyfishci\n储存日记和绘画，小女孩互fo欢迎DM\n湿哒哒的日记本，一直更新至终末的连载遗书\n\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 78,
+          "like_count": 8594,
+          "listed_count": 3,
+          "media_count": 83,
+          "tweet_count": 1375
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T10:12:30.000Z",
+        "description": "生雀吻.",
+        "id": "1808081236394758145",
+        "location": "🚪288無營養陪聊",
+        "name": "罵死過人",
+        "pinned_tweet_id": "1833779123170521186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916507101733814272/f5Ur_zJx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49727,
+          "following_count": 78,
+          "like_count": 2406,
+          "listed_count": 109,
+          "media_count": 131,
+          "tweet_count": 1195
+        },
+        "username": "eclipse_1900",
+        "verified": false
+      }
+    ]
+  }
+}

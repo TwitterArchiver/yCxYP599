@@ -1,0 +1,203 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1810704782036013563",
+    "created_at": "2024-07-09T15:58:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-09T16:58:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810705000756338985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1785505247575805953",
+          "start": 0,
+          "username": "R1ka_uniguri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810705000756338985",
+    "in_reply_to_user_id": "1785505247575805953",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810704782036013563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R1ka_uniguri 超荣幸♡！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1810704782036013563",
+        "created_at": "2024-07-09T15:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-09T16:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810705000756338985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1785505247575805953",
+              "start": 0,
+              "username": "R1ka_uniguri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810705000756338985",
+        "in_reply_to_user_id": "1785505247575805953",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810704782036013563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R1ka_uniguri 超荣幸♡！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1785505247575805953",
+        "conversation_id": "1810704782036013563",
+        "created_at": "2024-07-09T15:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-09T16:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1810704782036013563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yCxYP599/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/yCxYP599/status/1810704672711410019",
+              "start": 7,
+              "url": "https://t.co/abFRcNwbkK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810704782036013563",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810704672711410019",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "超喜歡... https://t.co/abFRcNwbkK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "湿哒哒的日记本/谨慎翻阅/画画@jellyfishchi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "jellyfishchi"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1808644238873350411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805582174843977731/MSJHMGOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 22,
+          "like_count": 1634,
+          "listed_count": 0,
+          "tweet_count": 254
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-01T03:03:28.000Z",
+        "description": "⚠️我有病，會洗版⚠️\n討厭自以為是的人\n\n小刺蝟｜重鬱｜♂︎｜第二生命是音樂｜我的哀愁還下著雨｜弱智吸引體質｜@Asa_Uniguri 晚安後聚集地",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "Asa_Uniguri"
+              }
+            ]
+          }
+        },
+        "id": "1785505247575805953",
+        "location": "🦔💐",
+        "name": "Rika",
+        "pinned_tweet_id": "1810275062458564648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810014910568607744/_SsxWCh__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 169,
+          "like_count": 1522,
+          "listed_count": 0,
+          "tweet_count": 2946
+        },
+        "username": "R1ka_uniguri",
+        "verified": false
+      }
+    ]
+  }
+}

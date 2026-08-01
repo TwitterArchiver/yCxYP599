@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1994447773337317440",
+    "created_at": "2025-11-29T14:16:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T15:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994772418926448843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1907142596230815745",
+          "start": 0,
+          "username": "524Tasf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994772418926448843",
+    "in_reply_to_user_id": "1907142596230815745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994767799898804457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@524Tasf 谢谢你ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1994447773337317440",
+        "created_at": "2025-11-29T14:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T15:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994772418926448843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1907142596230815745",
+              "start": 0,
+              "username": "524Tasf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994772418926448843",
+        "in_reply_to_user_id": "1907142596230815745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994767799898804457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@524Tasf 谢谢你ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907142596230815745",
+        "conversation_id": "1994447773337317440",
+        "created_at": "2025-11-29T13:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T14:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994767799898804457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805577098234675202",
+              "start": 0,
+              "username": "yCxYP599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994767799898804457",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994447773337317440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yCxYP599 可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci 储存日记和绘画 ｜ 湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1992926630533308432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1312,
+          "following_count": 95,
+          "like_count": 10746,
+          "listed_count": 4,
+          "media_count": 104,
+          "tweet_count": 1727
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T18:46:52.000Z",
+        "description": "黄推专用号",
+        "id": "1907142596230815745",
+        "location": "广州",
+        "name": "Tasf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907144902049509376/UV7WjOtK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 616,
+          "like_count": 2040,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 177
+        },
+        "username": "524Tasf",
+        "verified": false
+      }
+    ]
+  }
+}

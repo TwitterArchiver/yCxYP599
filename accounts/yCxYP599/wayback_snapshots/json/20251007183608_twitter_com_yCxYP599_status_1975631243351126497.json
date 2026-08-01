@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1975631243351126497",
+    "created_at": "2025-10-07T18:36:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T19:36:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975631243351126497"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1975631243351126497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉自己是个特别贱的人…被同学邀请去聚餐，一开始很开心还跑去买了礼物，但是临近聚餐日只想找个借口说去不了了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1975631243351126497",
+        "created_at": "2025-10-07T18:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T19:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975631243351126497"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975631243351126497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉自己是个特别贱的人…被同学邀请去聚餐，一开始很开心还跑去买了礼物，但是临近聚餐日只想找个借口说去不了了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜\n涂鸦册@jellyfishci 储存日记和绘画，\n小女孩互fo欢迎DM ｜\n湿哒哒的日记本，一直更新至终末的连载遗书 ｜\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 88,
+          "like_count": 9731,
+          "listed_count": 4,
+          "media_count": 92,
+          "tweet_count": 1602
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

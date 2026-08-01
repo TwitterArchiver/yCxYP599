@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "2074623256582042031",
+    "created_at": "2026-07-08T12:16:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T13:16:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074830078442127570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2004112673706033152",
+          "start": 0,
+          "username": "y33only"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074830078442127570",
+    "in_reply_to_user_id": "2004112673706033152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074812795913457932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y33only 顺手…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "2074623256582042031",
+        "created_at": "2026-07-08T12:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074830078442127570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2004112673706033152",
+              "start": 0,
+              "username": "y33only"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074830078442127570",
+        "in_reply_to_user_id": "2004112673706033152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074812795913457932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y33only 顺手…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004112673706033152",
+        "conversation_id": "2074623256582042031",
+        "created_at": "2026-07-08T11:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074812795913457932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805577098234675202",
+              "start": 0,
+              "username": "yCxYP599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074812795913457932",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074623256582042031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yCxYP599 电话☎️是红的有什么特别寓意吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "0.44km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1443,
+          "following_count": 97,
+          "like_count": 13268,
+          "listed_count": 5,
+          "media_count": 131,
+          "tweet_count": 1911
+        },
+        "url": "",
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-25T08:51:27.000Z",
+        "description": "你的心好沉",
+        "id": "2004112673706033152",
+        "location": "地球ONLINE UTC+8 甬台温大区",
+        "name": "yss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057276394506498048/bih_uUM4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 255,
+          "like_count": 96,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1125
+        },
+        "url": "",
+        "username": "y33only",
+        "verified": false
+      }
+    ]
+  }
+}

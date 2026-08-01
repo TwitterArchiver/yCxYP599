@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "2000935206329704592",
+    "created_at": "2025-12-16T14:25:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T15:25:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000935206329704592"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2000935206329704592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“文明给了我一些不应该存在的信心，让我以为一个人的勇气可以保护她的存在。”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "2000935206329704592",
+        "created_at": "2025-12-16T14:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T15:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000935206329704592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000935206329704592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“文明给了我一些不应该存在的信心，让我以为一个人的勇气可以保护她的存在。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci  ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "夢",
+        "name": "一次性",
+        "pinned_tweet_id": "2000332704215396585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1301,
+          "following_count": 96,
+          "like_count": 11544,
+          "listed_count": 4,
+          "media_count": 115,
+          "tweet_count": 1791
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations about going out.",
+          "id": "1045046778876153856",
+          "name": "Going Out"
+        }
+      }
+    ],
+    "conversation_id": "1956432402680594654",
+    "created_at": "2025-08-16T23:11:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T00:11:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956856425235300862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1723668785499136000",
+          "start": 0,
+          "username": "KrystalPri3903"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956856425235300862",
+    "in_reply_to_user_id": "1723668785499136000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956666209350607278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KrystalPri3903 谢谢，我尽量不外出喝酒了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "1956432402680594654",
+        "created_at": "2025-08-16T23:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T00:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956856425235300862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1723668785499136000",
+              "start": 0,
+              "username": "KrystalPri3903"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956856425235300862",
+        "in_reply_to_user_id": "1723668785499136000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956666209350607278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KrystalPri3903 谢谢，我尽量不外出喝酒了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723668785499136000",
+        "conversation_id": "1956432402680594654",
+        "created_at": "2025-08-16T10:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T11:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956666209350607278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805577098234675202",
+              "start": 0,
+              "username": "yCxYP599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956666209350607278",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956432402680594654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yCxYP599 酒还是不要一次喝太多欸…万一遇到什么事就真的麻烦了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜\n涂鸦册@jellyfishci 储存日记和绘画，\n小女孩互fo欢迎DM ｜\n湿哒哒的日记本，一直更新至终末的连载遗书 ｜\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1947424901104865391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 89,
+          "like_count": 9667,
+          "listed_count": 3,
+          "media_count": 87,
+          "tweet_count": 1554
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T11:47:38.000Z",
+        "description": "坟",
+        "id": "1723668785499136000",
+        "name": "╸▵╺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914202906469056512/McKWULDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 177,
+          "like_count": 9562,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 1226
+        },
+        "username": "KrystalPri3903",
+        "verified": false
+      }
+    ]
+  }
+}

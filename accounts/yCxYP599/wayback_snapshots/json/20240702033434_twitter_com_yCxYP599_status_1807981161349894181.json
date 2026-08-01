@@ -1,0 +1,223 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1807804828648956345",
+    "created_at": "2024-07-02T03:34:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-02T04:34:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807981161349894181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1190727688622768128",
+          "start": 0,
+          "username": "onenry1"
+        },
+        {
+          "end": 18,
+          "id": "1793271601003204608",
+          "start": 9,
+          "username": "EE041015"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807981161349894181",
+    "in_reply_to_user_id": "1190727688622768128",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807965288367022225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@onenry1 @EE041015 澪酱是心软的天使"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1807804828648956345",
+        "created_at": "2024-07-02T03:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T04:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807981161349894181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1190727688622768128",
+              "start": 0,
+              "username": "onenry1"
+            },
+            {
+              "end": 18,
+              "id": "1793271601003204608",
+              "start": 9,
+              "username": "EE041015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807981161349894181",
+        "in_reply_to_user_id": "1190727688622768128",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807965288367022225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@onenry1 @EE041015 澪酱是心软的天使"
+      },
+      {
+        "attachments": {},
+        "author_id": "1190727688622768128",
+        "conversation_id": "1807804828648956345",
+        "created_at": "2024-07-02T02:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T03:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807965288367022225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1793271601003204608",
+              "start": 0,
+              "username": "EE041015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807965288367022225",
+        "in_reply_to_user_id": "1793271601003204608",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807804828648956345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EE041015 感覺我的話會回收失敗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "湿哒哒的日记本/目前话非常多，不建议关注污染时间线，建议等@jellyfishchi凉了再来",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "jellyfishchi"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1807026922553217065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805582174843977731/MSJHMGOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 15,
+          "like_count": 743,
+          "listed_count": 0,
+          "tweet_count": 100
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-02T20:29:47.000Z",
+        "description": "腐爛的世界還有我🫂",
+        "id": "1190727688622768128",
+        "location": "一切都衹是遺書♡",
+        "name": "永遠的澪醬𝚛𝚒𝚝𝚎♬",
+        "pinned_tweet_id": "1807422183993692530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805071209996189696/Te-4eZ2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1589,
+          "following_count": 288,
+          "like_count": 4686,
+          "listed_count": 5,
+          "tweet_count": 979
+        },
+        "username": "onenry1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-22T13:24:16.000Z",
+        "description": "我是EE！此号为转世重生，狗党！热爱异宠！小女孩互fo大欢迎！！没有回fo麻烦私信，坐标深圳，不是黄推，只是一个od割手有点病爱分享日常的小女孩，陪玩CSGO/APEX/瓦洛兰特/云顶之弈/LOL，不键政不反共不亲共粉蛆滚，欢迎过我门槛52/88/188/520/1314",
+        "id": "1793271601003204608",
+        "location": "健全逼你们都死了",
+        "name": "给我钱别逼我求你2.0",
+        "pinned_tweet_id": "1807657831665140190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806247073395916800/7DFkXqgd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 329,
+          "like_count": 5997,
+          "listed_count": 0,
+          "tweet_count": 3011
+        },
+        "username": "EE041015",
+        "verified": false
+      }
+    ]
+  }
+}

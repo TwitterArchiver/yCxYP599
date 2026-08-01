@@ -1,0 +1,96 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1806263392597901603",
+    "created_at": "2024-06-27T09:48:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-27T10:48:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1806263392597901603"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1806263392597901603",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "妹子，你要是爱我有恨我一半坚定，我已经是只和你说话的狗了，哪怕你再无趣无聊我和你没一点共同语言，但我就是这种缺爱的贱货。只要你只注视我。都谈了这么多装什么多在乎我啊，我是你爱人的gap year吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1806263392597901603",
+        "created_at": "2024-06-27T09:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T10:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806263392597901603"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1806263392597901603",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妹子，你要是爱我有恨我一半坚定，我已经是只和你说话的狗了，哪怕你再无趣无聊我和你没一点共同语言，但我就是这种缺爱的贱货。只要你只注视我。都谈了这么多装什么多在乎我啊，我是你爱人的gap year吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "湿哒哒的日记本/目前话非常多，不建议回关污染时间线，请等@jellyfishchi凉透了再关注这里",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "jellyfishchi"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1805970892264296540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805582174843977731/MSJHMGOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 122,
+          "listed_count": 0,
+          "tweet_count": 20
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

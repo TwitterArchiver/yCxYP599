@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1999743813833884106",
+    "created_at": "2025-12-13T07:30:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T08:30:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999743813833884106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1903000796805074951",
+          "start": 3,
+          "username": "0202deutschlan1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999743813833884106",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 425
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999394571411947530",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0202deutschlan1: メンヘラの今年の漢字\n\n2020年　躁\n2021年　鬱\n2022年　鬱\n2023年　躁\n2024年　鬱\n\n2025年　死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1999743813833884106",
+        "created_at": "2025-12-13T07:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T08:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999743813833884106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1903000796805074951",
+              "start": 3,
+              "username": "0202deutschlan1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999743813833884106",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 425
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999394571411947530",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0202deutschlan1: メンヘラの今年の漢字\n\n2020年　躁\n2021年　鬱\n2022年　鬱\n2023年　躁\n2024年　鬱\n\n2025年　死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903000796805074951",
+        "conversation_id": "1999394571411947530",
+        "created_at": "2025-12-12T08:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T09:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999394571411947530"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999394571411947530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 76561,
+          "like_count": 7337,
+          "quote_count": 19,
+          "reply_count": 9,
+          "retweet_count": 425
+        },
+        "reply_settings": "everyone",
+        "text": "メンヘラの今年の漢字\n\n2020年　躁\n2021年　鬱\n2022年　鬱\n2023年　躁\n2024年　鬱\n\n2025年　死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci  ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "夢",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 97,
+          "like_count": 11331,
+          "listed_count": 4,
+          "media_count": 113,
+          "tweet_count": 1774
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T08:28:49.000Z",
+        "description": "障害者雇用事務職 めちゃくちゃ生きるの楽しい‼️、の逆",
+        "id": "1903000796805074951",
+        "name": "ノト",
+        "pinned_tweet_id": "1992207507893444757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988091754168676353/gU2PPoTn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5816,
+          "following_count": 1300,
+          "like_count": 6337,
+          "listed_count": 81,
+          "media_count": 215,
+          "tweet_count": 6836
+        },
+        "username": "0202deutschlan1",
+        "verified": false
+      }
+    ]
+  }
+}

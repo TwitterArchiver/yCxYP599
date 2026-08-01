@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "2074576166967484435",
+    "created_at": "2026-07-07T19:31:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T20:31:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074577147314819208"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074577147314819208",
+    "in_reply_to_user_id": "1805577098234675202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074576166967484435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不想和她分享我的恐惧和不安，也明白我们或许再见的希望渺茫，但我需要带着这样的念想继续生活。人与人之间有过一个瞬间就够了，所以我很满足…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "2074576166967484435",
+        "created_at": "2026-07-07T19:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T20:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074577147314819208"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074577147314819208",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074576166967484435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不想和她分享我的恐惧和不安，也明白我们或许再见的希望渺茫，但我需要带着这样的念想继续生活。人与人之间有过一个瞬间就够了，所以我很满足…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "2074576166967484435",
+        "created_at": "2026-07-07T19:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T20:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074576166967484435"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074576166967484435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在很多个瞬间，想到朋友喝醉了，在纸上一笔一划地写我是她最喜欢的朋友的时刻，就忍不住地想哭。那是一个我不在场的时刻，也是一个如果不是其他人说起我永远都不会知道的时刻。我当然知道，我不可能永远是那个第一，我们往后的日子那么长、隔得又那么远。但好像我一直求来求去，就要一次这样的真心。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "0.44km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1443,
+          "following_count": 97,
+          "like_count": 13262,
+          "listed_count": 5,
+          "media_count": 129,
+          "tweet_count": 1910
+        },
+        "url": "",
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

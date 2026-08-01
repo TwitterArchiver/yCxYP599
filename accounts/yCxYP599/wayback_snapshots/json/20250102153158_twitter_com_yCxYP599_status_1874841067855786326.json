@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1874839145052602493",
+    "created_at": "2025-01-02T15:31:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-02T16:31:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874841067855786326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1825573182482563072",
+          "start": 0,
+          "username": "cotton0205"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874841067855786326",
+    "in_reply_to_user_id": "1825573182482563072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874839145052602493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cotton0205 这种人还可以叫朋友吗。 抱抱小棉 🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1874839145052602493",
+        "created_at": "2025-01-02T15:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T16:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874841067855786326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1825573182482563072",
+              "start": 0,
+              "username": "cotton0205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874841067855786326",
+        "in_reply_to_user_id": "1825573182482563072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874839145052602493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cotton0205 这种人还可以叫朋友吗。 抱抱小棉 🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825573182482563072",
+        "conversation_id": "1874839145052602493",
+        "created_at": "2025-01-02T15:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T16:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874839145052602493"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1874839145052602493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友便利貼偷偷罵我我就破防。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你\n涂鸦册@jellyfishci\n储存日记和绘画，社恐熟起来才会多讲话\n湿哒哒的日记本，一直更新至终末的连载遗书\n\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1850777772559663410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 70,
+          "like_count": 6583,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1118
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-19T16:39:11.000Z",
+        "description": "高中生｜互fo可｜🚪可私訊｜自傷& overdose戒除中｜ENFP｜湊到學費即關閉🚪轉日常號",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "不接非綠.com",
+                "end": 23,
+                "expanded_url": "https://xn--ihq593cdmserx.com",
+                "start": 0,
+                "url": "https://t.co/e3GHn6EqT8"
+              }
+            ]
+          }
+        },
+        "id": "1825573182482563072",
+        "location": "床",
+        "name": "客服小棉💭🩹（休學版）",
+        "pinned_tweet_id": "1874544650155069942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869680867364462592/dy0n2Ezg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 441,
+          "like_count": 5183,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 953
+        },
+        "url": "https://t.co/e3GHn6EqT8",
+        "username": "cotton0205",
+        "verified": false
+      }
+    ]
+  }
+}

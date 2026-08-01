@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1994398755853111516",
+    "created_at": "2025-11-28T13:31:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T14:31:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994398755853111516"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1994398755853111516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "别担心，从地球发出的光总有一天会到达其它遥远的星系，我们混乱不堪的一切都会在那里再次轮回。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1994398755853111516",
+        "created_at": "2025-11-28T13:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T14:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994398755853111516"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994398755853111516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别担心，从地球发出的光总有一天会到达其它遥远的星系，我们混乱不堪的一切都会在那里再次轮回。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci 储存日记和绘画 ｜ 湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1992926630533308432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1309,
+          "following_count": 95,
+          "like_count": 10694,
+          "listed_count": 4,
+          "media_count": 103,
+          "tweet_count": 1719
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

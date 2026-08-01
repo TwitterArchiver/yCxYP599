@@ -1,0 +1,98 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1822832340701429984",
+    "created_at": "2024-08-12T03:07:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T04:07:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1822832340701429984"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1822832340701429984",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老师之前很认真地同我们讲他非常曲折的求学经历，什么考试连续失败，收到拒信，资格证考了六年什么的。他说，「我这样笨的人只要一直坚持下来，也是能走到最后的。人生是有很多容错率的，不要怕。」\n\n当时听得泪眼汪汪。\n\n后来听说，老师至今不能评职称，因为系统不认可他的年龄。\n\n这里不会有旷野。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1822832340701429984",
+        "created_at": "2024-08-12T03:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T04:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822832340701429984"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1822832340701429984",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老师之前很认真地同我们讲他非常曲折的求学经历，什么考试连续失败，收到拒信，资格证考了六年什么的。他说，「我这样笨的人只要一直坚持下来，也是能走到最后的。人生是有很多容错率的，不要怕。」\n\n当时听得泪眼汪汪。\n\n后来听说，老师至今不能评职称，因为系统不认可他的年龄。\n\n这里不会有旷野。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "湿哒哒的日记本，一直更新至终末的连载遗书\n你好，我是小次，很高兴遇见你\n涂鸦产出@jellyfishchi\n\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "jellyfishchi"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1809159826595033189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805582174843977731/MSJHMGOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 38,
+          "like_count": 3319,
+          "listed_count": 0,
+          "tweet_count": 610
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

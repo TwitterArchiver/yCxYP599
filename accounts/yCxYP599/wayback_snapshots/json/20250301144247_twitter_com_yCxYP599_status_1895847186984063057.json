@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1895847186984063057",
+    "created_at": "2025-03-01T14:42:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T15:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1895847186984063057"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1895847186984063057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很长一段时间，抚养者之一都在问我为什么活着，如果没有理由的话去死好了。数年后这个对话转变成了“你还有什么不开心到让你过不下去的事”。我没有找到过答案，哪怕一个。我不是很想死也没有那么想活。只是碰巧为人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1895847186984063057",
+        "created_at": "2025-03-01T14:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T15:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895847186984063057"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1895847186984063057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很长一段时间，抚养者之一都在问我为什么活着，如果没有理由的话去死好了。数年后这个对话转变成了“你还有什么不开心到让你过不下去的事”。我没有找到过答案，哪怕一个。我不是很想死也没有那么想活。只是碰巧为人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你\n涂鸦册@jellyfishci\n储存日记和绘画，小女孩互fo欢迎DM\n湿哒哒的日记本，一直更新至终末的连载遗书\n\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1883053886740799913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 75,
+          "like_count": 7524,
+          "listed_count": 3,
+          "media_count": 67,
+          "tweet_count": 1230
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

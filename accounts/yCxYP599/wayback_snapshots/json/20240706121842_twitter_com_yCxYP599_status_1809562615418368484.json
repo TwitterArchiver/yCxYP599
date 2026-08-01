@@ -1,0 +1,263 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1809449256060874757"
+      ],
+      "media_source_tweet_id": [
+        "1809449260532040049"
+      ]
+    },
+    "author_id": "1805577098234675202",
+    "conversation_id": "1809562615418368484",
+    "created_at": "2024-07-06T12:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-06T13:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809562615418368484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1392452107450474499",
+          "start": 3,
+          "username": "_infinity_xxx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/jfBrrmtVLV",
+          "end": 49,
+          "expanded_url": "https://twitter.com/_infinity_xxx/status/1809449260532040049/photo/1",
+          "media_key": "3_1809449256060874757",
+          "start": 26,
+          "url": "https://t.co/jfBrrmtVLV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809562615418368484",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 132
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809449260532040049",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_infinity_xxx: スリーガイジ https://t.co/jfBrrmtVLV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1809449256060874757",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRx0gvKacAUwT4-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1809449256060874757"
+          ],
+          "media_source_tweet_id": [
+            "1809449260532040049"
+          ]
+        },
+        "author_id": "1805577098234675202",
+        "conversation_id": "1809562615418368484",
+        "created_at": "2024-07-06T12:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T13:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809562615418368484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1392452107450474499",
+              "start": 3,
+              "username": "_infinity_xxx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/jfBrrmtVLV",
+              "end": 49,
+              "expanded_url": "https://twitter.com/_infinity_xxx/status/1809449260532040049/photo/1",
+              "media_key": "3_1809449256060874757",
+              "start": 26,
+              "url": "https://t.co/jfBrrmtVLV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809562615418368484",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 132
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809449260532040049",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_infinity_xxx: スリーガイジ https://t.co/jfBrrmtVLV"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1809449256060874757"
+          ]
+        },
+        "author_id": "1392452107450474499",
+        "conversation_id": "1809449260532040049",
+        "created_at": "2024-07-06T04:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T05:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809449260532040049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/jfBrrmtVLV",
+              "end": 30,
+              "expanded_url": "https://twitter.com/_infinity_xxx/status/1809449260532040049/photo/1",
+              "media_key": "3_1809449256060874757",
+              "start": 7,
+              "url": "https://t.co/jfBrrmtVLV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809449260532040049",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 264,
+          "impression_count": 321760,
+          "like_count": 2931,
+          "quote_count": 105,
+          "reply_count": 27,
+          "retweet_count": 132
+        },
+        "reply_settings": "everyone",
+        "text": "スリーガイジ https://t.co/jfBrrmtVLV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "湿哒哒的日记本/谨慎翻阅/画画@jellyfishchi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "jellyfishchi"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1808644238873350411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805582174843977731/MSJHMGOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 18,
+          "like_count": 1207,
+          "listed_count": 0,
+          "tweet_count": 178
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-12T12:10:45.000Z",
+        "description": "⚡️💍@moqsuicide／#ガキ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 15,
+                "tag": "ガキ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "moqsuicide"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aomaru319",
+                "end": 23,
+                "expanded_url": "https://lit.link/aomaru319",
+                "start": 0,
+                "url": "https://t.co/qKE42KNqt3"
+              }
+            ]
+          }
+        },
+        "id": "1392452107450474499",
+        "location": "💤💤💤",
+        "name": "あおまる",
+        "pinned_tweet_id": "1779810848036516333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747067418776854528/a1EqL5EJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8008,
+          "following_count": 279,
+          "like_count": 2557,
+          "listed_count": 20,
+          "tweet_count": 19757
+        },
+        "url": "https://t.co/qKE42KNqt3",
+        "username": "_infinity_xxx",
+        "verified": true
+      }
+    ]
+  }
+}

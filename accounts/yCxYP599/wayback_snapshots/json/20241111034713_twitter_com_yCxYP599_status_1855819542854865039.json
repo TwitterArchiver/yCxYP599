@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1855672045734182927",
+    "created_at": "2024-11-11T03:47:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-11T04:47:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855819542854865039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1744320870800379904",
+          "start": 0,
+          "username": "386Nsg47079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855819542854865039",
+    "in_reply_to_user_id": "1744320870800379904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855697082130325803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@386Nsg47079 太溺爱TT实际上我乱讲话…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1855672045734182927",
+        "created_at": "2024-11-11T03:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T04:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855819542854865039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744320870800379904",
+              "start": 0,
+              "username": "386Nsg47079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855819542854865039",
+        "in_reply_to_user_id": "1744320870800379904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855697082130325803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@386Nsg47079 太溺爱TT实际上我乱讲话…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744320870800379904",
+        "conversation_id": "1855672045734182927",
+        "created_at": "2024-11-10T19:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T20:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855697082130325803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805577098234675202",
+              "start": 0,
+              "username": "yCxYP599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855697082130325803",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855672045734182927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yCxYP599 可爱的灵魂是不会因为说错一两句话就失去一切的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你\n涂鸦产出@jellyfishci\n储存日记和绘画，社恐熟起来才会多讲话\n湿哒哒的日记本，一直更新至终末的连载遗书\n\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 60,
+          "like_count": 5670,
+          "listed_count": 2,
+          "tweet_count": 1001
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T11:31:57.000Z",
+        "description": "欢迎来到我的博客。这个家伙是个电子👻。会不定期更新incel日记和玉玉言论以及爱大家。",
+        "id": "1744320870800379904",
+        "name": "ToritORItorI-KIWI",
+        "pinned_tweet_id": "1855165463455842585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830247251043827712/SOmFOOGB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 29,
+          "like_count": 408,
+          "listed_count": 0,
+          "tweet_count": 321
+        },
+        "username": "386Nsg47079",
+        "verified": false
+      }
+    ]
+  }
+}

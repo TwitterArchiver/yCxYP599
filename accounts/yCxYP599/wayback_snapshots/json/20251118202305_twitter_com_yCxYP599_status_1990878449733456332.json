@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1989511214482035128",
+    "created_at": "2025-11-18T20:23:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T21:23:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990878449733456332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1916906286362603520",
+          "start": 0,
+          "username": "8964tv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990878449733456332",
+    "in_reply_to_user_id": "1916906286362603520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989557306561024303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964tv 琥珀…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1989511214482035128",
+        "created_at": "2025-11-18T20:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T21:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990878449733456332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1916906286362603520",
+              "start": 0,
+              "username": "8964tv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990878449733456332",
+        "in_reply_to_user_id": "1916906286362603520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989557306561024303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964tv 琥珀…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916906286362603520",
+        "conversation_id": "1989511214482035128",
+        "created_at": "2025-11-15T04:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T05:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989557306561024303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805577098234675202",
+              "start": 0,
+              "username": "yCxYP599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989557306561024303",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989511214482035128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yCxYP599 死亡才能让爱纯粹，才能让爱真的成为一个姿态，才能让爱成为一个不含混的表达。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜\n涂鸦册@jellyfishci 储存日记和绘画，\n小女孩互fo欢迎DM ｜\n湿哒哒的日记本，一直更新至终末的连载遗书 ｜\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1984697712411853144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 93,
+          "like_count": 10309,
+          "listed_count": 3,
+          "media_count": 105,
+          "tweet_count": 1697
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T17:24:15.000Z",
+        "description": "郭楠巨婴精神病生活不能自理/永恒之物@TRIPPYTRAP1006",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "TRIPPYTRAP1006"
+              }
+            ]
+          }
+        },
+        "id": "1916906286362603520",
+        "name": "唉",
+        "pinned_tweet_id": "1989987171206570045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988332578190065664/zfRBwvK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 53,
+          "like_count": 296,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 228
+        },
+        "username": "8964tv",
+        "verified": false
+      }
+    ]
+  }
+}

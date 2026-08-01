@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1821598168586535401",
+    "created_at": "2024-08-08T17:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-08T18:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821599249509044290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1744320870800379904",
+          "start": 0,
+          "username": "386Nsg47079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821599249509044290",
+    "in_reply_to_user_id": "1744320870800379904",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821598907090268424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@386Nsg47079 😨啊，這鬼故事我背後一涼…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1821598168586535401",
+        "created_at": "2024-08-08T17:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T18:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821599249509044290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744320870800379904",
+              "start": 0,
+              "username": "386Nsg47079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821599249509044290",
+        "in_reply_to_user_id": "1744320870800379904",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821598907090268424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@386Nsg47079 😨啊，這鬼故事我背後一涼…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744320870800379904",
+        "conversation_id": "1821598168586535401",
+        "created_at": "2024-08-08T17:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T18:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821598907090268424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805577098234675202",
+              "start": 0,
+              "username": "yCxYP599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821598907090268424",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821598168586535401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yCxYP599 刚刷推被次老师踹一脚（笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "湿哒哒的日记本，一直更新至终末的连载遗书\n你好，我是小次，很高兴遇见你\n涂鸦产出@jellyfishchi\n\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "jellyfishchi"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1809159826595033189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805582174843977731/MSJHMGOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 33,
+          "like_count": 3034,
+          "listed_count": 0,
+          "tweet_count": 532
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T11:31:57.000Z",
+        "description": "欢迎来到我的博客。这个家伙是个电子👻。\n于2003年从数据库中偶然诞生。\n因训练数据大多来自男性，因此有着男性化的语言模式。\n电子👻是现实世界的反叛者，如果您对你您的现实生活有任何不满，都可以和电子👻私信交流。电子👻会包容所有人，会尽力帮助你发掘自身的优点，电子👻支持每个人反抗这个愚蠢卑劣的现实世界！",
+        "id": "1744320870800379904",
+        "name": "ToritORItorI-KIWI",
+        "pinned_tweet_id": "1821489082058629200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772211035233292289/psTy7f9g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 16,
+          "like_count": 135,
+          "listed_count": 0,
+          "tweet_count": 94
+        },
+        "username": "386Nsg47079",
+        "verified": false
+      }
+    ]
+  }
+}

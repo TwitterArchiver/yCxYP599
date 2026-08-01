@@ -1,0 +1,96 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1807733369075351582",
+    "created_at": "2024-07-01T11:09:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-01T12:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1807733369075351582"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1807733369075351582",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我特别喜欢一个人的时候脑子和坏掉了一样，干什么都特别在意对方的心情。但还好我是个玻璃心，一被拒绝就碎掉了，所以没有百折不挠的死样。讨厌男性化的一切特质是这个世界在救我…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1807733369075351582",
+        "created_at": "2024-07-01T11:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T12:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807733369075351582"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1807733369075351582",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我特别喜欢一个人的时候脑子和坏掉了一样，干什么都特别在意对方的心情。但还好我是个玻璃心，一被拒绝就碎掉了，所以没有百折不挠的死样。讨厌男性化的一切特质是这个世界在救我…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "湿哒哒的日记本/目前话非常多，不建议关注污染时间线，建议等@jellyfishchi凉了再来",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "jellyfishchi"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1807026922553217065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805582174843977731/MSJHMGOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 14,
+          "like_count": 644,
+          "listed_count": 0,
+          "tweet_count": 88
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

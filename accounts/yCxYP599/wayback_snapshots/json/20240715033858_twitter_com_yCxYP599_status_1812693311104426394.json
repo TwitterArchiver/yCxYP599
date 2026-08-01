@@ -1,0 +1,139 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1812691649757340005",
+    "created_at": "2024-07-15T03:38:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-15T04:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812693311104426394"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1812693311104426394",
+    "in_reply_to_user_id": "1805577098234675202",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812691649757340005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也有潜在癔症我先骂…在完全消除前觉得自己绝对不应该养小动物，想到自己因为猫猫一点不领情气得大骂，你怎么可以这么不懂事，妈妈都是为你好！就觉得自己贱得该立刻跳楼了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1812691649757340005",
+        "created_at": "2024-07-15T03:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T04:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812693311104426394"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1812693311104426394",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812691649757340005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也有潜在癔症我先骂…在完全消除前觉得自己绝对不应该养小动物，想到自己因为猫猫一点不领情气得大骂，你怎么可以这么不懂事，妈妈都是为你好！就觉得自己贱得该立刻跳楼了。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1812691649757340005",
+        "created_at": "2024-07-15T03:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T04:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812691649757340005"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1812691649757340005",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说什么「哀其不幸，怒其不争」，但大部分情况没有哀过全是怒啊。觉得「我是为你好」，所以对面一定得听话这一点是不是这里最恐怖的集体性癔症…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "湿哒哒的日记本/谨慎翻阅/画画@jellyfishchi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "jellyfishchi"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1808644238873350411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805582174843977731/MSJHMGOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 26,
+          "like_count": 2241,
+          "listed_count": 0,
+          "tweet_count": 361
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

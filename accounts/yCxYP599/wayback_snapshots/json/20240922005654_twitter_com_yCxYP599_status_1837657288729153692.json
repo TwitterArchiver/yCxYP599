@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1837509655305900125",
+    "created_at": "2024-09-22T00:56:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T01:56:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837657288729153692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1737122082218291200",
+          "start": 0,
+          "username": "ametsuitta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837657288729153692",
+    "in_reply_to_user_id": "1737122082218291200",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837515829090701789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ametsuitta 与冷酷仙境…ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1837509655305900125",
+        "created_at": "2024-09-22T00:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T01:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837657288729153692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1737122082218291200",
+              "start": 0,
+              "username": "ametsuitta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837657288729153692",
+        "in_reply_to_user_id": "1737122082218291200",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837515829090701789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ametsuitta 与冷酷仙境…ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1737122082218291200",
+        "conversation_id": "1837509655305900125",
+        "created_at": "2024-09-21T15:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T16:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837515829090701789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805577098234675202",
+              "start": 0,
+              "username": "yCxYP599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837515829090701789",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837509655305900125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yCxYP599 世界尽头……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你\n涂鸦产出@jellyfishci\n非黄推，储存日记和绘画\n湿哒哒的日记本，一直更新至终末的连载遗书\n\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829547304803856385/IRQ3P8pv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 55,
+          "like_count": 4134,
+          "listed_count": 3,
+          "tweet_count": 782
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-19T14:46:06.000Z",
+        "description": "“献给许许多多的纪念日”。BD患者",
+        "id": "1737122082218291200",
+        "location": "光輪密造工房",
+        "name": "森駅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837433330750607360/-yOW1fNv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 200,
+          "like_count": 1331,
+          "listed_count": 0,
+          "tweet_count": 294
+        },
+        "username": "ametsuitta",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1825395095665021393",
+    "created_at": "2024-08-19T04:51:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-19T05:51:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825395095665021393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1753324501167960064",
+          "start": 3,
+          "username": "sui_ci_dein628"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825395095665021393",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825389663865151590",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sui_ci_dein628: 只要存在就会产生磨损，写下磨损铅芯，抹除磨损胶擦，消去磨损记忆，活着磨损生命"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1825395095665021393",
+        "created_at": "2024-08-19T04:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T05:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825395095665021393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1753324501167960064",
+              "start": 3,
+              "username": "sui_ci_dein628"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825395095665021393",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825389663865151590",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sui_ci_dein628: 只要存在就会产生磨损，写下磨损铅芯，抹除磨损胶擦，消去磨损记忆，活着磨损生命"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753324501167960064",
+        "conversation_id": "1825389663865151590",
+        "created_at": "2024-08-19T04:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T05:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825389663865151590"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1825389663865151590",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "只要存在就会产生磨损，写下磨损铅芯，抹除磨损胶擦，消去磨损记忆，活着磨损生命"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "湿哒哒的日记本，一直更新至终末的连载遗书\n你好，我是小次，很高兴遇见你\n涂鸦产出@jellyfishchi\n无意冒犯，非黄推，请放过\n\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "jellyfishchi"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805582174843977731/MSJHMGOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 46,
+          "like_count": 3650,
+          "listed_count": 2,
+          "tweet_count": 661
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T07:48:51.000Z",
+        "description": "^",
+        "id": "1753324501167960064",
+        "name": "穗西德",
+        "pinned_tweet_id": "1797127285998547352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825384674191118336/izybW6Ja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 420,
+          "like_count": 1947,
+          "listed_count": 0,
+          "tweet_count": 158
+        },
+        "username": "sui_ci_dein628",
+        "verified": false
+      }
+    ]
+  }
+}

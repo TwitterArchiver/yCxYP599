@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057852061673259008"
+      ]
+    },
+    "author_id": "1805577098234675202",
+    "conversation_id": "2057852141868388705",
+    "created_at": "2026-05-22T15:52:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T16:52:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057852141868388705"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pk7tD0K33z",
+          "end": 32,
+          "expanded_url": "https://x.com/yCxYP599/status/2057852141868388705/photo/1",
+          "media_key": "3_2057852061673259008",
+          "start": 9,
+          "url": "https://t.co/Pk7tD0K33z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057852141868388705",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "被可怕的女人盯着 https://t.co/Pk7tD0K33z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 751,
+        "media_key": "3_2057852061673259008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI71jBBXAAAuPfh.jpg",
+        "width": 958
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057852061673259008"
+          ]
+        },
+        "author_id": "1805577098234675202",
+        "conversation_id": "2057852141868388705",
+        "created_at": "2026-05-22T15:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T16:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057852141868388705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pk7tD0K33z",
+              "end": 32,
+              "expanded_url": "https://x.com/yCxYP599/status/2057852141868388705/photo/1",
+              "media_key": "3_2057852061673259008",
+              "start": 9,
+              "url": "https://t.co/Pk7tD0K33z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057852141868388705",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被可怕的女人盯着 https://t.co/Pk7tD0K33z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci  ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "夢",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1407,
+          "following_count": 95,
+          "like_count": 12871,
+          "listed_count": 5,
+          "media_count": 125,
+          "tweet_count": 1887
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

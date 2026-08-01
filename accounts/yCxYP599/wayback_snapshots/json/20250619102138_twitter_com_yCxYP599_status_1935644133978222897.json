@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1935569216507433435",
+    "created_at": "2025-06-19T10:21:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T11:21:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935644133978222897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1677530479782768641",
+          "start": 0,
+          "username": "bai57248"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935644133978222897",
+    "in_reply_to_user_id": "1677530479782768641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935569216507433435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bai57248 对面巴巴了一大堆还以为会有什么重要羁绊的回忆…结果只有对找不到下一个倒霉鬼的焦虑。对你这个人的描述贫瘠到只有“二次元不厌男”…泉宝你也太惨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935569161679237120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtyF5cAXcAATEQt.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1935569177869258752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtyF6YUXkAA4eWw.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1935569192863797248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtyF7QLWEAAzDW4.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1935569205136703488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtyF795bwAApHS9.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1935569216507433435",
+        "created_at": "2025-06-19T10:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T11:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935644133978222897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1677530479782768641",
+              "start": 0,
+              "username": "bai57248"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935644133978222897",
+        "in_reply_to_user_id": "1677530479782768641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935569216507433435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bai57248 对面巴巴了一大堆还以为会有什么重要羁绊的回忆…结果只有对找不到下一个倒霉鬼的焦虑。对你这个人的描述贫瘠到只有“二次元不厌男”…泉宝你也太惨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935569161679237120",
+            "3_1935569177869258752",
+            "3_1935569192863797248",
+            "3_1935569205136703488"
+          ]
+        },
+        "author_id": "1677530479782768641",
+        "conversation_id": "1935569216507433435",
+        "created_at": "2025-06-19T05:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T06:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935569216507433435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9tzr2leHI0",
+              "end": 56,
+              "expanded_url": "https://x.com/bai57248/status/1935569216507433435/photo/1",
+              "media_key": "3_1935569161679237120",
+              "start": 33,
+              "url": "https://t.co/9tzr2leHI0"
+            },
+            {
+              "display_url": "pic.x.com/9tzr2leHI0",
+              "end": 56,
+              "expanded_url": "https://x.com/bai57248/status/1935569216507433435/photo/1",
+              "media_key": "3_1935569177869258752",
+              "start": 33,
+              "url": "https://t.co/9tzr2leHI0"
+            },
+            {
+              "display_url": "pic.x.com/9tzr2leHI0",
+              "end": 56,
+              "expanded_url": "https://x.com/bai57248/status/1935569216507433435/photo/1",
+              "media_key": "3_1935569192863797248",
+              "start": 33,
+              "url": "https://t.co/9tzr2leHI0"
+            },
+            {
+              "display_url": "pic.x.com/9tzr2leHI0",
+              "end": 56,
+              "expanded_url": "https://x.com/bai57248/status/1935569216507433435/photo/1",
+              "media_key": "3_1935569205136703488",
+              "start": 33,
+              "url": "https://t.co/9tzr2leHI0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935569216507433435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 946,
+          "like_count": 13,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "转发随意评论随意\n随便看看……我权当日记发了\n委屈多了都成无奈了 https://t.co/9tzr2leHI0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜\n涂鸦册@jellyfishci 储存日记和绘画，\n小女孩互fo欢迎DM ｜\n湿哒哒的日记本，一直更新至终末的连载遗书 ｜\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 81,
+          "like_count": 9067,
+          "listed_count": 3,
+          "media_count": 84,
+          "tweet_count": 1442
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T04:10:14.000Z",
+        "description": "泉//类日记，包含无意义喊话",
+        "id": "1677530479782768641",
+        "name": "椅子米",
+        "pinned_tweet_id": "1935569216507433435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842627624369106944/PT5HoBhP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6036,
+          "following_count": 761,
+          "like_count": 37172,
+          "listed_count": 8,
+          "media_count": 1575,
+          "tweet_count": 9356
+        },
+        "username": "bai57248",
+        "verified": false
+      }
+    ]
+  }
+}

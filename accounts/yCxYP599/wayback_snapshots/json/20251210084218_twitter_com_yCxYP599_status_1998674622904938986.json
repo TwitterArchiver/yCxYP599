@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1998508573383602603",
+    "created_at": "2025-12-10T08:42:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T09:42:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998674622904938986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1729363663277187073",
+          "start": 0,
+          "username": "gxhkkk144215"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998674622904938986",
+    "in_reply_to_user_id": "1729363663277187073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998664121563463946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gxhkkk144215 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1998508573383602603",
+        "created_at": "2025-12-10T08:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T09:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998674622904938986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1729363663277187073",
+              "start": 0,
+              "username": "gxhkkk144215"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998674622904938986",
+        "in_reply_to_user_id": "1729363663277187073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998664121563463946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gxhkkk144215 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729363663277187073",
+        "conversation_id": "1998508573383602603",
+        "created_at": "2025-12-10T08:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T09:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998664121563463946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805577098234675202",
+              "start": 0,
+              "username": "yCxYP599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998664121563463946",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998508573383602603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yCxYP599 很可爱哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci 储存日记和绘画 ｜ 湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "夢",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1315,
+          "following_count": 98,
+          "like_count": 11130,
+          "listed_count": 4,
+          "media_count": 111,
+          "tweet_count": 1757
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-28T04:56:52.000Z",
+        "description": "未来",
+        "id": "1729363663277187073",
+        "name": "亚伯兰",
+        "pinned_tweet_id": "1738219696963612686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969270679368536064/YVgG_mGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 221,
+          "like_count": 2782,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 58
+        },
+        "username": "gxhkkk144215",
+        "verified": false
+      }
+    ]
+  }
+}

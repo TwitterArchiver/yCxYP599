@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "2055039589442601279",
+    "created_at": "2026-05-14T21:36:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T22:36:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055039589442601279"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ycxyp599/statu…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/ycxyp599/status/1984718523873313089",
+          "start": 33,
+          "url": "https://t.co/s1Ywr1KJs3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055039589442601279",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984718523873313089",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "又开始喝。这款酒特别难喝啊，但因为是免费的喝出一点别样的情绪来。 https://t.co/s1Ywr1KJs3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_1984718463865081857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4si7WnWUAEJzxv.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "2055039589442601279",
+        "created_at": "2026-05-14T21:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T22:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055039589442601279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ycxyp599/statu…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/ycxyp599/status/1984718523873313089",
+              "start": 33,
+              "url": "https://t.co/s1Ywr1KJs3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055039589442601279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984718523873313089",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又开始喝。这款酒特别难喝啊，但因为是免费的喝出一点别样的情绪来。 https://t.co/s1Ywr1KJs3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984718463865081857"
+          ]
+        },
+        "author_id": "1805577098234675202",
+        "conversation_id": "1984718523873313089",
+        "created_at": "2025-11-01T20:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T21:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984718523873313089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZV6LALV9Oz",
+              "end": 27,
+              "expanded_url": "https://x.com/yCxYP599/status/1984718523873313089/photo/1",
+              "media_key": "3_1984718463865081857",
+              "start": 4,
+              "url": "https://t.co/ZV6LALV9Oz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984718523873313089",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2937,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好漂亮 https://t.co/ZV6LALV9Oz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci  ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "夢",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1412,
+          "following_count": 96,
+          "like_count": 12851,
+          "listed_count": 5,
+          "media_count": 124,
+          "tweet_count": 1883
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

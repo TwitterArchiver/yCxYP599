@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1901979470053232640"
+      ]
+    },
+    "author_id": "1805577098234675202",
+    "conversation_id": "1901979498649628796",
+    "created_at": "2025-03-18T12:50:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T13:50:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1901979498649628796"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WbbA6DIsPy",
+          "end": 95,
+          "expanded_url": "https://x.com/yCxYP599/status/1901979498649628796/photo/1",
+          "media_key": "3_1901979470053232640",
+          "start": 72,
+          "url": "https://t.co/WbbA6DIsPy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901979498649628796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "拍了非常之擦的照片，纠结了半个下午要不要发…实际上发了也不会开心或者留很久…也不会得到什么。就和我讲的话一样，讲不讲都是一样的。图片只是小狗。 https://t.co/WbbA6DIsPy"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1901979498649628796].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1901979498649628796",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1901979498649628796"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_1901979470053232640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmUwQDqb0AANU6F.jpg",
+        "width": 640
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你\n涂鸦册@jellyfishci\n储存日记和绘画，小女孩互fo欢迎DM\n湿哒哒的日记本，一直更新至终末的连载遗书\n\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 76,
+          "like_count": 8260,
+          "listed_count": 3,
+          "media_count": 73,
+          "tweet_count": 1269
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

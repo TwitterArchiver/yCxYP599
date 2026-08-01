@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1825148772814639303",
+    "created_at": "2024-08-19T12:55:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-19T13:55:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825516965722837383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1695764398739243008",
+          "start": 0,
+          "username": "huahua1155007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825516965722837383",
+    "in_reply_to_user_id": "1695764398739243008",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825516110218760448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahua1155007 宝宝，ooc是Over Of Character，一般多用于二创表不符合人物…oc才是Original Character，个人原创角色。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1825148772814639303",
+        "created_at": "2024-08-19T12:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T13:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825516965722837383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1695764398739243008",
+              "start": 0,
+              "username": "huahua1155007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825516965722837383",
+        "in_reply_to_user_id": "1695764398739243008",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825516110218760448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahua1155007 宝宝，ooc是Over Of Character，一般多用于二创表不符合人物…oc才是Original Character，个人原创角色。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695764398739243008",
+        "conversation_id": "1825148772814639303",
+        "created_at": "2024-08-19T12:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T13:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825516110218760448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805577098234675202",
+              "start": 0,
+              "username": "yCxYP599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825516110218760448",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825148772814639303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yCxYP599 画画？帮我画画我的ooc好吗老师"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "湿哒哒的日记本，一直更新至终末的连载遗书\n你好，我是小次，很高兴遇见你\n涂鸦产出@jellyfishchi\n无意冒犯，非黄推，请放过\n\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "jellyfishchi"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805582174843977731/MSJHMGOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 48,
+          "like_count": 3705,
+          "listed_count": 2,
+          "tweet_count": 660
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-27T11:45:22.000Z",
+        "description": "06年的男娘，是山东的，厌女，身高177体重138左右，是S还是足控，傲娇，厌世，不紫餐，有抑郁症",
+        "id": "1695764398739243008",
+        "location": "山东",
+        "name": "梓川花子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824606858113323008/FHhvFoxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 217,
+          "like_count": 1103,
+          "listed_count": 0,
+          "tweet_count": 327
+        },
+        "username": "huahua1155007",
+        "verified": false
+      }
+    ]
+  }
+}

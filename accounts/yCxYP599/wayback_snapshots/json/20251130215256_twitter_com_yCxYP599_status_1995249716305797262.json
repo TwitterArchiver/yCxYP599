@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995249547187007488"
+      ]
+    },
+    "author_id": "1805577098234675202",
+    "conversation_id": "1995249716305797262",
+    "created_at": "2025-11-30T21:52:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T22:52:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995249716305797262"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hFYVIeHDk2",
+          "end": 51,
+          "expanded_url": "https://x.com/yCxYP599/status/1995249716305797262/photo/1",
+          "media_key": "3_1995249547187007488",
+          "start": 28,
+          "url": "https://t.co/hFYVIeHDk2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995249716305797262",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "医生，你教给我的，缝合礼拜一到礼拜五的方法。\n没有用。 https://t.co/hFYVIeHDk2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 920,
+        "media_key": "3_1995249547187007488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7CM5FJXMAAPhYH.jpg",
+        "width": 1613
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995249547187007488"
+          ]
+        },
+        "author_id": "1805577098234675202",
+        "conversation_id": "1995249716305797262",
+        "created_at": "2025-11-30T21:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T22:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995249716305797262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hFYVIeHDk2",
+              "end": 51,
+              "expanded_url": "https://x.com/yCxYP599/status/1995249716305797262/photo/1",
+              "media_key": "3_1995249547187007488",
+              "start": 28,
+              "url": "https://t.co/hFYVIeHDk2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995249716305797262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "医生，你教给我的，缝合礼拜一到礼拜五的方法。\n没有用。 https://t.co/hFYVIeHDk2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci 储存日记和绘画 ｜ 湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1992926630533308432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1309,
+          "following_count": 95,
+          "like_count": 10793,
+          "listed_count": 4,
+          "media_count": 105,
+          "tweet_count": 1727
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

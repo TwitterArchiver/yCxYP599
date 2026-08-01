@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1993432116882030892",
+    "created_at": "2025-11-25T21:35:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T22:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993433313462399442"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1993433313462399442",
+    "in_reply_to_user_id": "1805577098234675202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993432116882030892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "偶尔喝多了会做一些怪事，但不会发血图（有可能绘制这样的作品，请原谅\n\n私信和评论都有点爆炸请容许小次慢慢回应。评论如果都回的话可能有点刷屏，不能一一回复的会通过另外的方式回应… …总之真的非常感谢！♡\n\n发生殖器会无言拉黑，请不要进行这样的行为…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1993432116882030892",
+        "created_at": "2025-11-25T21:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T22:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993433313462399442"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993433313462399442",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993432116882030892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "偶尔喝多了会做一些怪事，但不会发血图（有可能绘制这样的作品，请原谅\n\n私信和评论都有点爆炸请容许小次慢慢回应。评论如果都回的话可能有点刷屏，不能一一回复的会通过另外的方式回应… …总之真的非常感谢！♡\n\n发生殖器会无言拉黑，请不要进行这样的行为…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1993432116882030892",
+        "created_at": "2025-11-25T21:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T22:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993432116882030892"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993432116882030892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没想到上一篇幼稚园作文一样的自我介绍引起了这么大关注，小次惶恐的同时非常感谢大家！实现了一直以来的小愿望…会一直画画的。\n\n还是有一点事情想说明一下，这个账号原本是作为湿哒哒的日记本存在，可能记录的眼泪很多，请小心翻阅…如果只是想看纯粹的高完成度绘画，可能另一个号会更多一点点。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci 储存日记和绘画 ｜ 湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1992926630533308432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 96,
+          "like_count": 10501,
+          "listed_count": 4,
+          "media_count": 104,
+          "tweet_count": 1715
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

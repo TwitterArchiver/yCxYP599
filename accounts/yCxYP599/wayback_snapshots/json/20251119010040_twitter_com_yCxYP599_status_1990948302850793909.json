@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1990948302850793909",
+    "created_at": "2025-11-19T01:00:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T02:00:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990948302850793909"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "一次性’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1dRKZ…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1dRKZanDOPMxB",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/1990948304956313600/gJ-FVNOy?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1990948304956313600/gJ-FVNOy?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 自习…",
+          "unwound_url": "https://twitter.com/i/spaces/1dRKZanDOPMxB/peek",
+          "url": "https://t.co/t0A7lQ8GdP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990948302850793909",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/t0A7lQ8GdP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1990948302850793909",
+        "created_at": "2025-11-19T01:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T02:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990948302850793909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "一次性’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1dRKZ…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1dRKZanDOPMxB",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1990948304956313600/gJ-FVNOy?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1990948304956313600/gJ-FVNOy?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 自习…",
+              "unwound_url": "https://twitter.com/i/spaces/1dRKZanDOPMxB/peek",
+              "url": "https://t.co/t0A7lQ8GdP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990948302850793909",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/t0A7lQ8GdP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜\n涂鸦册@jellyfishci 储存日记和绘画，\n小女孩互fo欢迎DM ｜\n湿哒哒的日记本，一直更新至终末的连载遗书 ｜\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1984697712411853144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 93,
+          "like_count": 10323,
+          "listed_count": 3,
+          "media_count": 105,
+          "tweet_count": 1699
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

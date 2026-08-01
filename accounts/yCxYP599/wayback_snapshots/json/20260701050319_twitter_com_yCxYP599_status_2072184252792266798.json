@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "2072182818730344781",
+    "created_at": "2026-07-01T05:03:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T06:03:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072184252792266798"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072184252792266798",
+    "in_reply_to_user_id": "1805577098234675202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072182818730344781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然感觉不是一个人这样活着，隐约有点安心。但人就算一起死也寂寞的感觉也不会减轻分毫。这种感觉还是算了吧！去咨询也是莫名其妙，一个小时光讲废话了，还是之前已经哭了太多次的事情，没有情绪地讲了一堆让人困惑的事，感觉咨询师为职业道德绞尽脑汁总结中… …"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "2072182818730344781",
+        "created_at": "2026-07-01T05:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T06:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072184252792266798"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072184252792266798",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072182818730344781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然感觉不是一个人这样活着，隐约有点安心。但人就算一起死也寂寞的感觉也不会减轻分毫。这种感觉还是算了吧！去咨询也是莫名其妙，一个小时光讲废话了，还是之前已经哭了太多次的事情，没有情绪地讲了一堆让人困惑的事，感觉咨询师为职业道德绞尽脑汁总结中… …"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "2072182818730344781",
+        "created_at": "2026-07-01T04:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T05:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072182818730344781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072182818730344781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前几天在咨询室门口还遇到网友了，被叫小次的时候吓飞了。两个人都是感觉谈话不能解决什么，但是预约了感觉跑路也不好，勉勉强强维持人形中，笑了。本来那天心情超级烂地想去随便穿个耳洞，但因为一起买了大桶冰淇淋就光速回家了。想到她说很害怕回复消息，所以也没再联系过。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "0.44km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1438,
+          "following_count": 96,
+          "like_count": 13030,
+          "listed_count": 5,
+          "media_count": 127,
+          "tweet_count": 1899
+        },
+        "url": "",
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

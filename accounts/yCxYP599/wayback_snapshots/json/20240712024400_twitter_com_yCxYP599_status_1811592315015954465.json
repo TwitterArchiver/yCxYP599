@@ -1,0 +1,171 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "16_1811592218697957377"
+      ]
+    },
+    "author_id": "1805577098234675202",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1811592315015954465",
+    "created_at": "2024-07-12T02:44:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-12T03:44:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1811592315015954465"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/IV0l5CdUVR",
+          "end": 34,
+          "expanded_url": "https://twitter.com/yCxYP599/status/1811592315015954465/photo/1",
+          "media_key": "16_1811592218697957377",
+          "start": 11,
+          "url": "https://t.co/IV0l5CdUVR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811592315015954465",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "三年前的画，眨眼眨眼 https://t.co/IV0l5CdUVR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 168,
+        "media_key": "16_1811592218697957377",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GSQRhlFagAEUAVH.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GSQRhlFagAEUAVH.mp4"
+          }
+        ],
+        "width": 114
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "16_1811592218697957377"
+          ]
+        },
+        "author_id": "1805577098234675202",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1811592315015954465",
+        "created_at": "2024-07-12T02:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T03:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811592315015954465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/IV0l5CdUVR",
+              "end": 34,
+              "expanded_url": "https://twitter.com/yCxYP599/status/1811592315015954465/photo/1",
+              "media_key": "16_1811592218697957377",
+              "start": 11,
+              "url": "https://t.co/IV0l5CdUVR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811592315015954465",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三年前的画，眨眼眨眼 https://t.co/IV0l5CdUVR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "湿哒哒的日记本/谨慎翻阅/画画@jellyfishchi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "jellyfishchi"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1808644238873350411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805582174843977731/MSJHMGOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 25,
+          "like_count": 1961,
+          "listed_count": 0,
+          "tweet_count": 318
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

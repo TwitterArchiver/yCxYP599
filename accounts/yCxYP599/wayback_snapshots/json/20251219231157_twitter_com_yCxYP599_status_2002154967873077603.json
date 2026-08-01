@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "2002065838460014862",
+    "created_at": "2025-12-19T23:11:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T00:11:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002154967873077603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1577334429248544770",
+          "start": 0,
+          "username": "Re_miss7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002154967873077603",
+    "in_reply_to_user_id": "1577334429248544770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002070445462532510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Re_miss7 友友咋这么溺爱…爱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "2002065838460014862",
+        "created_at": "2025-12-19T23:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T00:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002154967873077603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1577334429248544770",
+              "start": 0,
+              "username": "Re_miss7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002154967873077603",
+        "in_reply_to_user_id": "1577334429248544770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002070445462532510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Re_miss7 友友咋这么溺爱…爱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577334429248544770",
+        "conversation_id": "2002065838460014862",
+        "created_at": "2025-12-19T17:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T18:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002070445462532510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805577098234675202",
+              "start": 0,
+              "username": "yCxYP599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002070445462532510",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002065838460014862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yCxYP599 咋这么萌……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci  ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "夢",
+        "name": "一次性",
+        "pinned_tweet_id": "2000332704215396585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1299,
+          "following_count": 96,
+          "like_count": 11789,
+          "listed_count": 4,
+          "media_count": 117,
+          "tweet_count": 1805
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-04T16:27:04.000Z",
+        "description": "",
+        "id": "1577334429248544770",
+        "name": "青柏雨季",
+        "pinned_tweet_id": "1993693546118025692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001537011161968640/l7nNxPaG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 27,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 39
+        },
+        "username": "Re_miss7",
+        "verified": false
+      }
+    ]
+  }
+}

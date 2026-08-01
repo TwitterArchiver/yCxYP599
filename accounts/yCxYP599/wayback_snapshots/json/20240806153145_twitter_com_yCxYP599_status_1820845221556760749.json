@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1820844610601783735",
+    "created_at": "2024-08-06T15:31:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-06T16:31:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820845221556760749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1785505247575805953",
+          "start": 0,
+          "username": "R1ka_uniguri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820845221556760749",
+    "in_reply_to_user_id": "1785505247575805953",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820844610601783735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R1ka_uniguri 好喜欢这句，太弱小了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1820844610601783735",
+        "created_at": "2024-08-06T15:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-06T16:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820845221556760749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1785505247575805953",
+              "start": 0,
+              "username": "R1ka_uniguri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820845221556760749",
+        "in_reply_to_user_id": "1785505247575805953",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820844610601783735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R1ka_uniguri 好喜欢这句，太弱小了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785505247575805953",
+        "conversation_id": "1820844610601783735",
+        "created_at": "2024-08-06T15:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-06T16:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820844610601783735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jellyfishchi/s…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/jellyfishchi/status/1820843720545309004",
+              "start": 23,
+              "url": "https://t.co/iABHkI5E8I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820844610601783735",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820843720545309004",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "愛 死\n\n流星的軌跡橡皮擦可擦不掉 太弱小了 https://t.co/iABHkI5E8I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "湿哒哒的日记本，一直更新至终末的连载遗书\n你好，我是小次，很高兴遇见你\n涂鸦产出@jellyfishchi\n\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "jellyfishchi"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1809159826595033189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805582174843977731/MSJHMGOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 32,
+          "like_count": 2983,
+          "listed_count": 0,
+          "tweet_count": 512
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-01T03:03:28.000Z",
+        "description": "記住我了嗎？",
+        "id": "1785505247575805953",
+        "location": "🦔💐",
+        "name": "Rika🧊",
+        "pinned_tweet_id": "1820482903119413522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817278517413064704/MKjHp9OH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 184,
+          "like_count": 1756,
+          "listed_count": 0,
+          "tweet_count": 3376
+        },
+        "username": "R1ka_uniguri",
+        "verified": false
+      }
+    ]
+  }
+}

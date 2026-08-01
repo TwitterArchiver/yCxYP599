@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045927258574016512"
+      ]
+    },
+    "author_id": "1805577098234675202",
+    "conversation_id": "2045927264404058386",
+    "created_at": "2026-04-19T18:07:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T19:07:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045927264404058386"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/O1qeQwGIUD",
+          "end": 36,
+          "expanded_url": "https://x.com/yCxYP599/status/2045927264404058386/photo/1",
+          "media_key": "3_2045927258574016512",
+          "start": 13,
+          "url": "https://t.co/O1qeQwGIUD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045927264404058386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没关系，痕迹总会消失的。 https://t.co/O1qeQwGIUD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2045927258574016512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGSYAHuX0AAOckv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045927258574016512"
+          ]
+        },
+        "author_id": "1805577098234675202",
+        "conversation_id": "2045927264404058386",
+        "created_at": "2026-04-19T18:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T19:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045927264404058386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O1qeQwGIUD",
+              "end": 36,
+              "expanded_url": "https://x.com/yCxYP599/status/2045927264404058386/photo/1",
+              "media_key": "3_2045927258574016512",
+              "start": 13,
+              "url": "https://t.co/O1qeQwGIUD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045927264404058386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没关系，痕迹总会消失的。 https://t.co/O1qeQwGIUD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci  ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "夢",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 96,
+          "like_count": 12567,
+          "listed_count": 5,
+          "media_count": 123,
+          "tweet_count": 1865
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

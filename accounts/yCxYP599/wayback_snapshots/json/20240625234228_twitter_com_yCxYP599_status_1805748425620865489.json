@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1805746676084490564",
+    "created_at": "2024-06-25T23:42:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T00:42:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805748425620865489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1761346357124845568",
+          "start": 0,
+          "username": "ju_bai25382"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805748425620865489",
+    "in_reply_to_user_id": "1761346357124845568",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805746676084490564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ju_bai25382 菊花超市写手求放过啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1805746676084490564",
+        "created_at": "2024-06-25T23:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T00:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805748425620865489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1761346357124845568",
+              "start": 0,
+              "username": "ju_bai25382"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805748425620865489",
+        "in_reply_to_user_id": "1761346357124845568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805746676084490564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ju_bai25382 菊花超市写手求放过啊啊啊"
+      },
+      {
+        "attachments": {},
+        "author_id": "1761346357124845568",
+        "conversation_id": "1805746676084490564",
+        "created_at": "2024-06-25T23:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T00:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805746676084490564"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1805746676084490564",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们能不能别再让吴邪的皮炎抽烟了，那个地方只能往外放出气体啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "湿哒哒的日记本/话很密集/女孩子会回fo",
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1805622688352031205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805582174843977731/MSJHMGOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 36,
+          "listed_count": 0,
+          "tweet_count": 10
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T11:04:40.000Z",
+        "description": "say｜18⬇️ intp｜od 自残｜🥹请和我互fo🥹｜二棒小姐姐一枚呀｜ j7妹｜itsuki 文和 rei｜口嗨类型同人女，均已与原作割席｜主页内含高浓度无营养成分｜",
+        "id": "1761346357124845568",
+        "name": "just say anything",
+        "pinned_tweet_id": "1780738682229760424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793999938684334081/qdZcOisB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 32,
+          "like_count": 2139,
+          "listed_count": 0,
+          "tweet_count": 491
+        },
+        "username": "ju_bai25382",
+        "verified": false
+      }
+    ]
+  }
+}

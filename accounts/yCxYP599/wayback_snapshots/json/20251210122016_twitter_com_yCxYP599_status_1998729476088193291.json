@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1998508573383602603",
+    "created_at": "2025-12-10T12:20:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T13:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998729476088193291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1689623550779604992",
+          "start": 0,
+          "username": "makuraryu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998729476088193291",
+    "in_reply_to_user_id": "1689623550779604992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998716187719643376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@makuraryu 谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1998508573383602603",
+        "created_at": "2025-12-10T12:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T13:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998729476088193291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1689623550779604992",
+              "start": 0,
+              "username": "makuraryu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998729476088193291",
+        "in_reply_to_user_id": "1689623550779604992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998716187719643376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@makuraryu 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689623550779604992",
+        "conversation_id": "1998508573383602603",
+        "created_at": "2025-12-10T11:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T12:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998716187719643376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805577098234675202",
+              "start": 0,
+              "username": "yCxYP599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998716187719643376",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998508573383602603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yCxYP599 萌！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci 储存日记和绘画 ｜ 湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "夢",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 97,
+          "like_count": 11166,
+          "listed_count": 4,
+          "media_count": 111,
+          "tweet_count": 1761
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-10T13:03:47.000Z",
+        "description": "发誓！CN&JP&EN",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/makuraryu",
+                "end": 23,
+                "expanded_url": "https://bento.me/makuraryu",
+                "start": 0,
+                "url": "https://t.co/mKcqXZHept"
+              }
+            ]
+          }
+        },
+        "id": "1689623550779604992",
+        "location": "甜蜜的死亡",
+        "name": "流水水水水水🍶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998705289751900160/LoRIJz2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 452,
+          "like_count": 4822,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1118
+        },
+        "url": "https://t.co/mKcqXZHept",
+        "username": "makuraryu",
+        "verified": false
+      }
+    ]
+  }
+}

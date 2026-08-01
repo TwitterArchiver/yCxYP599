@@ -1,0 +1,96 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1816789846511485303",
+    "created_at": "2024-07-26T10:57:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-26T11:57:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1816789846511485303"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1816789846511485303",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我希望我的角色都生活在一个清醒的梦里面，很少脱离当下，对自己的生活没有一个整体叙事的空间，一生的故事只是随波逐流地从一个时刻漂到另一个时刻。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1816789846511485303",
+        "created_at": "2024-07-26T10:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T11:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816789846511485303"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1816789846511485303",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我希望我的角色都生活在一个清醒的梦里面，很少脱离当下，对自己的生活没有一个整体叙事的空间，一生的故事只是随波逐流地从一个时刻漂到另一个时刻。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "湿哒哒的日记本，一直更新至终末的连载遗书\n你好，我是小次，很高兴遇见你\n涂鸦产出@jellyfishchi\n\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "jellyfishchi"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1816268813765337467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805582174843977731/MSJHMGOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 30,
+          "like_count": 2465,
+          "listed_count": 0,
+          "tweet_count": 406
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

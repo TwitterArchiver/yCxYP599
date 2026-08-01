@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072082945511231490"
+      ]
+    },
+    "author_id": "1805577098234675202",
+    "conversation_id": "2072083016420147325",
+    "created_at": "2026-06-30T22:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T23:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072083016420147325"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1nuhE70STQ",
+          "end": 43,
+          "expanded_url": "https://x.com/yCxYP599/status/2072083016420147325/photo/1",
+          "media_key": "3_2072082945511231490",
+          "start": 20,
+          "url": "https://t.co/1nuhE70STQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072083016420147325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我努力维持的自我，是一种空无一物的东西 https://t.co/1nuhE70STQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2072082945511231490",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMGEdehXkAI2PjJ.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072082945511231490"
+          ]
+        },
+        "author_id": "1805577098234675202",
+        "conversation_id": "2072083016420147325",
+        "created_at": "2026-06-30T22:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T23:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072083016420147325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1nuhE70STQ",
+              "end": 43,
+              "expanded_url": "https://x.com/yCxYP599/status/2072083016420147325/photo/1",
+              "media_key": "3_2072082945511231490",
+              "start": 20,
+              "url": "https://t.co/1nuhE70STQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072083016420147325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我努力维持的自我，是一种空无一物的东西 https://t.co/1nuhE70STQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "0.44km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1438,
+          "following_count": 96,
+          "like_count": 13023,
+          "listed_count": 5,
+          "media_count": 127,
+          "tweet_count": 1896
+        },
+        "url": "",
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

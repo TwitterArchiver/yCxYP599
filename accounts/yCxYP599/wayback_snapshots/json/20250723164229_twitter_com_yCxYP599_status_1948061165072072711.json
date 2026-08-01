@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1948060087219544267",
+    "created_at": "2025-07-23T16:42:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T17:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948061165072072711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1677530479782768641",
+          "start": 0,
+          "username": "bai57248"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948061165072072711",
+    "in_reply_to_user_id": "1677530479782768641",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948060680642543954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bai57248 double痛苦…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1948060087219544267",
+        "created_at": "2025-07-23T16:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T17:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948061165072072711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1677530479782768641",
+              "start": 0,
+              "username": "bai57248"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948061165072072711",
+        "in_reply_to_user_id": "1677530479782768641",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948060680642543954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bai57248 double痛苦…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677530479782768641",
+        "conversation_id": "1948060087219544267",
+        "created_at": "2025-07-23T16:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T17:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948060680642543954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805577098234675202",
+              "start": 0,
+              "username": "yCxYP599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948060680642543954",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948060087219544267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yCxYP599 画不出来好痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜\n涂鸦册@jellyfishci 储存日记和绘画，\n小女孩互fo欢迎DM ｜\n湿哒哒的日记本，一直更新至终末的连载遗书 ｜\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1947424901104865391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 86,
+          "like_count": 9481,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 1506
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T04:10:14.000Z",
+        "description": "泉//类日记，包含无意义喊话",
+        "id": "1677530479782768641",
+        "name": "椅子米",
+        "pinned_tweet_id": "1945267850026918154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842627624369106944/PT5HoBhP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5994,
+          "following_count": 760,
+          "like_count": 38864,
+          "listed_count": 8,
+          "media_count": 1625,
+          "tweet_count": 9678
+        },
+        "username": "bai57248",
+        "verified": false
+      }
+    ]
+  }
+}

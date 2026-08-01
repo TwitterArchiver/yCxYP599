@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1858497802793615619",
+    "created_at": "2024-11-18T14:46:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T15:46:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858522145355427843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1852398390874910722",
+          "start": 0,
+          "username": "bbbrokenbold"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858522145355427843",
+    "in_reply_to_user_id": "1852398390874910722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858500544773652628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbbrokenbold 咕噜咕噜咕噜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1858497802793615619",
+        "created_at": "2024-11-18T14:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T15:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858522145355427843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1852398390874910722",
+              "start": 0,
+              "username": "bbbrokenbold"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858522145355427843",
+        "in_reply_to_user_id": "1852398390874910722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858500544773652628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbbrokenbold 咕噜咕噜咕噜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852398390874910722",
+        "conversation_id": "1858497802793615619",
+        "created_at": "2024-11-18T13:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T14:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858500544773652628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805577098234675202",
+              "start": 0,
+              "username": "yCxYP599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858500544773652628",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858497802793615619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yCxYP599 小猫可以陪你咕噜咕噜一整天，咕噜噜噜……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你\n涂鸦产出@jellyfishci\n储存日记和绘画，社恐熟起来才会多讲话\n湿哒哒的日记本，一直更新至终末的连载遗书\n\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 61,
+          "like_count": 5721,
+          "listed_count": 2,
+          "tweet_count": 1006
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-01T17:12:59.000Z",
+        "description": "进不去围城，就自建城墙。支持:神鹰:自以为高人一等的都给我飞起来；可以聊涩涩；可以问我一些知识问题，大学往下嗷。",
+        "id": "1852398390874910722",
+        "location": "围城里砌墙",
+        "name": "碎碎碎先生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855448413636370432/9smRyOeN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 107,
+          "like_count": 30,
+          "listed_count": 0,
+          "tweet_count": 32
+        },
+        "username": "bbbrokenbold",
+        "verified": false
+      }
+    ]
+  }
+}

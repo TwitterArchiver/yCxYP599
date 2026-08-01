@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957867317611634688"
+      ]
+    },
+    "author_id": "1805577098234675202",
+    "conversation_id": "1957867322430919156",
+    "created_at": "2025-08-19T18:08:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T19:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957867322430919156"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/v030yyu1xq",
+          "end": 23,
+          "expanded_url": "https://x.com/yCxYP599/status/1957867322430919156/photo/1",
+          "media_key": "3_1957867317611634688",
+          "start": 0,
+          "url": "https://t.co/v030yyu1xq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957867322430919156",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/v030yyu1xq"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1957867322430919156].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1957867322430919156",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1957867322430919156"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1957867317611634688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyu987-WoAAylrV.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜\n涂鸦册@jellyfishci 储存日记和绘画，\n小女孩互fo欢迎DM ｜\n湿哒哒的日记本，一直更新至终末的连载遗书 ｜\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "pinned_tweet_id": "1947424901104865391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 89,
+          "like_count": 9663,
+          "listed_count": 3,
+          "media_count": 88,
+          "tweet_count": 1557
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

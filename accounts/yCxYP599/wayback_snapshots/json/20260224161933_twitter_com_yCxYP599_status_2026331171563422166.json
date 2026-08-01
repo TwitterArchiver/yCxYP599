@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "2026331171563422166",
+    "created_at": "2026-02-24T16:19:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T17:19:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026331171563422166"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2026331171563422166",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "打耳窝钉真的痛到感觉灵魂都掉出来，听到针穿过皮肉、破开骨头的烟花声。有些迷恋这些痛得拒绝待在这里，但还是归于平静的时刻。你会没事的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "2026331171563422166",
+        "created_at": "2026-02-24T16:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T17:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026331171563422166"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026331171563422166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打耳窝钉真的痛到感觉灵魂都掉出来，听到针穿过皮肉、破开骨头的烟花声。有些迷恋这些痛得拒绝待在这里，但还是归于平静的时刻。你会没事的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci  ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "夢",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 95,
+          "like_count": 12369,
+          "listed_count": 5,
+          "media_count": 121,
+          "tweet_count": 1840
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

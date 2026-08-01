@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "1970289616549707869",
+    "created_at": "2025-09-23T00:50:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T01:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970289616549707869"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1970289616549707869",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "十岁的时候家里突然出变故，于是只好搬到起床太快会磕头的小阁楼里住。家人都变成歇斯底里的精神病，有很长一段时间我都害怕他们捅死彼此，所以每次见面都把尖锐物品藏起来。大家在车里吵架，以前很害怕谁一激动干脆把车开到河里去，后来逐渐觉得这样也好的时候，全家人都从精神病变回正常人了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "1970289616549707869",
+        "created_at": "2025-09-23T00:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T01:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970289616549707869"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970289616549707869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "十岁的时候家里突然出变故，于是只好搬到起床太快会磕头的小阁楼里住。家人都变成歇斯底里的精神病，有很长一段时间我都害怕他们捅死彼此，所以每次见面都把尖锐物品藏起来。大家在车里吵架，以前很害怕谁一激动干脆把车开到河里去，后来逐渐觉得这样也好的时候，全家人都从精神病变回正常人了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜\n涂鸦册@jellyfishci 储存日记和绘画，\n小女孩互fo欢迎DM ｜\n湿哒哒的日记本，一直更新至终末的连载遗书 ｜\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 90,
+          "like_count": 9740,
+          "listed_count": 4,
+          "media_count": 91,
+          "tweet_count": 1594
+        },
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

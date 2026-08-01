@@ -1,0 +1,20 @@
+{
+  "name": "一次性",
+  "username": "@yCxYP599",
+  "bio": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+  "location": "0.44km",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 32,
+        "start": 20,
+        "username": "jellyfishci"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg"
+}

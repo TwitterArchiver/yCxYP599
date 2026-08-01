@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1855672045734182927",
+    "created_at": "2024-11-10T18:12:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-10T19:12:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855674872023892282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1524368491515629568",
+          "start": 0,
+          "username": "YanamiAnna0365"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855674872023892282",
+    "in_reply_to_user_id": "1524368491515629568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855674111445643763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YanamiAnna0365 是吧是吧… …还有在每个人面前暴露自我的程度…这个人的礼貌健康积极人设大概是这么多…＼(;´□｀)/一起放弃思考吧（喂）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1855672045734182927",
+        "created_at": "2024-11-10T18:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T19:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855674872023892282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1524368491515629568",
+              "start": 0,
+              "username": "YanamiAnna0365"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855674872023892282",
+        "in_reply_to_user_id": "1524368491515629568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855674111445643763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YanamiAnna0365 是吧是吧… …还有在每个人面前暴露自我的程度…这个人的礼貌健康积极人设大概是这么多…＼(;´□｀)/一起放弃思考吧（喂）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1524368491515629568",
+        "conversation_id": "1855672045734182927",
+        "created_at": "2024-11-10T18:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T19:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855674111445643763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805577098234675202",
+              "start": 0,
+              "username": "yCxYP599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855674111445643763",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855672045734182927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yCxYP599 同意。。能够和许多人同时熟络起来实在是太难了。。每次在发信息以前都要斟酌一百遍aaaa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你\n涂鸦产出@jellyfishci\n储存日记和绘画，社恐熟起来才会多讲话\n湿哒哒的日记本，一直更新至终末的连载遗书\n\n请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "2km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 60,
+          "like_count": 5665,
+          "listed_count": 2,
+          "tweet_count": 998
+        },
+        "username": "yCxYP599",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-11T12:39:12.000Z",
+        "description": "死人微活//关注是因为想视奸你//喜欢看漂亮的人//完全不发推（（//别捅我。。",
+        "id": "1524368491515629568",
+        "name": "前茅99",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855674289644883968/Yw9V1SHU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 141,
+          "like_count": 467,
+          "listed_count": 1,
+          "tweet_count": 16
+        },
+        "username": "YanamiAnna0365",
+        "verified": false
+      }
+    ]
+  }
+}
