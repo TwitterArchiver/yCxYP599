@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "2090945716612968497",
+    "created_at": "2026-08-21T23:34:41.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T00:34:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090945716612968497"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ycxyp599/statu…",
+          "end": 99,
+          "expanded_url": "https://twitter.com/ycxyp599/status/2084377819811876916",
+          "start": 76,
+          "url": "https://t.co/mkr4X3sL7j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090945716612968497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084377819811876916",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "朋友为了给我送一块蛋糕，又坐火车又走了许多路。她划动火柴的时候，我的眼泪像火焰一样翻涌起来。人与人之间只有一个瞬间的话，我想要你心疼我时掉的那滴眼泪。 https://t.co/mkr4X3sL7j"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "2090945716612968497",
+        "created_at": "2026-08-21T23:34:41.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T00:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090945716612968497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ycxyp599/statu…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/ycxyp599/status/2084377819811876916",
+              "start": 76,
+              "url": "https://t.co/mkr4X3sL7j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090945716612968497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084377819811876916",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "朋友为了给我送一块蛋糕，又坐火车又走了许多路。她划动火柴的时候，我的眼泪像火焰一样翻涌起来。人与人之间只有一个瞬间的话，我想要你心疼我时掉的那滴眼泪。 https://t.co/mkr4X3sL7j"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "2084377819811876916",
+        "created_at": "2026-08-03T20:36:12.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-03T21:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084377819811876916"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084377819811876916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 821,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友在电话那头嘟嘟囔囔地喊着，你真不会知道我有多恨那块蒜蓉面包，如果不是它我第二天就会和你一起去学校，然后我们就会成为最好的朋友。但是，朋友，不是这样的。或许我们会因为上同一节课而成为更加亲密的朋友，也可能因为一点误会闹的不相往来。我过去很讨厌人和人只要有一个瞬间就够了这种说法，"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "is_identity_verified": false,
+        "location": "0.44km",
+        "most_recent_tweet_id": "2090945716612968497",
+        "name": "一次性",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805577098234675202/1729464410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 100,
+          "like_count": 13946,
+          "listed_count": 5,
+          "media_count": 138,
+          "tweet_count": 1973
+        },
+        "url": "",
+        "username": "yCxYP599",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088337257321177090"
+      ]
+    },
+    "author_id": "1805577098234675202",
+    "conversation_id": "2088337407292661875",
+    "created_at": "2026-08-14T18:50:11.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T19:50:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088337407292661875"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1L67t4BdCm",
+          "end": 23,
+          "expanded_url": "https://x.com/yCxYP599/status/2088337407292661875/photo/1",
+          "media_key": "3_2088337257321177090",
+          "start": 0,
+          "url": "https://t.co/1L67t4BdCm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088337407292661875",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2088337257321177090"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/1L67t4BdCm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2088337257321177090",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPtDq8nXoAIvIkf.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088337257321177090"
+          ]
+        },
+        "author_id": "1805577098234675202",
+        "conversation_id": "2088337407292661875",
+        "created_at": "2026-08-14T18:50:11.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T19:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088337407292661875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1L67t4BdCm",
+              "end": 23,
+              "expanded_url": "https://x.com/yCxYP599/status/2088337407292661875/photo/1",
+              "media_key": "3_2088337257321177090",
+              "start": 0,
+              "url": "https://t.co/1L67t4BdCm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088337407292661875",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088337257321177090"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1L67t4BdCm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "is_identity_verified": false,
+        "location": "0.44km",
+        "most_recent_tweet_id": "2088337407292661875",
+        "name": "一次性",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805577098234675202/1729464410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1462,
+          "following_count": 98,
+          "like_count": 13805,
+          "listed_count": 5,
+          "media_count": 137,
+          "tweet_count": 1957
+        },
+        "url": "",
+        "username": "yCxYP599",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

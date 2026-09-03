@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "2086628968833089747",
+    "created_at": "2026-08-10T01:41:28.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T02:41:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086628968833089747"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/harumak_11/sta…",
+          "end": 96,
+          "expanded_url": "https://twitter.com/harumak_11/status/2085582958828937282",
+          "start": 73,
+          "url": "https://t.co/GXDEzmYOVm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086628968833089747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085582958828937282",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太殘酷了。所以我一直想問的那個問題是，人其實不是天然有資格活在世界上的，對嗎？我總是覺得或許有一天我會失去存活的資格，如果我沒辦法有用起來的話。 https://t.co/GXDEzmYOVm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "2086628968833089747",
+        "created_at": "2026-08-10T01:41:28.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T02:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086628968833089747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/harumak_11/sta…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/harumak_11/status/2085582958828937282",
+              "start": 73,
+              "url": "https://t.co/GXDEzmYOVm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086628968833089747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085582958828937282",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太殘酷了。所以我一直想問的那個問題是，人其實不是天然有資格活在世界上的，對嗎？我總是覺得或許有一天我會失去存活的資格，如果我沒辦法有用起來的話。 https://t.co/GXDEzmYOVm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "959666744485752833",
+        "card_uri": "https://t.co/QZwYDtfJmD",
+        "conversation_id": "2085582958828937282",
+        "created_at": "2026-08-07T04:25:00.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-07T05:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085582958828937282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Disability, shame, and the hidden violence of a culture that equates productivity with value",
+              "display_url": "itsmevox.substack.com/p/im-38-and-i-…",
+              "end": 57,
+              "expanded_url": "https://itsmevox.substack.com/p/im-38-and-i-cant-support-myself-anymore",
+              "images": [
+                {
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/news_img/2085582961391644672/L-OB-lx4?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2085582961391644672/L-OB-lx4?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 34,
+              "status": 200,
+              "title": "I’m 38 and I Can’t Support Myself Anymore",
+              "unwound_url": "https://itsmevox.substack.com/p/im-38-and-i-cant-support-myself-anymore",
+              "url": "https://t.co/QZwYDtfJmD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085582958828937282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "itsmevox.substack.com/p/im-38-and-i-…",
+                "end": 57,
+                "expanded_url": "https://itsmevox.substack.com/p/im-38-and-i-cant-support-myself-anymore",
+                "start": 34,
+                "url": "https://t.co/SlfJiZIG3h"
+              }
+            ]
+          },
+          "text": "私は38 歳ですが、もう自分で生計を立てられなくなった、という記事\nhttps://t.co/SlfJiZIG3h\n\n・38歳にして母親にお金を借りるメールを送り、今後50年も安定した収入がないかもしれないという恐怖で泣き崩れた\n・経済的に役に立たない存在になることには奇妙な悲しみがあり、5年前に障害で働けなくなってからその痛みを痛感するようになった\n・世間では体調が悪くてもジムに行くような自己管理や規律が美徳として称賛されている\n\n・私たちは自らの価値を証明するために生産性を求めすぎており、働けないことを道徳的な敗北のように感じてしまう\n・現代の資本主義社会には、労働や規律を美徳とするプロテスタントの労働倫理が深く根づいている\n・健康とは労働に従事する能力のことだと定義され、自己啓発やウェルネスの分野でも体を極限まで最適化することが求められている\n・病気や障害を抱えると、働けないことに対する個人の恥や罪悪感を強く覚えるようになる\n・初対面の人から何を仕事にしているか尋ねられるたびに、人間をいかに収入に変換するかを値踏みされているように感じる\n・病気によって収入だけでなく、社会的に自分自身の価値を認めてもらう権利まで失ってしまう\n\n・社会の経済システムは、継続して働けない体に対して非常に厳しく作られている\n・障害を抱えて生きるには、医療費や日用品の配達、移動手段の確保など、健康な人よりもはるかに多くの費用がかかる\n・貧困を生き抜くための自炊や事務手続きなどの細かな作業さえも、闘病中の体にとっては膨大なエネルギーを消耗する\n・支援のための社会保障制度は不十分であり、受給資格を維持するために貯金を制限されるなど、当事者を貧困に縛り付ける仕組みになっている\n・少しでも多く稼ぐと支援が打ち切られるという矛盾した状況に直面する\n・慢性疾患は日によって体調が激しく変動するため、毎日同じ時間同じ能力で働くことを前提とした資本主義の仕組みと相容れない\n・外見からはわかりにくい障害は周囲から仮病ではないかと疑われやすく、当事者は自らの苦痛を証明するために多大な労力を費やすことになる\n\n・資本主義はすべての人間が他者に依存せず自立しているという幻想に基づいている\n・しかし実際には、誰一人として一人では生きていけず、周囲のケアや社会インフラという見えない支えによって成り立っている\n・社会は育児や介護などのケア労働を軽視しがちだが、どのような社会であってもケアなしには存続できない\n\n・働けなくなったことで生じる恥は、周囲への感謝と惨めさが混ざり合った複雑な感情をもたらす\n・この先も長く続く人生をどうやって生き延びればよいのかという不安が尽きない\n・かつては元気に働きやりたいことに没頭できていた過去を思い出すと、自主性を失った現在の喪失感が深く押し寄せる\n・家族に助けを求めることへの申し訳なさから、自分で生計を立てられない自分には生きる価値があるのかと悩んでしまう\n\n・人間の価値は経済的な価値だけではないと頭で理解していても、その思想から自分自身の心を解放するには長い時間がかかる\n・障害を持つと、人間の体は機械ではなく本来とても脆いものであるという現実に向き合わざるを得なくなる\n・障害者は、努力すれば価値を最大化できるという資本主義の都合の良い幻想を脅かすため、周囲に敬遠されやすい\n・お金を稼げない自分に対する恐怖や恥ずかしさは簡単には消えない\n・それでも、人間には労働効率だけではない何かが残されていると信じようとしている"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3960,
+          "impression_count": 871390,
+          "like_count": 5686,
+          "quote_count": 119,
+          "reply_count": 5,
+          "retweet_count": 1329
+        },
+        "reply_settings": "everyone",
+        "text": "私は38 歳ですが、もう自分で生計を立てられなくなった、という記事\nhttps://t.co/QZwYDtfJmD\n\n・38歳にして母親にお金を借りるメールを送り、今後50年も安定した収入がないかもしれないという恐怖で泣き崩れた"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "is_identity_verified": false,
+        "location": "0.44km",
+        "most_recent_tweet_id": "2086628968833089747",
+        "name": "一次性",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805577098234675202/1729464410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 99,
+          "like_count": 13705,
+          "listed_count": 5,
+          "media_count": 138,
+          "tweet_count": 1956
+        },
+        "url": "",
+        "username": "yCxYP599",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-02-03T05:55:56.000Z",
+        "description": "Unityエンジニア\n・note「設計と実践」: https://t.co/oL5KsFd40k\n・技術ブログ: https://t.co/HGdcEzU8kW\n・GitHub: https://t.co/pgcuVnK3kk\n・CyberAgent",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "note.com/haruma_k",
+                "end": 48,
+                "expanded_url": "https://note.com/haruma_k",
+                "start": 25,
+                "url": "https://t.co/oL5KsFd40k"
+              },
+              {
+                "display_url": "light11.hatenadiary.com",
+                "end": 80,
+                "expanded_url": "https://light11.hatenadiary.com/",
+                "start": 57,
+                "url": "https://t.co/HGdcEzU8kW"
+              },
+              {
+                "display_url": "github.com/Haruma-K",
+                "end": 113,
+                "expanded_url": "https://github.com/Haruma-K",
+                "start": 90,
+                "url": "https://t.co/pgcuVnK3kk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "light11.hatenadiary.com",
+                "end": 23,
+                "expanded_url": "http://light11.hatenadiary.com/",
+                "start": 0,
+                "url": "https://t.co/ZwdLOtXCCr"
+              }
+            ]
+          }
+        },
+        "id": "959666744485752833",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2085643860185661866",
+        "name": "Haruki Yano / Haruma-K",
+        "pinned_tweet_id": "2028271726698856487",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/959666744485752833/1531230723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1142812262278680577/U9nZVsiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4212,
+          "following_count": 536,
+          "like_count": 1364,
+          "listed_count": 64,
+          "media_count": 384,
+          "tweet_count": 3913
+        },
+        "url": "https://t.co/ZwdLOtXCCr",
+        "username": "harumak_11",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

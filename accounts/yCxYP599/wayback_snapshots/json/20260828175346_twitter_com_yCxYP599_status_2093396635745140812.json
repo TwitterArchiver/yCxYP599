@@ -1,0 +1,120 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "2093396635745140812",
+    "created_at": "2026-08-28T17:53:46.000Z",
+    "display_text_range": [
+      0,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T18:53:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093396635745140812"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2093396635745140812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在旧公寓最后的日子能记住的只有片段。最后的日子也不想做饭，于是总叫朋友X一起去酒吧吃穷鬼套餐，每次点套餐里度数最高的酒。喝完了就回家躺在地板上和朋友喋喋不休地讲话，总是那几件事情重复地说，说多了只觉得恶心。真恐怖，一件事我可以说这么多次。真恐怖，我的朋友可以听这么多次。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "2093396635745140812",
+        "created_at": "2026-08-28T17:53:46.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T18:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093396635745140812"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093396635745140812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在旧公寓最后的日子能记住的只有片段。最后的日子也不想做饭，于是总叫朋友X一起去酒吧吃穷鬼套餐，每次点套餐里度数最高的酒。喝完了就回家躺在地板上和朋友喋喋不休地讲话，总是那几件事情重复地说，说多了只觉得恶心。真恐怖，一件事我可以说这么多次。真恐怖，我的朋友可以听这么多次。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "is_identity_verified": false,
+        "location": "0.44km",
+        "most_recent_tweet_id": "2093396635745140812",
+        "name": "一次性",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805577098234675202/1729464410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1456,
+          "following_count": 100,
+          "like_count": 13928,
+          "listed_count": 5,
+          "media_count": 138,
+          "tweet_count": 1979
+        },
+        "url": "",
+        "username": "yCxYP599",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

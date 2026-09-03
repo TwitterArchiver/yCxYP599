@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "2083281270461595673",
+    "created_at": "2026-07-31T19:58:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T20:58:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083281270461595673"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083281270461595673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从医院出来的时候因为太迷茫了站着淋了好一会雨。一个人过来问我还好吗，嗯，下一句就是给你钱可以和我谈恋爱吗。我觉得我可能真的前一秒溺死了后一秒才可能听到这种话。狗屎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "2083281270461595673",
+        "created_at": "2026-07-31T19:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T20:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083281270461595673"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083281270461595673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从医院出来的时候因为太迷茫了站着淋了好一会雨。一个人过来问我还好吗，嗯，下一句就是给你钱可以和我谈恋爱吗。我觉得我可能真的前一秒溺死了后一秒才可能听到这种话。狗屎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "location": "0.44km",
+        "name": "一次性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1435,
+          "following_count": 98,
+          "like_count": 13443,
+          "listed_count": 5,
+          "media_count": 134,
+          "tweet_count": 1939
+        },
+        "url": "",
+        "username": "yCxYP599",
+        "verified": false
+      }
+    ]
+  }
+}

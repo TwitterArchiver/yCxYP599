@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "2092881789756882955",
+    "created_at": "2026-08-27T11:32:52.000Z",
+    "display_text_range": [
+      16,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T12:32:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092938391755039219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1306643152883703808",
+          "start": 0,
+          "username": "pedant71863002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092938391755039219",
+    "in_reply_to_user_id": "1306643152883703808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092886441315738022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pedant71863002 啊其实也还好，只是因为我上班不到一周hh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "2092881789756882955",
+        "created_at": "2026-08-27T11:32:52.000Z",
+        "display_text_range": [
+          16,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092938391755039219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1306643152883703808",
+              "start": 0,
+              "username": "pedant71863002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092938391755039219",
+        "in_reply_to_user_id": "1306643152883703808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092886441315738022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pedant71863002 啊其实也还好，只是因为我上班不到一周hh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1306643152883703808",
+        "conversation_id": "2092881789756882955",
+        "created_at": "2026-08-27T08:06:26.000Z",
+        "display_text_range": [
+          10,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T09:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092886441315738022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805577098234675202",
+              "start": 0,
+              "username": "yCxYP599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092886441315738022",
+        "in_reply_to_user_id": "1805577098234675202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092881789756882955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yCxYP599 哪里的房租感觉很贵的样子"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "is_identity_verified": false,
+        "location": "0.44km",
+        "most_recent_tweet_id": "2092938391755039219",
+        "name": "一次性",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805577098234675202/1729464410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 100,
+          "like_count": 13934,
+          "listed_count": 5,
+          "media_count": 138,
+          "tweet_count": 1976
+        },
+        "url": "",
+        "username": "yCxYP599",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-17T17:16:27.000Z",
+        "description": "INFP | AI | Software Engineer | Ancher  | Straight | Post Rock&Punk | JPOP",
+        "id": "1306643152883703808",
+        "is_identity_verified": false,
+        "location": "beijing",
+        "most_recent_tweet_id": "2092886441315738022",
+        "name": "o7is",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1306643152883703808/1728977218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965102666301992960/85hQvfHe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 89,
+          "like_count": 376,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 213
+        },
+        "url": "",
+        "username": "pedant71863002",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
