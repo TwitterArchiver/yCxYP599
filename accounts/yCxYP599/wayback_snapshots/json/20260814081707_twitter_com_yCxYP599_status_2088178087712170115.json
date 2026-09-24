@@ -1,0 +1,120 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1805577098234675202",
+    "conversation_id": "2088178087712170115",
+    "created_at": "2026-08-14T08:17:07.000Z",
+    "display_text_range": [
+      0,
+      138
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T09:17:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088178087712170115"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2088178087712170115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有一段时间我开始做一些很美满的梦，我过去抱有遗憾的人一个接一个出现在我眼前，连被送走的狗都回到我身边，同我好好说再见。总感觉自己轻飘飘的，好像正在慢慢离开这个身体，变成了更广阔的世界里的粒子，作为人时候的困扰如此幼稚又可笑。每天醒来我都不停地流泪，美梦太可怕了，醒来太可怕了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805577098234675202",
+        "conversation_id": "2088178087712170115",
+        "created_at": "2026-08-14T08:17:07.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T09:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088178087712170115"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088178087712170115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一段时间我开始做一些很美满的梦，我过去抱有遗憾的人一个接一个出现在我眼前，连被送走的狗都回到我身边，同我好好说再见。总感觉自己轻飘飘的，好像正在慢慢离开这个身体，变成了更广阔的世界里的粒子，作为人时候的困扰如此幼稚又可笑。每天醒来我都不停地流泪，美梦太可怕了，醒来太可怕了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "is_identity_verified": false,
+        "location": "0.44km",
+        "most_recent_tweet_id": "2088178087712170115",
+        "name": "一次性",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805577098234675202/1729464410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 98,
+          "like_count": 13793,
+          "listed_count": 5,
+          "media_count": 136,
+          "tweet_count": 1955
+        },
+        "url": "",
+        "username": "yCxYP599",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
