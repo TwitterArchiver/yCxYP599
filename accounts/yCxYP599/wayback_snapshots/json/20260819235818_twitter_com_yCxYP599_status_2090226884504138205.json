@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090226879823278080"
+      ]
+    },
+    "author_id": "1805577098234675202",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2090226884504138205",
+    "created_at": "2026-08-19T23:58:18.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T00:58:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090226884504138205"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3mDQixbL7f",
+          "end": 39,
+          "expanded_url": "https://x.com/yCxYP599/status/2090226884504138205/photo/1",
+          "media_key": "3_2090226879823278080",
+          "start": 16,
+          "url": "https://t.co/3mDQixbL7f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090226884504138205",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090226879823278080"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "只有不停地喝饮料才能待在电脑前 https://t.co/3mDQixbL7f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2090226879823278080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQH6Rc_W8AAzMYv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090226879823278080"
+          ]
+        },
+        "author_id": "1805577098234675202",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2090226884504138205",
+        "created_at": "2026-08-19T23:58:18.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T00:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090226884504138205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3mDQixbL7f",
+              "end": 39,
+              "expanded_url": "https://x.com/yCxYP599/status/2090226884504138205/photo/1",
+              "media_key": "3_2090226879823278080",
+              "start": 16,
+              "url": "https://t.co/3mDQixbL7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090226884504138205",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090226879823278080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只有不停地喝饮料才能待在电脑前 https://t.co/3mDQixbL7f"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-25T12:21:56.000Z",
+        "description": "你好，我是小次，很高兴遇见你 ｜ 涂鸦册@jellyfishci ｜ 这里是湿哒哒的日记本，一直更新至终末的连载遗书 ｜ 请在一次性的旅途中，再尽兴一点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "jellyfishci"
+              }
+            ]
+          }
+        },
+        "id": "1805577098234675202",
+        "is_identity_verified": false,
+        "location": "0.44km",
+        "most_recent_tweet_id": "2090226884504138205",
+        "name": "一次性",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805577098234675202/1729464410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848133795993812992/Umfhgx41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 99,
+          "like_count": 13942,
+          "listed_count": 5,
+          "media_count": 139,
+          "tweet_count": 1971
+        },
+        "url": "",
+        "username": "yCxYP599",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
